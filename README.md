@@ -73,18 +73,18 @@
 ## 🚀 Live Project Feed
 
 <div align="center">
-  <marquee direction="left" scrollamount="8" width="100%">
-    <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin"><img src="https://img.shields.io/badge/PROJECT-DEFI_STABLECOIN-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Stablecoin"/></a>
-    <img src="https://img.shields.io/badge/Stack-Solidity_|_Foundry_|_DeFi-333333?style=for-the-badge" alt="Stack"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry"><img src="https://img.shields.io/badge/PROJECT-RAFFLE_LOTTERY_(VRF)-FF7B00?style=for-the-badge&logo=github&logoColor=white" alt="Raffle"/></a>
-    <img src="https://img.shields.io/badge/Stack-Chainlink_VRF_|_Automation-333333?style=for-the-badge" alt="Stack"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT"><img src="https://img.shields.io/badge/PROJECT-ADVANCED_NFT_IPFS-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="NFT"/></a>
-    <img src="https://img.shields.io/badge/Stack-ERC721_|_Merkle_Trees-333333?style=for-the-badge" alt="Stack"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20"><img src="https://img.shields.io/badge/PROJECT-SISO_TOKEN_(ERC20)-2ecc71?style=for-the-badge&logo=github&logoColor=white" alt="ERC20"/></a>
-    <img src="https://img.shields.io/badge/Stack-Tokenomics_|_Burning-333333?style=for-the-badge" alt="Stack"/>
+  <marquee direction="left" scrollamount="6" width="100%">
+    <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin"><img src="https://img.shields.io/badge/Foundry_StableCoin-007AFF?style=flat-square&logo=github&logoColor=white" alt="Stablecoin"/></a>
+    <img src="https://img.shields.io/badge/Stack-Solidity_|_DeFi-151515?style=flat-square" alt="Stack"/>
+    &nbsp;&nbsp;⚡&nbsp;&nbsp;
+    <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry"><img src="https://img.shields.io/badge/Raffle_Lottery_(VRF)-FF7B00?style=flat-square&logo=github&logoColor=white" alt="Raffle"/></a>
+    <img src="https://img.shields.io/badge/Stack-Chainlink_|_Automation-151515?style=flat-square" alt="Stack"/>
+    &nbsp;&nbsp;⚡&nbsp;&nbsp;
+    <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT"><img src="https://img.shields.io/badge/Advanced_IPFS_NFT-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="NFT"/></a>
+    <img src="https://img.shields.io/badge/Stack-ERC721_|_Merkle-151515?style=flat-square" alt="Stack"/>
+    &nbsp;&nbsp;⚡&nbsp;&nbsp;
+    <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20"><img src="https://img.shields.io/badge/SISO_Token-2ecc71?style=flat-square&logo=github&logoColor=white" alt="ERC20"/></a>
+    <img src="https://img.shields.io/badge/Stack-ERC20_|_Tokenomics-151515?style=flat-square" alt="Stack"/>
   </marquee>
 </div>
 
