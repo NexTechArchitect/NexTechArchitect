@@ -6,9 +6,13 @@
 <table align="center">
 <tr>
 <td width="50%" valign="top">
-💡 What I do  
+  
+💡 What I do 
+
 ✏️ Designing secure smart contracts  
-🧱 Building DeFi & protocol-level systems  
+
+🧱 Building DeFi & protocol-level systems
+
 🔍 Focused on security, testing & architecture  
 
 
