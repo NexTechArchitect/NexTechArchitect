@@ -1,16 +1,15 @@
 <div align="center">
-    <h2 align="left">Hi, I am </h2>
+               <h2 align="left">Hi, I am </h2>
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect" alt="Typing Effect: NexTechArchitect">
   </h1>
 
 </div>
 
-<h3 align="center">
-  **Full-Stack Smart Contract Developer** | EVM Protocol Architect
-</h3>
+<h2 align="center">
+  Full-Stack Smart Contract Developer
+</h2>
 
----
 
 <table width="100%">
   <tr>
