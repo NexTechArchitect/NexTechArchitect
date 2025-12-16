@@ -30,9 +30,9 @@
     <td width="55%" valign="top">
       <h3>💡 What I do</h3>
       <ul>
-        <li>✏️ Designing secure smart contracts</li>
-        <li>🧱 Building DeFi & protocol-level systems</li>
-        <li>🔍 Focused on security, testing & architecture</li>
+        <li> ✏️ Designing secure smart contracts</li>
+        <li> 🧱 Building DeFi & protocol-level systems</li>
+        <li> 🔍 Focused on security, testing & architecture</li>
       </ul>
       <br/>
       <h3>🎯 Currently</h3>
