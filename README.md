@@ -1,20 +1,18 @@
+
 <h1 align="center">Hi 👋, I'm NexTechArchitect</h1>
-<h3 align="center">Full-Stack Smart Contract Engineer</h3>
+<h3 align="center">Smart Contract Engineer | Solidity • Foundry • EVM</h3>
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 💡 What I do  
 ✏️ Designing secure smart contracts  
 🧱 Building DeFi & protocol-level systems  
 🔍 Focused on security, testing & architecture  
 
-    </td>
-
-    <td width="50%" valign="top">
 
 🎯 Currently  
 🧠 Building protocol-level smart contracts  
@@ -22,7 +20,13 @@
 🚀 Moving towards full-stack smart contract development  
 🧪 Exploring DeFi mechanics, testing & system design  
 
-    </td>
-  </tr>
+</td>
+
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350"/>
+</td>
+</tr>
 </table>
+
+<br />
 
