@@ -54,7 +54,7 @@
 </table>
 ---
 
-## 🛠️ Technical Stack & Arsenal
+## 🛠️ Technical Stack & Tools
 
 ### **🧱 Smart Contract & EVM Core**
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/> <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white" alt="DeFi & DAO"/> <img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white" alt="EVM"/>
