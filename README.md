@@ -70,41 +70,50 @@
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 Live Project Feed
 
-### **🪙 Foundry DeFi StableCoin**
-> A decentralized, exogenous collateralized stablecoin (CDP). Engineered with heavy invariant & fuzz testing.  
-> 🛠 **Stack:** `Solidity` `Foundry` `DeFi`  
-> 🔗 **[View Repository](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)**
+<div align="center">
+  <marquee direction="left" scrollamount="8" width="100%">
+    
+    <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin" target="_blank">
+      <img src="https://img.shields.io/badge/PROJECT-DEFI_STABLECOIN-007AFF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Stack-Solidity_|_Foundry_|_DeFi-333333?style=for-the-badge" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry" target="_blank">
+      <img src="https://img.shields.io/badge/PROJECT-RAFFLE_LOTTERY_(VRF)-FF7B00?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Stack-Chainlink_VRF_|_Automation-333333?style=for-the-badge" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### **🎲 Raffle Lottery (VRF)**
-> Tamper-proof on-chain lottery system utilizing Chainlink VRF for verifiable randomness and automation.  
-> 🛠 **Stack:** `Chainlink VRF` `Automation` `Solidity`  
-> 🔗 **[View Repository](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)**
+    <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT" target="_blank">
+      <img src="https://img.shields.io/badge/PROJECT-ADVANCED_NFT_IPFS-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Stack-ERC721_|_Merkle_Trees-333333?style=for-the-badge" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### **🖼️ ERC721 Advanced NFT**
-> Custom NFT implementation featuring IPFS integration, dynamic metadata, and optimized gas usage.  
-> 🛠 **Stack:** `IPFS` `ERC721` `Merkle Trees`  
-> 🔗 **[View Repository](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)**
-
-### **🔥 SISO ERC20 Token**
-> A foundational token standard implementation featuring custom burning mechanics and tokenomics.  
-> 🛠 **Stack:** `ERC20` `Tokenomics`  
-> 🔗 **[View Repository](https://github.com/NexTechArchitect/SISO-Token-ERC20)**
+    <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20" target="_blank">
+      <img src="https://img.shields.io/badge/PROJECT-SISO_TOKEN_(ERC20)-2ecc71?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Stack-Tokenomics_|_Burning-333333?style=for-the-badge" />
+    
+  </marquee>
+</div>
 
 ---
 
-## 📈 Engineering Metrics
+## ⚡ Engineering Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
-</div>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=react&bg_color=151515&border_color=333333&title_color=007AFF&text_color=FFFFFF" height="160" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=react&bg_color=151515&border_color=333333&title_color=007AFF&icon_color=007AFF&text_color=FFFFFF" height="160" alt="Stats" />
 
-<br>
+  <br><br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=NexTechArchitect&theme=react&background=151515&border=333333&ring=007AFF&fire=FF7B00&currStreakLabel=007AFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="Streak Stats" width="80%" />
+
 </div>
 
 <br>
