@@ -29,19 +29,19 @@
 
 <p align="left">
   <a href="https://github.com/NexTechArchitect" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub" width="40"/>
+    <img src="https://img.icons8.com/wired/64/FFFFFF/github.png" alt="GitHub" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/linkedin.png" alt="LinkedIn" width="40"/>
+    <img src="https://img.icons8.com/wired/64/FFFFFF/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://x.com/itZ_AmiT0" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/twitterx.png" alt="Twitter" width="40"/>
+    <img src="https://img.icons8.com/wired/64/FFFFFF/twitterx.png" alt="Twitter" width="40"/>
   </a>
   <a href="mailto:amitthapa181133@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/email.png" alt="Email" width="40"/>
+    <img src="https://img.icons8.com/wired/64/FFFFFF/email-open.png" alt="Email" width="40"/>
   </a>
   <a href="https://t.me/NexTechDev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/telegram.png" alt="Telegram" width="40"/>
+    <img src="https://img.icons8.com/wired/64/FFFFFF/telegram-app.png" alt="Telegram" width="40"/>
   </a>
 </p>
     </td>
@@ -95,10 +95,10 @@
 ## 📈 EVM & Development Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=dark&hide_border=true&custom_title=NexTechArchitect%20Statistics&icon_color=00C3F2&text_color=FFFFFF&title_color=00C3F2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=5&theme=dark&hide_border=true&custom_title=Top%20Languages%20(EVM%20Focus)&text_color=FFFFFF&title_color=00C3F2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=default&hide_border=true&custom_title=NexTechArchitect%20Statistics&bg_color=191919&title_color=00C3F2&icon_color=00C3F2&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=5&theme=default&hide_border=true&custom_title=Top%20Languages%20(EVM%20Focus)&bg_color=191919&title_color=00C3F2&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=00C3F2" alt="Profile views" />
-</p>>
+</p>
