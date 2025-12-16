@@ -72,28 +72,86 @@
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Foundry DeFi StableCoin](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)** | A decentralized, exogenous collateralized stablecoin (CDP). Engineered with heavy invariant & fuzz testing. | `Solidity` `Foundry` `DeFi` |
-| **[Raffle Lottery (VRF)](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)** | Tamper-proof on-chain lottery system utilizing Chainlink VRF for verifiable randomness and automation. | `Chainlink VRF` `Automation` |
-| **[ERC721 Advanced NFT](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)** | Custom NFT implementation featuring IPFS integration, dynamic metadata, and optimized gas usage. | `IPFS` `ERC721` `Merkle Trees` |
-| **[SISO ERC20 Token](https://github.com/NexTechArchitect/SISO-Token-ERC20)** | A foundational token standard implementation featuring custom burning mechanics and tokenomics. | `ERC20` `Tokenomics` |
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 Foundry DeFi StableCoin</h3>
+      <p align="center">Decentralized, exogenous collateralized stablecoin (CDP) with invariant testing.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" />
+        <img src="https://img.shields.io/badge/DeFi-0052FF?style=flat-square&logo=ethereum&logoColor=white" />
+      </div>
+      <p align="center">
+        <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
+          <img src="https://img.shields.io/badge/View_Code-007AFF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎲 Raffle Lottery (VRF)</h3>
+      <p align="center">Tamper-proof lottery utilizing Chainlink VRF for verifiable randomness.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Chainlink_VRF-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FFD700?style=flat-square&logo=lightning&logoColor=black" />
+      </div>
+      <p align="center">
+        <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
+          <img src="https://img.shields.io/badge/View_Code-007AFF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 ERC721 Advanced NFT</h3>
+      <p align="center">IPFS integration, dynamic metadata, and optimized gas usage.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Merkle_Tree-2E8B57?style=flat-square&logo=opensea&logoColor=white" />
+      </div>
+      <p align="center">
+        <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
+          <img src="https://img.shields.io/badge/View_Code-007AFF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔥 SISO ERC20 Token</h3>
+      <p align="center">Foundational token standard with custom burning mechanics.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/ERC20-363636?style=flat-square&logo=ethereum&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tokenomics-FF4500?style=flat-square&logo=bitcoin&logoColor=white" />
+      </div>
+      <p align="center">
+        <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
+          <img src="https://img.shields.io/badge/View_Code-007AFF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Engineering Metrics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NexTechArchitect&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
-</div>
+  
+  <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="Streak" height="150" />
-</div>
+  <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="Streak" height="150" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=00000000&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 
-<br>
-
-<div align="center">
+  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=007AFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
