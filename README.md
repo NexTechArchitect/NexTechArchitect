@@ -3,26 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Full-Stack+Web3+Dev;Smart+Contract+Engineer" alt="Typing Effect: NexTechArchitect">
 </div>
 
-<div align="center">
-
-  <a href="https://github.com/NexTechArchitect" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/itZ_AmiT0" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:amitthapa181133@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/NexTechDev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-
-</div>
-
 <br />
 
 <table border="0" width="100%">
@@ -30,9 +10,9 @@
     <td width="55%" valign="top">
       <h3>💡 What I do</h3>
       <ul>
-        <li> ✏️ Designing secure smart contracts</li>
-        <li> 🧱 Building DeFi & protocol-level systems</li>
-        <li> 🔍 Focused on security, testing & architecture</li>
+        <li>✏️ Designing secure smart contracts</li>
+        <li>🧱 Building DeFi & protocol-level systems</li>
+        <li>🔍 Focused on security, testing & architecture</li>
       </ul>
       <br/>
       <h3>🎯 Currently</h3>
@@ -47,11 +27,34 @@
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coding Gif" width="90%"/>
       <br><br>
       <a href="mailto:amitthapa181133@gmail.com">
-        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ecc71?style=flat-square&logo=clockify&logoColor=white" alt="Open to Work" />
+        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF7B00?style=for-the-badge&logo=clockify&logoColor=white" alt="Open to Work" />
       </a>
     </td>
   </tr>
 </table>
+
+---
+
+## 📬 Connect Me
+
+<p align="left">
+  <a href="https://github.com/NexTechArchitect" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/itZ_AmiT0" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:amitthapa181133@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/NexTechDev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Technical Stack & Tools
@@ -81,10 +84,12 @@
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="Streak" height="150" />
 </div>
 
 <br>
