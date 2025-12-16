@@ -23,25 +23,25 @@
 * **EVM Architecture:** Designing and deploying secure, gas-efficient smart contracts.
 * **Protocol Development:** Expertise in DeFi primitives (CDPs, AMMs) and token standards (**ERC-20, ERC-721**).
 * **Security & Testing:** Utilizing **Foundry** for advanced unit, integration, and fuzz testing.
-* **Technology Stack:** Solidity, (Foundry), Web3.js, Ethers.js.
+* **Technology Stack:** Solidity, Rust (Foundry), Web3.js, Ethers.js.
 
 ### 🌐 Connect
 
 <p align="left">
   <a href="https://github.com/NexTechArchitect" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/48/FFFFFF/github.png" alt="GitHub" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/48/0A66C2/linkedin--v1.png" alt="LinkedIn" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin--v1.png" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://x.com/itZ_AmiT0" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/48/000000/twitterx.png" alt="Twitter" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="Twitter" width="40"/>
   </a>
   <a href="mailto:amitthapa181133@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/48/D82914/gmail.png" alt="Email" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/D82914/gmail.png" alt="Email" width="40"/>
   </a>
   <a href="https://t.me/NexTechDev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/48/2AABEE/telegram-app.png" alt="Telegram" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/2AABEE/telegram-app.png" alt="Telegram" width="40"/>
   </a>
 </p>
     </td>
@@ -81,7 +81,7 @@
 
 ---
 
-## 🏗️ Selected Protocol Portfolio
+## 🏗️ Selected Protocol Project
 
 | Project Name | Core Focus | Repository |
 | :--- | :--- | :--- |
