@@ -81,7 +81,7 @@
 
 ---
 
-## 🏗️ Selected Protocol Project
+## 🏗️ Some Protocol Project
 
 | Project Name | Core Focus | Repository |
 | :--- | :--- | :--- |
