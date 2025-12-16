@@ -30,3 +30,19 @@
 
 <br />
 
+<div align="center">
+
+<a href="https://t.me/NexTechDev" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/itZ_AmiT0?t=9XAU3GPWEubsvW3lqd0aOw&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
