@@ -24,7 +24,7 @@
       </ul>
     </td>
 
-    <td width="45%" align="center">
+    <td width="45%" align="center" valign="center">
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="90%"/>
     </td>
   </tr>
@@ -47,44 +47,55 @@
 ## 🛠️ Technical Stack & Tools
 
 ### 🧱 Smart Contract & EVM Core
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Foundry-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
-<img src="https://img.shields.io/badge/DeFi_&_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white"/>
+</p>
 
 ### 🛡️ Security & Testing
-<img src="https://img.shields.io/badge/Slither-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fuzz_Testing-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Remix_IDE-000000?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Slither-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Fuzz_Testing-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Remix_IDE-000000?style=flat-square"/>
+</p>
 
 ### 💻 Frontend & Integration
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethers.js-2A3654?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethers.js-2A3654?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square"/>
+</p>
 
 ---
 
-## 🚀 Live Project Feed
+## 🚀 Featured Projects
+
+> **Scrollable / animated feel via dynamic SVG cards (GitHub-safe)**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=151515&color=007AFF&line=FF7B00&point=FFFFFF&area=true&hide_border=true"/>
+  <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Foundry-Defi-StableCoin&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Raffle-Lottery-Foundry&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-<table width="100%">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Foundry-Defi-StableCoin&theme=tokyonight&hide_border=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Raffle-Lottery-Foundry&theme=tokyonight&hide_border=true"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=ERC721-Advanced-IPFS-NFT&theme=tokyonight&hide_border=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=SISO-Token-ERC20&theme=tokyonight&hide_border=true"/></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=ERC721-Advanced-IPFS-NFT&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=SISO-Token-ERC20&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -104,11 +115,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NexTechArchitect&theme=darkhub&no-frame=true"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=007AFF&style=flat-square"/>
-</div>>
+</div>
