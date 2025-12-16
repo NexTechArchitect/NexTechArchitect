@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm NexTechArchitect</h1>
-<h3 align="center">Smart Contract Engineer | Solidity • Foundry • EVM</h3>
+<h3 align="center">Full-Stack Smart Contract Engineer</h3>
 
 <br />
 
