@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Full-Stack+Web3+Dev;Smart+Contract+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Full-Stack+Web3+Dev;Smart+Contract+Engineer" alt="Typing Effect: NexTechArchitect">
 </div>
 
 <br />
@@ -14,7 +14,7 @@
         <li>🧱 Building DeFi & protocol-level systems</li>
         <li>🔍 Focused on security, testing & architecture</li>
       </ul>
-
+      <br/>
       <h3>🎯 Currently</h3>
       <ul>
         <li>🧠 Building protocol-level smart contracts</li>
@@ -23,9 +23,12 @@
         <li>🧪 Exploring DeFi mechanics, testing & system design</li>
       </ul>
     </td>
-
     <td width="45%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="90%"/>
+      <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coding Gif" width="90%"/>
+      <br><br>
+      <a href="mailto:amitthapa181133@gmail.com">
+        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF7B00?style=for-the-badge&logo=clockify&logoColor=white" alt="Open to Work" />
+      </a>
     </td>
   </tr>
 </table>
@@ -35,85 +38,62 @@
 ## 📬 Connect Me
 
 <p align="left">
-  <a href="https://github.com/NexTechArchitect"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/amit-kumar-811a11277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/itZ_AmiT0"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="mailto:amitthapa181133@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/NexTechDev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/NexTechArchitect" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/itZ_AmiT0" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:amitthapa181133@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/NexTechDev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Technical Stack & Tools
 
-### 🧱 Smart Contract & EVM Core
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white"/>
-</p>
+### **🧱 Smart Contract & EVM Core**
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/> <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white" alt="DeFi & DAO"/> <img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white" alt="EVM"/>
 
-### 🛡️ Security & Testing
-<p>
-  <img src="https://img.shields.io/badge/Slither-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Fuzz_Testing-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Remix_IDE-000000?style=flat-square"/>
-</p>
+### **🛡️ Security & Testing Tools**
+<img src="https://img.shields.io/badge/Slither-000000?style=flat-square&logo=sharp&logoColor=white" alt="Slither"/> <img src="https://img.shields.io/badge/Fuzz_Testing-555555?style=flat-square&logo=rust&logoColor=white" alt="Fuzzing"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" alt="Chainlink"/> <img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square&logo=tenderly&logoColor=white" alt="Tenderly"/> <img src="https://img.shields.io/badge/Remix_IDE-000000?style=flat-square&logo=remix&logoColor=white" alt="Remix"/>
 
-### 💻 Frontend & Integration
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethers.js-2A3654?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square"/>
-</p>
+### **💻 Frontend & Integration**
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Ethers.js-2A3654?style=flat-square&logo=ethers&logoColor=white" alt="Ethers"/> <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logo=walletconnect&logoColor=white" alt="Wagmi"/>
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Featured Projects
 
-> **Scrollable / animated feel via dynamic SVG cards (GitHub-safe)**
-
-<p align="center">
-  <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Foundry-Defi-StableCoin&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Raffle-Lottery-Foundry&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=ERC721-Advanced-IPFS-NFT&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=SISO-Token-ERC20&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Foundry DeFi StableCoin](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)** | A decentralized, exogenous collateralized stablecoin (CDP). Engineered with heavy invariant & fuzz testing. | `Solidity` `Foundry` `DeFi` |
+| **[Raffle Lottery (VRF)](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)** | Tamper-proof on-chain lottery system utilizing Chainlink VRF for verifiable randomness and automation. | `Chainlink VRF` `Automation` |
+| **[ERC721 Advanced NFT](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)** | Custom NFT implementation featuring IPFS integration, dynamic metadata, and optimized gas usage. | `IPFS` `ERC721` `Merkle Trees` |
+| **[SISO ERC20 Token](https://github.com/NexTechArchitect/SISO-Token-ERC20)** | A foundational token standard implementation featuring custom burning mechanics and tokenomics. | `ERC20` `Tokenomics` |
 
 ---
 
-## ⚡ Engineering Dashboard
+## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&icon_color=FF7B00&text_color=FFFFFF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&text_color=FFFFFF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="Streak" height="150" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=151515&ring=007AFF&fire=FF7B00"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=007AFF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=007AFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
