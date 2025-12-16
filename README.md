@@ -37,23 +37,23 @@
 
 ## 📬 Connect Me
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/NexTechArchitect" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/itZ_AmiT0" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:amitthapa181133@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/NexTechDev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</p>
+</div>
 
 ---
 
@@ -72,21 +72,7 @@
 
 ## 🚀 Live Project Feed
 
-<div align="center">
-  <marquee direction="left" scrollamount="6" width="100%">
-    <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin"><img src="https://img.shields.io/badge/Foundry_StableCoin-007AFF?style=flat-square&logo=github&logoColor=white" alt="Stablecoin"/></a>
-    <img src="https://img.shields.io/badge/Stack-Solidity_|_DeFi-151515?style=flat-square" alt="Stack"/>
-    &nbsp;&nbsp;⚡&nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry"><img src="https://img.shields.io/badge/Raffle_Lottery_(VRF)-FF7B00?style=flat-square&logo=github&logoColor=white" alt="Raffle"/></a>
-    <img src="https://img.shields.io/badge/Stack-Chainlink_|_Automation-151515?style=flat-square" alt="Stack"/>
-    &nbsp;&nbsp;⚡&nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT"><img src="https://img.shields.io/badge/Advanced_IPFS_NFT-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="NFT"/></a>
-    <img src="https://img.shields.io/badge/Stack-ERC721_|_Merkle-151515?style=flat-square" alt="Stack"/>
-    &nbsp;&nbsp;⚡&nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20"><img src="https://img.shields.io/badge/SISO_Token-2ecc71?style=flat-square&logo=github&logoColor=white" alt="ERC20"/></a>
-    <img src="https://img.shields.io/badge/Stack-ERC20_|_Tokenomics-151515?style=flat-square" alt="Stack"/>
-  </marquee>
-</div>
+<div align="center"><marquee direction="left" scrollamount="6" width="100%"><a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin"><img src="https://img.shields.io/badge/Foundry_StableCoin-007AFF?style=flat-square&logo=github&logoColor=white" alt="Stablecoin"/></a><img src="https://img.shields.io/badge/Stack-Solidity_|_DeFi-151515?style=flat-square" alt="Stack"/>&nbsp;&nbsp;⚡&nbsp;&nbsp;<a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry"><img src="https://img.shields.io/badge/Raffle_Lottery_(VRF)-FF7B00?style=flat-square&logo=github&logoColor=white" alt="Raffle"/></a><img src="https://img.shields.io/badge/Stack-Chainlink_|_Automation-151515?style=flat-square" alt="Stack"/>&nbsp;&nbsp;⚡&nbsp;&nbsp;<a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT"><img src="https://img.shields.io/badge/Advanced_IPFS_NFT-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="NFT"/></a><img src="https://img.shields.io/badge/Stack-ERC721_|_Merkle-151515?style=flat-square" alt="Stack"/>&nbsp;&nbsp;⚡&nbsp;&nbsp;<a href="https://github.com/NexTechArchitect/SISO-Token-ERC20"><img src="https://img.shields.io/badge/SISO_Token-2ecc71?style=flat-square&logo=github&logoColor=white" alt="ERC20"/></a><img src="https://img.shields.io/badge/Stack-ERC20_|_Tokenomics-151515?style=flat-square" alt="Stack"/></marquee></div>
 
 ---
 
@@ -96,7 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&text_color=FFFFFF" height="150" alt="Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&icon_color=007AFF&text_color=FFFFFF" height="150" alt="Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=151515&ring=007AFF&fire=FF7B00&currStreakLabel=007AFF" alt="Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=151515&ring=007AFF&fire=FF7B00&currStreakLabel=007AFF" alt="Streak" />
 </div>
 
 <br>
