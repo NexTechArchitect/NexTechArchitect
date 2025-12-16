@@ -1,8 +1,9 @@
 <div align="center">
+    <h2 align="left">Hi, I am </h2>
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect" alt="Typing Effect: NexTechArchitect">
   </h1>
-  <h2 align="center">Hi, I am **Amit Kumar**</h2>
+
 </div>
 
 <h3 align="center">
@@ -15,14 +16,24 @@
   <tr>
     <td width="55%" valign="top">
       
-## 💡 Expertise & Focus
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-My primary work is designing, developing, and securing DeFi and protocol-level systems on the EVM. I focus on robust architecture, continuous security testing, and end-to-end dApp development.
+💡 What I do  
+✏️ Designing secure smart contracts  
+🧱 Building DeFi & protocol-level systems  
+🔍 Focused on security, testing & architecture  
 
-* **Protocol Systems:** Design and build core DeFi primitives like AMMs, CDPs, and DAO governance modules.
-* **Full-Stack Engineering:** Seamless integration of secure Foundry-tested Solidity contracts with React/Next.js frontends.
-* **Security Discipline:** Deep focus on vulnerability assessment, advanced fuzz testing, and secure system design.
-* **Future Stack:** Actively building and exploring ZK-Proofs and Layer 2 solutions for optimal scaling.
+
+🎯 Currently  
+🧠 Building protocol-level smart contracts  
+⚙️ Solidity & Foundry focused engineering  
+🚀 Moving towards full-stack smart contract development  
+🧪 Exploring DeFi mechanics, testing & system design  
+
+  </tr>
+</table>
 
 ### 🌐 Connect & Collaborate
 
