@@ -27,23 +27,23 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="middle">
-      <h3>🚀 Engineering Secure Protocols</h3>
-      <p>
-        <b>Current Focus:</b> Building protocol-level smart contracts and moving towards full-stack architecture.<br><br>
-        
-        🏗️ <b>Core Development</b><br>
-        &nbsp;&nbsp;• Designing gas-optimized Smart Contracts<br>
-        &nbsp;&nbsp;• Building DeFi & Staking Systems<br>
-        &nbsp;&nbsp;• Solidity & Foundry focused engineering<br>
-        <br>
-        🛡️ <b>Security & Architecture</b><br>
-        &nbsp;&nbsp;• System Design & Threat Modeling<br>
-        &nbsp;&nbsp;• Fuzz Testing & Invariant Analysis<br>
-        &nbsp;&nbsp;• Exploring ZK-Proofs & Privacy<br>
-      </p>
+    <td width="55%" valign="top">
+      <h3>💡 What I do</h3>
+      <ul>
+        <li>✏️ Designing secure smart contracts</li>
+        <li>🧱 Building DeFi & protocol-level systems</li>
+        <li>🔍 Focused on security, testing & architecture</li>
+      </ul>
+      <br/>
+      <h3>🎯 Currently</h3>
+      <ul>
+        <li>🧠 Building protocol-level smart contracts</li>
+        <li>⚙️ Solidity & Foundry focused engineering</li>
+        <li>🚀 Moving towards full-stack smart contract development</li>
+        <li>🧪 Exploring DeFi mechanics, testing & system design</li>
+      </ul>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="45%" align="center" valign="center">
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coding Gif" width="90%"/>
       <br><br>
       <a href="mailto:amitthapa181133@gmail.com">
@@ -52,7 +52,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Technical Stack & Arsenal
@@ -93,4 +92,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=007AFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
-
