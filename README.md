@@ -1,15 +1,17 @@
 <div align="center">
   <a href="mailto:amitthapa181133@gmail.com">
-    <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ecc71?style=for-the-badge&logo=maildotru&logoColor=white" alt="Open to Work Badge - Email" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ecc71?style=for-the-badge&logo=googlegmail&logoColor=white" alt="Status: Open to Work - Email" />
   </a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=500&color=00C3F2&center=true&vCenter=true&width=700&lines=NexTechArchitect" alt="Typing Effect: NexTechArchitect">
-</h1>
+<div align="center">
+  <h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 40px; color: #00C3F2;">
+    Hi, I am NexTechArchitect
+  </h2>
+</div>
 
 <h3 align="center">
-  Full-Stack Smart Contract Engineer 
+  Full-Stack Smart Contract Engineer | EVM Architect | DeFi & Security Enthusiast
 </h3>
 
 ---
@@ -18,30 +20,30 @@
   <tr>
     <td width="55%" valign="top">
       
-## 🎯 Core Focus
+## 💡 Learning Type (Core Focus)
 
-* **EVM Architecture:** Designing and deploying secure, gas-efficient smart contracts.
-* **Protocol Development:** Expertise in DeFi primitives (CDPs, AMMs) and token standards (**ERC-20, ERC-721**).
-* **Security & Testing:** Utilizing **Foundry** for advanced unit, integration, and fuzz testing.
-* **Technology Stack:** Solidity, Rust (Foundry), Web3.js, Ethers.js.
+* **EVM Protocol Deep Dive:** Focusing on the mechanics, security, and gas optimization of advanced smart contract protocols (CDPs, AMMs, Governance).
+* **Advanced EVM Tooling:** Mastering the **Foundry** ecosystem for robust testing, fuzzing, and sophisticated deployment pipelines.
+* **Full-Stack Integration:** Bridging the gap between secure Solidity contracts and modern web interfaces using **Ethers.js** and **React**.
+* **Security First:** Dedicated to learning and applying best practices in smart contract audits and exploitation prevention.
 
-### 🌐 Connect
+### 🌐 Connect & Collaborate
 
 <p align="left">
   <a href="https://github.com/NexTechArchitect" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" width="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/amit-kumar-811a11277" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin--v1.png" alt="LinkedIn" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/itZ_AmiT0" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="Twitter" width="40"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:amitthapa181133@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/D82914/gmail.png" alt="Email" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/NexTechDev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/2AABEE/telegram-app.png" alt="Telegram" width="40"/>
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
     </td>
@@ -51,20 +53,22 @@
   </tr>
 </table>
 
-## ⚙️ Technical Blueprint
+---
 
-### **Blockchain / EVM Core**
+## ⚙️ Technical Blueprint (Skills)
+
+### **EVM / Blockchain Core**
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Foundry-111111?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/Foundry-101010?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum/EVM"/>
   <img src="https://img.shields.io/badge/DeFi-FFD700?style=for-the-badge&logo=chainlink&logoColor=black" alt="DeFi"/>
-  <img src="https://img.shields.io/badge/DAO-A3E4D7?style=for-the-badge&logo=ethereum&logoColor=black" alt="DAO"/>
-  <img src="https://img.shields.io/badge/OpenZeppelin-444?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
-  <img src="https://img.shields.io/badge/ERC20-%23555?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-20"/>
-  <img src="https://img.shields.io/badge/ERC721-%23555?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-721"/>
+  <img src="https://img.shields.io/badge/DAO-4796B9?style=for-the-badge&logo=ethereum&logoColor=white" alt="DAO"/>
+  <img src="https://img.shields.io/badge/ERC20-333333?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-20"/>
+  <img src="https://img.shields.io/badge/ERC721-333333?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-721"/>
 </p>
 
-### **Interaction & Tooling**
+### **Web3 Interaction & Tooling**
 <p align="left">
   <img src="https://img.shields.io/badge/Ethers.js-212121?style=for-the-badge&logo=ethersdotjs&logoColor=white" alt="Ethers.js"/>
   <img src="https://img.shields.io/badge/Web3.js-F16529?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
@@ -74,21 +78,21 @@
 
 ### **Frontend & Future Stack**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React (Learning)"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js (Learning)"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ---
 
-## 🏗️ Some Protocol Project
+## 🏗️ Selected Protocol Portfolio
 
-| Project Name | Core Focus | Repository |
+| Project Name | Core Focus | Link to Code |
 | :--- | :--- | :--- |
-| **Foundry DeFi StableCoin** | Decentralized Collateralized Debt Protocol (CDP). Fully tested with Foundry. | [View Code](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) |
-| **Raffle Lottery (VRF Secure)** | On-chain lottery system utilizing Chainlink VRF for verifiable randomness. | [View Code](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry) |
+| **Foundry DeFi StableCoin** | Decentralized Collateralized Debt Protocol (CDP) and stablecoin implementation. | [View Code](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) |
+| **Raffle Lottery (VRF Secure)** | On-chain lottery utilizing Chainlink VRF for verifiable and secure randomness. | [View Code](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry) |
 | **ERC721 Advanced NFT** | Custom ERC-721 implementation with IPFS integration and dynamic metadata. | [View Code](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT) |
-| **SISO ERC20 Token** | Foundational token standard with custom burning and tokenomic implementation. | [View Code](https://github.com/NexTechArchitect/SISO-Token-ERC20) |
+| **SISO ERC20 Token** | Foundational token standard with custom burning and tailored tokenomic implementation. | [View Code](https://github.com/NexTechArchitect/SISO-Token-ERC20) |
 
 ---
 
