@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NexTechArchitect</h1>
-<h3 align="center">Smart Contract Engineer | Solidity • Foundry • EVM</h3>
+<h3 align="center">Smart Contract Engineer</h3>
 
 <br />
 
@@ -13,9 +13,9 @@
 🔐 Focused on security, testing & architecture  
 
 🎯 Currently
-Building Solidity + Foundry projects  
-Exploring DeFi mechanics & protocol design  
-
+• Building protocol-level smart contracts with Solidity & Foundry
+• Moving towards full-stack smart contract engineering
+• Focused on DeFi architecture, testing & security
 </td>
 
 <td width="50%" align="center">
