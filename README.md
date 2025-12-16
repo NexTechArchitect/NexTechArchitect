@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00C3F2&center=true&vCenter=true&width=500&lines=NexTechArchitect;Smart+Contract+Engineer+%7C+EVM+Architect" alt="Typing Effect">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=00C3F2&center=true&vCenter=true&width=500&lines=NexTechArchitect+%7C+EVM+Architect" alt="Typing Effect">
 </h1>
 
 ---
