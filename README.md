@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Smart Contract Engineer | EVM Architect | DeFi Protocol Developer
+  Full-Stack Smart Contract Engineer 
 </h3>
 
 ---
@@ -18,7 +18,7 @@
   <tr>
     <td width="55%" valign="top">
       
-## 💡 Core Focus
+## 🎯 Core Focus
 
 * **EVM Architecture:** Designing and deploying secure, gas-efficient smart contracts.
 * **Protocol Development:** Expertise in DeFi primitives (CDPs, AMMs) and token standards (**ERC-20, ERC-721**).
@@ -41,12 +41,12 @@
     <img src="https://img.icons8.com/nolan/64/email.png" alt="Email" width="40"/>
   </a>
   <a href="https://t.me/NexTechDev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/nolan/64/telegram.png" alt="Telegram" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/telegram.png" alt="Telegram" width="40"/>
   </a>
 </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgM99o4wI63L4e0y5g/giphy.gif" alt="Developer Working" width="100%"/>
+      <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer Working" width="100%"/>
     </td>
   </tr>
 </table>
@@ -55,7 +55,6 @@
 
 ### **Blockchain / EVM Core**
 <p align="left">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Foundry-111111?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-444?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
   <img src="https://img.shields.io/badge/ERC20-%23555?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-20"/>
@@ -99,4 +98,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=2ecc71" alt="Profile views" />
-</p>
+</p>>
