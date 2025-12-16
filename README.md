@@ -72,34 +72,39 @@
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Foundry DeFi StableCoin](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)** | A decentralized, exogenous collateralized stablecoin (CDP). Engineered with heavy invariant & fuzz testing. | `Solidity` `Foundry` `DeFi` |
-| **[Raffle Lottery (VRF)](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)** | Tamper-proof on-chain lottery system utilizing Chainlink VRF for verifiable randomness and automation. | `Chainlink VRF` `Automation` |
-| **[ERC721 Advanced NFT](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)** | Custom NFT implementation featuring IPFS integration, dynamic metadata, and optimized gas usage. | `IPFS` `ERC721` `Merkle Trees` |
-| **[SISO ERC20 Token](https://github.com/NexTechArchitect/SISO-Token-ERC20)** | A foundational token standard implementation featuring custom burning mechanics and tokenomics. | `ERC20` `Tokenomics` |
+### **🪙 Foundry DeFi StableCoin**
+> A decentralized, exogenous collateralized stablecoin (CDP). Engineered with heavy invariant & fuzz testing.  
+> 🛠 **Stack:** `Solidity` `Foundry` `DeFi`  
+> 🔗 **[View Repository](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)**
+
+### **🎲 Raffle Lottery (VRF)**
+> Tamper-proof on-chain lottery system utilizing Chainlink VRF for verifiable randomness and automation.  
+> 🛠 **Stack:** `Chainlink VRF` `Automation` `Solidity`  
+> 🔗 **[View Repository](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)**
+
+### **🖼️ ERC721 Advanced NFT**
+> Custom NFT implementation featuring IPFS integration, dynamic metadata, and optimized gas usage.  
+> 🛠 **Stack:** `IPFS` `ERC721` `Merkle Trees`  
+> 🔗 **[View Repository](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)**
+
+### **🔥 SISO ERC20 Token**
+> A foundational token standard implementation featuring custom burning mechanics and tokenomics.  
+> 🛠 **Stack:** `ERC20` `Tokenomics`  
+> 🔗 **[View Repository](https://github.com/NexTechArchitect/SISO-Token-ERC20)**
 
 ---
 
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=151515&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=151515&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=007AFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" alt="Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </div>
 
 <br>
