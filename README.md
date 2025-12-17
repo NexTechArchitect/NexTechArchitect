@@ -16,7 +16,7 @@
       <br/>
       <h3>🎯 Current Focus</h3>
       <ul>
-        <li>🧠 Working and Improving Contract Security and Architecture</li>
+        <li>🧠 Advanced DeFi Mechanics & Derivatives</li>
         <li>🧪 Invariant Testing & Fuzzing (Foundry)</li>
         <li>🚀 Full-Stack dApp Integration (Wagmi/Viem)</li>
       </ul>
@@ -62,7 +62,7 @@
 ## 🛠️ Technical Stack & Tools
 
 ### **🧱 Smart Contract & EVM Core**
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/> <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white" alt="DeFi & DAO"/> <img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white" alt="EVM"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/> <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/> <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white" alt="DeFi & DAO"/> <img src="https://img.shields.io/badge/EVM_Architecture-007AFF?style=flat-square&logo=ethereum&logoColor=white" alt="EVM"/>
 
 ### **🛡️ Security & Testing Tools**
 <img src="https://img.shields.io/badge/Slither-000000?style=flat-square&logo=sharp&logoColor=white" alt="Slither"/> <img src="https://img.shields.io/badge/Fuzz_Testing-555555?style=flat-square&logo=rust&logoColor=white" alt="Fuzzing"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" alt="Chainlink"/> <img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square&logo=tenderly&logoColor=white" alt="Tenderly"/> <img src="https://img.shields.io/badge/Remix_IDE-000000?style=flat-square&logo=remix&logoColor=white" alt="Remix"/>
@@ -166,4 +166,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 
-</div>>
+</div>
