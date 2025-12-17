@@ -1,4 +1,5 @@
 <div align="center">
+  <h3>Hi there, I am</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Smart+Contract+Engineer;Full-Stack+Web3+Dev" alt="Typing Effect">
 </div>
 
@@ -166,4 +167,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 
-</div>>
+</div>
