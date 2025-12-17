@@ -16,7 +16,7 @@
       <br/>
       <h3>🎯 Current Focus</h3>
       <ul>
-        <li>🧠 Advanced DeFi Mechanics & Derivatives</li>
+        <li>🧠 Working and Improving Contract Security and Architecture</li>
         <li>🧪 Invariant Testing & Fuzzing (Foundry)</li>
         <li>🚀 Full-Stack dApp Integration (Wagmi/Viem)</li>
       </ul>
