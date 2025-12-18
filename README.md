@@ -160,7 +160,7 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexTechArchitect&theme=algolia&hide_border=true" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NexTechArchitect&theme=algolia&hide_border=true&utcOffset=5.5" alt="Productive Time" />
 
 <br/><br/>
 
