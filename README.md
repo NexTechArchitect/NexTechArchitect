@@ -160,7 +160,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&background=0D1117" alt="GitHub Streak" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexTechArchitect&theme=algolia&hide_border=true" alt="Profile Details" />
 
 <br/><br/>
 
