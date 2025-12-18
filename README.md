@@ -149,6 +149,8 @@
     </td>
   </tr>
 </table>
+
+
 <h3>📈 Engineering Metrics</h3>
 
 <div align="center">
@@ -158,7 +160,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=dark&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&background=0D1117" alt="GitHub Streak" height="150" />
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&background=0D1117" alt="GitHub Streak" height="150" />
 
 <br/><br/>
 
