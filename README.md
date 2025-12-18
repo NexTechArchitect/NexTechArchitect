@@ -155,12 +155,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true&include_all_commits=true" alt="Stats with Rank" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NexTechArchitect&theme=algolia&hide_border=true&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=NexTechArchitect&theme=algolia&hide_border=true&custom_title=Monthly%20Code%20Volume" alt="Commit Activity" />
 
 <br/><br/>
 
