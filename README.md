@@ -149,19 +149,16 @@
     </td>
   </tr>
 </table>
-
 <h3>📈 Engineering Metrics</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=NexTechArchitect&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&currStreakNum=FEFEFE&sideNums=FEFEFE&sideLabels=007AFF&background=0D1117" alt="GitHub Streak" height="150" />
 
 <br/><br/>
 
