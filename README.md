@@ -155,15 +155,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true&include_all_commits=true" alt="Stats with Rank" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007AFF&text_color=9f9f9f" alt="Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&bg_color=0D1117&title_color=007AFF&text_color=9f9f9f&icon_color=007AFF" alt="Languages Donut" height="180" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=NexTechArchitect&theme=algolia&hide_border=true&custom_title=Monthly%20Code%20Volume" alt="Commit Activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true" alt="Stats" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true&custom_title=My%20Monthly%20Coding%20Pulse" alt="Activity Graph" />
 
 </div>
