@@ -158,7 +158,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=NexTechArchitect&theme=transparent&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&currStreakNum=FEFEFE&sideNums=FEFEFE&sideLabels=007AFF&background=0D1117" alt="GitHub Streak" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=dark&hide_border=true&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&background=0D1117" alt="GitHub Streak" height="150" />
 
 <br/><br/>
 
