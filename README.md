@@ -155,12 +155,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&bg_color=0D1117&title_color=007AFF&text_color=9f9f9f&icon_color=007AFF" alt="Languages Donut" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true" alt="Stats" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true" alt="Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&bg_color=0d1117&title_color=007AFF&text_color=9f9f9f&icon_color=007AFF" alt="Languages Donut" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true&custom_title=My%20Monthly%20Coding%20Pulse" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
