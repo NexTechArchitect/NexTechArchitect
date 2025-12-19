@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Smart+Contract+Engineer" alt="Typing Effect">
 </div>
 
-
 <br />
 
 <table border="0" width="100%">
