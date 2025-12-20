@@ -1,4 +1,3 @@
-
 <div align="center">
   <h3>Hi there, I am</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Smart+Contract+Engineer" alt="Typing Effect">
@@ -35,32 +34,27 @@
 
 ---
 
-<div align="center">
-
-<h3>📬 Connect With Me</h3>
-
-<p>
+<div align="left">
+  <h3>📬 Connect With Me</h3>
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-NexTechArchitect-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
+  <br/>
   <a href="https://www.linkedin.com/in/amit-kumar-811a11277">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Amit_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  <br/>
   <a href="https://x.com/itZ_AmiT0">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    <img src="https://img.shields.io/badge/X-@itZ__AmiT0-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  &nbsp;
+  <br/>
   <a href="mailto:amitthapa181133@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+  <br/>
   <a href="https://t.me/NexTechDev">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Chat_Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
 </div>
 
 ---
@@ -86,20 +80,20 @@
       <h3>🏦 DeFi StableCoin</h3>
       <p>Exogenous collateralized CDP engine.</p>
       <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-        <img src="https://img.shields.io/badge/Code-Black?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Docs-Blue?style=flat-square&logo=readme" />
+        <img src="https://img.shields.io/badge/Docs-Read_Me-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>🎲 Fair Lottery (VRF)</h3>
       <p>Tamper-proof lottery via Chainlink VRF.</p>
       <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-        <img src="https://img.shields.io/badge/Code-Black?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Docs-Blue?style=flat-square&logo=readme" />
+        <img src="https://img.shields.io/badge/Docs-Read_Me-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -108,20 +102,20 @@
       <h3>🎨 IPFS Advanced NFT</h3>
       <p>Merkle Whitelist & Dynamic Metadata.</p>
       <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-        <img src="https://img.shields.io/badge/Code-Black?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Docs-Blue?style=flat-square&logo=readme" />
+        <img src="https://img.shields.io/badge/Docs-Read_Me-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>🪂 SISO Merkle Airdrop</h3>
       <p>Gas-optimized EIP-712 Distribution.</p>
       <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
-        <img src="https://img.shields.io/badge/Code-Black?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Docs-Blue?style=flat-square&logo=readme" />
+        <img src="https://img.shields.io/badge/Docs-Read_Me-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -142,5 +136,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
-
-```
