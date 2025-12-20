@@ -1,3 +1,4 @@
+
 <div align="center">
   <h3>Hi there, I am</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Smart+Contract+Engineer" alt="Typing Effect">
@@ -77,79 +78,76 @@
 
 <table width="100%"> 
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏦 Foundry DeFi StableCoin</h3>
-      <p align="center">Exogenous collateralized stablecoin (CDP) engine with invariant fuzz testing.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" />
-      </div>
-      <br />
-      <p align="center">
-        <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin/blob/main/README.md">
-          <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🏦 DeFi StableCoin Engine</h3>
+      <p>Exogenous collateralized stablecoin (CDP) system with Invariant Fuzzing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-Solidity_|_Foundry-363636?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-DeFi_Protocol-0052FF?style=flat-square" />
       </p>
+      <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin/blob/main/README.md">
+        <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+      <br/><br/>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎲 Raffle Lottery (VRF)</h3>
-      <p align="center">Tamper-proof lottery utilizing Chainlink VRF and Automation.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-FFD700?style=flat-square&logo=lightning&logoColor=black" />
-      </div>
-      <br />
-      <p align="center">
-        <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry/blob/main/README.md">
-          <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🎲 Provably Fair Lottery</h3>
+      <p>Tamper-proof lottery utilizing Chainlink VRF and Automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-Chainlink_VRF-375BD2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-GameFi-FFD700?style=flat-square" />
       </p>
+      <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry/blob/main/README.md">
+        <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 ERC721 Advanced NFT</h3>
-      <p align="center">IPFS integration, dynamic metadata, and Merkle Tree whitelisting.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Merkle_Tree-2E8B57?style=flat-square&logo=opensea&logoColor=white" />
-      </div>
-      <br />
-      <p align="center">
-        <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT/blob/main/README.md">
-          <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🎨 Advanced IPFS NFT</h3>
+      <p>Dynamic Metadata, IPFS integration, and Merkle Whitelisting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-IPFS_|_ERC721-65C2CB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Digital_Asset-FF4500?style=flat-square" />
       </p>
+      <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT/blob/main/README.md">
+        <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+      <br/><br/>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 SISO ERC20 Token</h3>
-      <p align="center">Custom ERC20 implementation with specialized burning mechanics.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/ERC20-363636?style=flat-square&logo=ethereum&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tokenomics-FF4500?style=flat-square&logo=bitcoin&logoColor=white" />
-      </div>
-      <br />
-      <p align="center">
-        <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
-          <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20/blob/main/README.md">
-          <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
-        </a>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🪂 SISO Merkle Airdrop</h3>
+      <p>Gas-optimized distribution using Merkle Trees & EIP-712 Signatures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stack-Cryptography-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Airdrop_System-00FF99?style=flat-square" />
       </p>
+      <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop/blob/main/README.md">
+        <img src="https://img.shields.io/badge/Read_Docs-007AFF?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
+---
 
 <h3>📈 Engineering Metrics</h3>
 
@@ -164,3 +162,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
+
+```>
