@@ -20,7 +20,7 @@
       <ul>
         <li>🧠Working and Improving contract Security and arhcitecture</li>
         <li>🧪 Invariant Testing & Fuzzing (Foundry)</li>
-        <li>🚀 Full-Stack dApp Integration (Wagmi/Viem)</li>
+        <li>🚀 Full-Stack as fronted and backend</li>
       </ul>
     </td>
     <td width="45%" align="center" valign="center">
