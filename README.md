@@ -14,7 +14,6 @@
         <li>🧱 <strong>Architecture:</strong> Protocol-level System Design</li>
         <li>⚙️ <strong>Engineering:</strong> Solidity, Foundry & EVM Internals</li>
       </ul>
-      <br/>
       <h3>🎯 Current Focus</h3>
       <ul>
         <li>🧠 Improving Contract Security & Architecture</li>
