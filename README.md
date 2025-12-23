@@ -86,7 +86,7 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>🎲 Fair Lottery (VRF)</h3>
+      <h3>🎲 Fair Raffle (VRF)</h3>
       <p>Tamper-proof lottery via Chainlink VRF.</p>
       <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
