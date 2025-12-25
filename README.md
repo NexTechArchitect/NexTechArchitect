@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=39A7FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Senior+Smart+Contract+Engineer;Transitioning+to+Full-Stack+Web3" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=39A7FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Building+Secure+DeFi+Protocols" alt="Typing Effect" />
 </div>
 
 <br />
@@ -14,15 +14,19 @@
         <li>🧱 <strong>Architecture:</strong> Designing Gas-Optimized, Upgradeable Systems.</li>
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
-      <br />
-      <h3>🌱 Currently Exploring (Full-Stack)</h3>
+      
+   <br />
+   
+  <h3>🌱 Currently Exploring</h3>
       <ul>
         <li>🎨 <strong>Frontend:</strong> Advanced Next.js, React Query & Tailwind CSS.</li>
         <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
         <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave (Decentralized) & Supabase/SQL.</li>
       </ul>
-      <br />
-      <h3>📬 Connect With Me</h3>
+
+  <br />
+      
+   <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
@@ -35,7 +39,8 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
       </a>
     </td>
-    <td width="35%" align="center" valign="top">
+
+  <td width="35%" align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
@@ -69,7 +74,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Chainlink-375bd2?style=for-the-badge&logo=chainlink&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-Analyzers-000000?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Tenderly-805cf6?style=for-the-badge&logo=tenderly&logoColor=white" />
 
@@ -145,19 +150,15 @@
   <br/>
   
   <p>
-    <a href="https://github.com/NexTechArchitect">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="Streaks" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   </p>
   
-  <br/>
-
   <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="Streak" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
   </p>
   
   <br/>
