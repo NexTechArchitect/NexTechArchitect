@@ -15,9 +15,9 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       
-   <br />
+  <br />
 
-  <h3>🌱 Currently Exploring</h3>
+   <h3>🌱 Currently Exploring</h3>
       <ul>
         <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi.</li>
         <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
@@ -26,7 +26,7 @@
 
   <br />
       
-  <h3>📬 Connect With Me</h3>
+   <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
@@ -146,21 +146,21 @@
 <br/>
 
 <div align="center">
- <h2>📈 Engineering Metrics</h2>
+  <h2>📈 Engineering Metrics</h2>
   <br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=00000000" height="170" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
   </a>
   
   <br/><br/>
