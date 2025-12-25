@@ -15,18 +15,18 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       
-      <br />
+  <br />
 
-      <h3>🌱 Currently Exploring</h3>
+  <h3>🌱 Currently Exploring</h3>
       <ul>
         <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi.</li>
         <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
         <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave & Supabase (SQL).</li>
       </ul>
 
-      <br />
+   <br />
       
-      <h3>📬 Connect With Me</h3>
+  <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
@@ -40,7 +40,7 @@
       </a>
     </td>
 
-    <td width="35%" align="center" valign="top">
+  <td width="35%" align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
@@ -146,20 +146,15 @@
 <br/>
 
 <div align="center">
-  <h2>📈 Engineering Metrics</h2>
-  <br/>
+<h3>📈 Engineering Metrics</h3>
 
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
-  </a>
-  
-  <br/><br/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true" alt="Stats" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&bg_color=0d1117&title_color=007AFF&text_color=9f9f9f&icon_color=007AFF" alt="Languages Donut" height="160" />
+
+<br/><br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
