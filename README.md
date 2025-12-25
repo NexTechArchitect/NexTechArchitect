@@ -15,18 +15,18 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       
-  <br />
+      <br />
 
-  <h3>🌱 Currently Exploring</h3>
+      <h3>🌱 Currently Exploring</h3>
       <ul>
         <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi.</li>
         <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
         <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave & Supabase (SQL).</li>
       </ul>
 
-  <br />
+      <br />
       
-  <h3>📬 Connect With Me</h3>
+      <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
@@ -40,7 +40,7 @@
       </a>
     </td>
 
-   <td width="35%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
@@ -150,19 +150,15 @@
   <br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-
+  
   <br/><br/>
-
+  
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
   </a>
-
+  
   <br/><br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
