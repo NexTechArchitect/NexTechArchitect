@@ -15,7 +15,7 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       
-  <br />
+   <br />
 
    <h3>🌱 Currently Exploring</h3>
       <ul>
@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
       <a href="mailto:amitthapa181133@gmail.com">
-        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&logo=clockify&logoColor=black" />
+        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-007AFF?style=for-the-badge&logo=clockify&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -65,7 +65,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hardhat-FFdb1c?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge&logo=remix&logoColor=white" />
 
   <br/>
 
@@ -146,7 +146,7 @@
 <br/>
 
 <div align="center">
-<h2>📈 Engineering Metrics</h2>
+  <h2>📈 Engineering Metrics</h2>
   <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexTechArchitect&theme=tokyonight" alt="Profile Details" />
