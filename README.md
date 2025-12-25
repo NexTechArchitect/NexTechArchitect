@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=#FFFFFF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=39A7FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
 </div>
 
 <br />
@@ -15,18 +15,18 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       
-   <br />
-   
-  <h3>🌱 Currently Exploring</h3>
+  <br />
+
+   <h3>🌱 Currently Exploring</h3>
       <ul>
-        <li>🎨 <strong>Frontend:</strong> Advanced Next.js, React Query & Tailwind CSS.</li>
+        <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi.</li>
         <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
-        <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave (Decentralized) & Supabase/SQL.</li>
+        <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave & Supabase (SQL).</li>
       </ul>
 
   <br />
       
-   <h3>📬 Connect With Me</h3>
+  <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
@@ -61,7 +61,7 @@
   <h4>🧱 Core Smart Contract & EVM</h4>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=rust&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   &nbsp;
@@ -74,7 +74,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Chainlink-375bd2?style=for-the-badge&logo=chainlink&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Slither-Analyzers-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Slither-000000?style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/Tenderly-805cf6?style=for-the-badge&logo=tenderly&logoColor=white" />
 
@@ -148,20 +148,19 @@
 <div align="center">
   <h2>📈 Engineering Metrics</h2>
   <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  </p>
+  <br/><br/>
   
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="Streak" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="Streak" />
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-  </p>
+  <br/><br/>
   
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=39A7FF&line=39A7FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
 </div>
