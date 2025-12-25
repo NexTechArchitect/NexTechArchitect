@@ -15,7 +15,7 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       
-  <br />
+   <br />
 
   <h3>🌱 Currently Exploring</h3>
       <ul>
@@ -24,7 +24,7 @@
         <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave & Supabase (SQL).</li>
       </ul>
 
-   <br />
+  <br />
       
   <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
@@ -146,21 +146,19 @@
 <br/>
 
 <div align="center">
-<h2>📈 Engineering Metrics</h2>
+  <h2>📈 Engineering Metrics</h2>
   <br/>
 
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexTechArchitect&theme=tokyonight" alt="Profile Details" />
 
+  <br/><br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NexTechArchitect&theme=tokyonight" alt="Languages" />
+  
   <br/><br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
   </a>
   
   <br/><br/>
