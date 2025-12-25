@@ -5,26 +5,23 @@
 
 <br />
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="5">
   <tr>
     <td width="65%" valign="top">
       <h3>⚡ Professional Focus</h3>
       <ul>
-        <li>🔐 <strong>Security:</strong> High-stakes Auditing, Invariant Fuzzing, & Formal Verification.</li>
+        <li>🔐 <strong>Security:</strong> Smart Contract Auditing, Invariant Fuzzing & Formal Verification.</li>
         <li>🧱 <strong>Architecture:</strong> Designing Gas-Optimized, Upgradeable Systems.</li>
-        <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Logic.</li>
+        <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
-      
       <br />
-
-      <h3>🌱 Active Research</h3>
+      <h3>🌱 Currently Exploring</h3>
       <ul>
         <li><strong>Zero Knowledge:</strong> Circom & SnarkJS implementations.</li>
         <li><strong>Account Abstraction:</strong> ERC-4337 Paymasters & Bundlers.</li>
       </ul>
-
       <br />
-      
+      <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
@@ -37,8 +34,8 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
       </a>
     </td>
-
     <td width="35%" align="center" valign="top">
+      <br />
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
       <a href="mailto:amitthapa181133@gmail.com">
@@ -55,7 +52,7 @@
 <div align="center">
   <h2>🛠️ Technical Arsenal</h2>
   
-  <br/>
+  <h4>🧱 Core Smart Contract & EVM</h4>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=foundry&logoColor=white" />
@@ -64,8 +61,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Hardhat-FFdb1c?style=for-the-badge&logo=hardhat&logoColor=black" />
 
-  <br/><br/>
+  <br/>
 
+  <h4>🛡️ Security & Auditing Tools</h4>
   <img src="https://img.shields.io/badge/OpenZeppelin-4e5ee4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Chainlink-375bd2?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -74,8 +72,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Tenderly-805cf6?style=for-the-badge&logo=tenderly&logoColor=white" />
 
-  <br/><br/>
+  <br/>
 
+  <h4>💻 Frontend Integration</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
