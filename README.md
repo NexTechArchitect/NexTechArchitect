@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=39A7FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
 </div>
 
 <br />
@@ -17,7 +17,7 @@
       
   <br />
 
-   <h3>🌱 Currently Exploring</h3>
+  <h3>🌱 Currently Exploring</h3>
       <ul>
         <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi.</li>
         <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
@@ -40,12 +40,12 @@
       </a>
     </td>
 
-  <td width="35%" align="center" valign="top">
+   <td width="35%" align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
       <a href="mailto:amitthapa181133@gmail.com">
-        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=for-the-badge&logo=clockify&logoColor=white" />
+        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&logo=clockify&logoColor=black" />
       </a>
     </td>
   </tr>
@@ -149,18 +149,22 @@
   <h2>📈 Engineering Metrics</h2>
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  </a>
+
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=39A7FF&line=39A7FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
