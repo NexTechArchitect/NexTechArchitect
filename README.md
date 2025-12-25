@@ -146,16 +146,27 @@
 <br/>
 
 <div align="center">
-<h3>📈 Engineering Metrics</h3>
+<h2>📈 Engineering Metrics</h2>
+  <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true" alt="Stats" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&bg_color=0d1117&title_color=007AFF&text_color=9f9f9f&icon_color=007AFF" alt="Languages Donut" height="160" />
-
-<br/><br/>
-
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
+  </a>
+  
+  <br/><br/>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
