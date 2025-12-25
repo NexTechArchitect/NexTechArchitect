@@ -1,3 +1,4 @@
+
 <div align="center">
   <h3>Hi there, I am</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=500&color=007AFF&center=true&vCenter=true&width=700&lines=NexTechArchitect;Smart+Contract+Engineer" alt="Typing Effect">
@@ -7,13 +8,14 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h3>💡 Expertise</h3>
       <ul>
         <li>🔐 <strong>Security:</strong> Smart Contract Auditing & Testing</li>
         <li>🧱 <strong>Architecture:</strong> Protocol-level System Design</li>
         <li>⚙️ <strong>Engineering:</strong> Solidity, Foundry & EVM Internals</li>
       </ul>
+      <br/>
       <h3>🎯 Current Focus</h3>
       <ul>
         <li>🧠 Improving Contract Security & Architecture</li>
@@ -21,7 +23,7 @@
         <li>🚀 Full-Stack dApp Integration (Wagmi/Viem)</li>
       </ul>
     </td>
-    <td width="45%" align="center" valign="center">
+    <td width="50%" align="center" valign="center">
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Coding Gif" width="90%"/>
       <br><br>
       <a href="mailto:amitthapa181133@gmail.com">
@@ -33,7 +35,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <h3>📬 Connect With Me</h3>
   <a href="https://github.com/NexTechArchitect">
     <img src="https://img.shields.io/badge/GitHub-NexTechArchitect-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,20 +60,23 @@
 
 ---
 
-## 🛠️ Technical Stack
+<div align="center">
+  <h2>🛠️ Technical Stack</h2>
+  <h3>**🧱 Smart Contract & EVM**</h3>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" /> <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/EVM_Arch-007AFF?style=flat-square&logo=ethereum&logoColor=white" />
 
-### **🧱 Smart Contract & EVM**
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Foundry-111111?style=flat-square&logo=foundry&logoColor=white" /> <img src="https://img.shields.io/badge/DeFi_%26_DAO-0052FF?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/EVM_Arch-007AFF?style=flat-square&logo=ethereum&logoColor=white" />
+  <h3>**🛡️ Security & Testing**</h3>
+  <img src="https://img.shields.io/badge/Slither-000000?style=flat-square&logo=sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Fuzzing-555555?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square&logo=tenderly&logoColor=white" />
 
-### **🛡️ Security & Testing**
-<img src="https://img.shields.io/badge/Slither-000000?style=flat-square&logo=sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Fuzzing-555555?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Tenderly-8B5CF6?style=flat-square&logo=tenderly&logoColor=white" />
-
-### **💻 Frontend Integration**
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Ethers.js-2A3654?style=flat-square&logo=ethers&logoColor=white" /> <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logo=walletconnect&logoColor=white" />
+  <h3>**💻 Frontend Integration**</h3>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Ethers.js-2A3654?style=flat-square&logo=ethers&logoColor=white" /> <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logo=walletconnect&logoColor=white" />
+</div>
 
 ---
 
-<h3>🏗️ Featured Projects</h3>
+<div align="center">
+  <h3>🏗️ Featured Projects</h3>
+</div>
 
 <table width="100%"> 
   <tr>
@@ -125,13 +130,10 @@
 <h3>📈 Engineering Metrics</h3>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&icon_color=007AFF&text_color=9f9f9f&show_rank=true" alt="Stats" height="160" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&bg_color=0d1117&title_color=007AFF&text_color=9f9f9f&icon_color=007AFF" alt="Languages Donut" height="160" />
-
 <br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=007AFF&line=007AFF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" />
-
 </div>
+
+```
