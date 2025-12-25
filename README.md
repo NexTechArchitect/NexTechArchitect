@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=39A7FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Senior+Smart+Contract+Engineer;Building+Secure+DeFi+Protocols" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=39A7FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Senior+Smart+Contract+Engineer;Transitioning+to+Full-Stack+Web3" alt="Typing Effect" />
 </div>
 
 <br />
@@ -15,10 +15,11 @@
         <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
       </ul>
       <br />
-      <h3>🌱 Currently Exploring</h3>
+      <h3>🌱 Currently Exploring (Full-Stack)</h3>
       <ul>
-        <li><strong>Zero Knowledge:</strong> Circom & SnarkJS implementations.</li>
-        <li><strong>Account Abstraction:</strong> ERC-4337 Paymasters & Bundlers.</li>
+        <li>🎨 <strong>Frontend:</strong> Advanced Next.js, React Query & Tailwind CSS.</li>
+        <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
+        <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave (Decentralized) & Supabase/SQL.</li>
       </ul>
       <br />
       <h3>📬 Connect With Me</h3>
@@ -39,7 +40,7 @@
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
       <a href="mailto:amitthapa181133@gmail.com">
-        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&logo=clockify&logoColor=black" />
+        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=for-the-badge&logo=clockify&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -74,14 +75,14 @@
 
   <br/>
 
-  <h4>💻 Frontend Integration</h4>
+  <h4>💻 Frontend & Database Integration</h4>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=walletconnect&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ethers.js-2A3654?style=for-the-badge&logo=ethers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
 <br/>
@@ -143,11 +144,23 @@
   <h2>📈 Engineering Metrics</h2>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats" />
+  <p>
+    <a href="https://github.com/NexTechArchitect">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/NexTechArchitect">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="Streaks" />
+    </a>
+  </p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=donut&hide_border=true&theme=tokyonight" height="160" alt="Langs" />
+  <br/>
+
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+  </p>
   
-  <br/><br/>
+  <br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
