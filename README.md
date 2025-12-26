@@ -180,29 +180,7 @@ Featured Projects
 
 <h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
-Engineering Metrics
-</h2>
-
-<div align="center">
-<a href="https://github.com/NexTechArchitect">
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/NexTechArchitect">
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/NexTechArchitect">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="170" alt="Top Languages" />
-</a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-```
-
-```
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=tokyo-night"/>
