@@ -1,12 +1,9 @@
 <div align="center">
+  <h3>Hi there, I am</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
+</div>
 
-<!-- Header Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20There,%20I'm%20NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;Full+Stack+Web3+Developer;Security+%26+Gas+Optimization;Building+the+Future+of+DeFi" alt="Typing SVG" />
-</h3>
-
+<br />
 <p align="center">
   <a href="https://github.com/NexTechArchitect">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000"/>
