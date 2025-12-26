@@ -149,17 +149,19 @@
   <h2>📈 Engineering Metrics</h2>
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexTechArchitect&theme=tokyonight" alt="Profile Details" />
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00E5FF" height="170" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="170" alt="Top Languages" />
+  </a>
 
   <br/><br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="85%" alt="Streak" />
   </a>
-  
-  <br/><br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NexTechArchitect&theme=tokyonight" alt="Languages" />
   
   <br/><br/>
   
