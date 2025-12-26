@@ -54,6 +54,7 @@ Advanced Concepts:
   ├─ Invariant Testing & Fuzzing
   └─ Multi-sig & DAO Governance
 
+
 ```
 
 </td>
@@ -75,6 +76,7 @@ Backend & APIs:
   ├─ IPFS & Decentralized Storage
   └─ Supabase (PostgreSQL)
 
+
 ```
 
 </td>
@@ -88,30 +90,38 @@ Technical Arsenal
 
 <div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nextjs,react,tailwind,nodejs,postgres,graphql,git,github,vscode,linux,docker&perline=7" />
-</p>
+#### 🔗 Blockchain & EVM Architecture
 
-#### 🔗 Blockchain & Web3
-
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Solidity-363636%3Fstyle%3Dflat-square%26logo%3Dsolidity%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF04E?style=flat-square&logo=ethereum&logoColor=black" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
 <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
 
-#### 🛡️ Security Tools
+#### 🛡️ Security & Auditing
 
 <img src="https://img.shields.io/badge/Slither-FF6B6B?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Echidna-8B4513?style=flat-square" />
 <img src="https://img.shields.io/badge/Tenderly-805CF6?style=flat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mythril-5C5C5C%3Fstyle%3Dflat-square" />
 
-#### 🗄️ Backend & Data
+#### 💻 Web3 Integration & Frontend
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dflat-square%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wagmi-000000%3Fstyle%3Dflat-square%26logo%3Dethereum%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ethers.js-2A2C3E%3Fstyle%3Dflat-square%26logo%3Dethereum%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
+
+#### 🛠️ Tools & Infrastructure
 
 <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Alchemy-2356F7?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" />
 
 </div>
 
@@ -124,28 +134,14 @@ Featured Projects
 <tr>
 <td width="33%" align="center">
 
-
-
-
-
 <h3>🏦 DeFi StableCoin</h3>
 <p>Exogenous collateralized CDP engine.</p>
 <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
-
-
-
-
-
-
 </td>
 <td width="33%" align="center">
-
-
-
-
 
 <h3>🎲 Fair Lottery (VRF)</h3>
 <p>Tamper-proof randomness via Chainlink.</p>
@@ -153,18 +149,8 @@ Featured Projects
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
-
-
-
-
-
-
 </td>
 <td width="33%" align="center">
-
-
-
-
 
 <h3>🎨 IPFS Advanced NFT</h3>
 <p>Merkle Whitelisting & Dynamic Metadata.</p>
@@ -172,20 +158,10 @@ Featured Projects
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
-
-
-
-
-
-
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
-
-
-
-
 
 <h3>🪂 SISO Merkle Airdrop</h3>
 <p>Gas-optimized EIP-712 Distribution.</p>
@@ -193,18 +169,8 @@ Featured Projects
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
-
-
-
-
-
-
 </td>
 <td width="33%" align="center">
-
-
-
-
 
 <h3>🪙 SISO ERC20 Token</h3>
 <p>Mintable Asset with Access Control.</p>
@@ -212,30 +178,14 @@ Featured Projects
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
-
-
-
-
-
-
 </td>
 <td width="33%" align="center">
-
-
-
-
 
 <h3>💰 FundMe Contract</h3>
 <p>Crowdfunding via Chainlink Price Feeds.</p>
 <a href="https://github.com/NexTechArchitect/FundMe-Contract">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
-
-
-
-
-
-
 
 </td>
 </tr>
@@ -255,17 +205,9 @@ Engineering Metrics
 <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Streak" />
 </a>
 
-
-
-
-
 <a href="https://github.com/NexTechArchitect">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="170" alt="Top Languages" />
 </a>
-
-
-
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
@@ -273,7 +215,5 @@ Engineering Metrics
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-
-```
 
 ```
