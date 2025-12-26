@@ -147,25 +147,23 @@
 
 <div align="center">
 <div align="center">
-  <h2>📈 Engineering Metrics</h2>
+<h2>📈 Engineering Metrics</h2>
   <br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+    <img src="https://img.shields.io/github/followers/NexTechArchitect?style=for-the-badge&color=00E5FF&labelColor=000000&label=Followers&logo=github" />
   </a>
   &nbsp;
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
+    <img src="https://img.shields.io/github/stars/NexTechArchitect?style=for-the-badge&color=00E5FF&labelColor=000000&label=Total%20Stars&logo=apachespark" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NexTechArchitect?tab=repositories">
+    <img src="https://img.shields.io/github/public-members/NexTechArchitect?style=for-the-badge&color=00E5FF&labelColor=000000&label=Repositories&logo=github" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="85%" alt="Streak" />
-  </a>
-  
-  <br/><br/>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
