@@ -92,112 +92,71 @@ Backend & APIs:
 
 ---
 
-## Featured Projects
+<h2>
+  Featured Projects
+</h2>
 
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-<b>🏦 DeFi Stablecoin</b>
-
-
-
-
-Exogenous CDP Engine
-
-
-
-
-<a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<b>🎲 Fair Lottery</b>
-
-
-
-
-Chainlink VRF Randomness
-
-
-
-
-<a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<b>🎨 IPFS NFT</b>
-
-
-
-
-Merkle + Dynamic Metadata
-
-
-
-
-<a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>🪂 Merkle Airdrop</b>
-
-
-
-
-EIP-712 Claims
-
-
-
-
-<a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</td>
-
-<td align="center">
-<b>🪙 ERC20 Token</b>
-
-
-
-
-Mint & Access Control
-
-
-
-
-<a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</td>
-
-<td align="center">
-<b>💰 FundMe</b>
-
-
-
-
-Chainlink Price Feeds
-
-
-
-
-<a href="https://github.com/NexTechArchitect/FundMe-Contract">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🏦 DeFi StableCoin</h3>
+      <p>Exogenous collateralized CDP engine. Algorithmic stablecoin system.</p>
+      <p><code>Solidity</code> <code>Foundry</code> <code>Math</code></p>
+      <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
+        <strong>🔗 View Source Code</strong>
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎲 Fair Lottery</h3>
+      <p>Tamper-proof randomness using Chainlink VRF & Automation.</p>
+      <p><code>Chainlink VRF</code> <code>Solidity</code> <code>Events</code></p>
+      <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
+        <strong>🔗 View Source Code</strong>
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 IPFS Advanced NFT</h3>
+      <p>ERC721 collection with Merkle Whitelisting & Dynamic Metadata.</p>
+      <p><code>Merkle Tree</code> <code>IPFS</code> <code>ERC721</code></p>
+      <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
+        <strong>🔗 View Source Code</strong>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🪂 SISO Airdrop</h3>
+      <p>Gas-optimized token distribution using EIP-712 Signatures.</p>
+      <p><code>EIP-712</code> <code>Cryptography</code> <code>ECDSA</code></p>
+      <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
+        <strong>🔗 View Source Code</strong>
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🪙 SISO Token</h3>
+      <p>Professional ERC20 implementation with Access Control & Minting.</p>
+      <p><code>ERC20</code> <code>OpenZeppelin</code> <code>Roles</code></p>
+      <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
+        <strong>🔗 View Source Code</strong>
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>💰 FundMe Contract</h3>
+      <p>Decentralized crowdfunding utilizing Chainlink Price Feeds.</p>
+      <p><code>AggregatorV3</code> <code>DeFi</code> <code>Payable</code></p>
+      <a href="https://github.com/NexTechArchitect/FundMe-Contract">
+        <strong>🔗 View Source Code</strong>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
-
----
-
 ## Engineering Metrics
 
 <div align="center">
