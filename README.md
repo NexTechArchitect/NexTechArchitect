@@ -165,27 +165,28 @@
 <br/>
 
 <div align="center">
-<h2>📈 Engineering Metrics</h2>
+<div align="center">
+  <h2>📈 Engineering Metrics</h2>
   <br/>
-  
+
   <p align="center">
     <a href="https://github.com/NexTechArchitect">
-      <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/NexTechArchitect">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/NexTechArchitect">
-      <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=midnight-purple&hide_border=true" height="180" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Streak" />
     </a>
   </p>
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=000000&color=9e4c98&line=9e4c98&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
