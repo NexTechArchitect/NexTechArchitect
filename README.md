@@ -10,18 +10,18 @@
     <td width="65%" valign="top">
       <h3>⚡ Professional Focus</h3>
       <ul>
-        <li>🔐 <strong>Security:</strong> Smart Contract Auditing, Invariant Fuzzing & Formal Verification.</li>
-        <li>🧱 <strong>Architecture:</strong> Designing Gas-Optimized, Upgradeable Systems.</li>
-        <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization.</li>
+        <li>🔐 <strong>Security:</strong> Smart Contract Auditing, Invariant Fuzzing & Formal Verification</li>
+        <li>🧱 <strong>Architecture:</strong> Designing Gas-Optimized, Upgradeable Systems</li>
+        <li>⚙️ <strong>EVM Deep Dive:</strong> Low-level Assembly (Yul) & Opcode Optimization</li>
       </ul>
       
    <br />
 
    <h3>🌱 Currently Exploring</h3>
       <ul>
-        <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi.</li>
-        <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK.</li>
-        <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave & Supabase (SQL).</li>
+        <li>🎨 <strong>Frontend:</strong> Next.js, React Query, Tailwind CSS & Wagmi</li>
+        <li>🔌 <strong>APIs & Data:</strong> The Graph (Subgraphs) & Alchemy SDK</li>
+        <li>🗄️ <strong>Storage & DB:</strong> IPFS/Arweave & Supabase (SQL)</li>
       </ul>
 
   <br />
@@ -40,7 +40,7 @@
       </a>
     </td>
 
-  <td width="35%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <br />
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
@@ -103,7 +103,7 @@
     <td width="33%" align="center">
       <br/>
       <h3>🏦 DeFi StableCoin</h3>
-      <p>Exogenous collateralized CDP engine.</p>
+      <p>Exogenous collateralized CDP engine</p>
       <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
         <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -112,7 +112,7 @@
     <td width="33%" align="center">
       <br/>
       <h3>🎲 Fair Lottery (VRF)</h3>
-      <p>Tamper-proof randomness via Chainlink.</p>
+      <p>Tamper-proof randomness via Chainlink</p>
       <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
         <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -121,7 +121,7 @@
     <td width="33%" align="center">
       <br/>
       <h3>🎨 IPFS Advanced NFT</h3>
-      <p>Merkle Whitelisting & Dynamic Metadata.</p>
+      <p>Merkle Whitelisting & Dynamic Metadata</p>
       <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
         <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -133,7 +133,7 @@
     <td width="33%" align="center">
       <br/>
       <h3>🪂 SISO Merkle Airdrop</h3>
-      <p>Gas-optimized EIP-712 Distribution.</p>
+      <p>Gas-optimized EIP-712 Distribution</p>
       <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
         <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -142,7 +142,7 @@
     <td width="33%" align="center">
       <br/>
       <h3>🪙 SISO ERC20 Token</h3>
-      <p>Mintable Asset with Access Control.</p>
+      <p>Mintable Asset with Access Control</p>
       <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
         <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -151,7 +151,7 @@
     <td width="33%" align="center">
       <br/>
       <h3>💰 FundMe Contract</h3>
-      <p>Crowdfunding via Chainlink Price Feeds.</p>
+      <p>Crowdfunding via Chainlink Price Feeds</p>
       <a href="https://github.com/NexTechArchitect/FundMe-Contract">
         <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
@@ -165,28 +165,31 @@
 <br/>
 
 <div align="center">
-<div align="center">
   <h2>📈 Engineering Metrics</h2>
   <br/>
 
   <p align="center">
-    <a href="https://github.com/NexTechArchitect">
-      <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
     &nbsp;&nbsp;
-    <a href="https://github.com/NexTechArchitect">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" alt="Top Languages" />
   </p>
 
   <p align="center">
-    <a href="https://github.com/NexTechArchitect">
-      <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Streak" />
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
   </p>
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexTechArchitect&theme=tokyonight" width="100%" alt="Contribution Graph" />
 
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h3>💡 "Building the future of decentralized finance, one block at a time"</h3>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&color=25c2a0&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
