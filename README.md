@@ -1,79 +1,64 @@
-
 <div align="center">
-
-### Hi, I’m NexTechArchitect
-**Smart Contract Engineer | Web3 Developer**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=25C2A0&center=true&vCenter=true&width=650&lines=NexTechArchitect;Smart+Contract+Engineer;Web3+Developer" />
-
-<p>
-<a href="https://github.com/NexTechArchitect">
-<img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/amit-kumar-811a11277">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amitthapa181133@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-📍 India • 🟢 Open to Work
-
+  <h3>Hi there, I am</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
 </div>
 
----
+<br />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amit-kumar-811a11277">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amitthapa181133@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-007AFF?style=for-the-badge&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-India-FF4500?style=for-the-badge&logo=google-maps&logoColor=white"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="skills">
+  Learning Journey
+</h2>
 
 <table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Engineering Expertise
-
-```yaml
-Core Blockchain:
-  ├─ Solidity (Inline Assembly)
-  ├─ Foundry (Invariant Fuzzing)
-  ├─ EVM Opcode Optimization
-  └─ Smart Contract Security
-
-System Architecture:
-  ├─ Upgradeable Proxies (UUPS)
-  ├─ Algorithmic DeFi Math
-  ├─ Cross-Chain Messaging
-  └─ DAO Governance Logic
-
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Stack Expansion
-
-```yaml
-Full Stack Web3:
-  ├─ Next.js 14 (App Router)
-  ├─ TypeScript & Wagmi v2
-  ├─ Tailwind & Shadcn UI
-  └─ Client State Management
-
-Data & Infrastructure:
-  ├─ Subgraphs (The Graph)
-  ├─ Alchemy & RPC Config
-  ├─ IPFS / Arweave Storage
-  └─ Supabase (PostgreSQL)
-
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Engineering Expertise</h3>
+      <ul>
+        <li>💎 <strong>Solidity:</strong> Inline Assembly (Yul) & Gas Optimization</li>
+        <li>🏗️ <strong>Foundry:</strong> Invariant Fuzzing & Scripting</li>
+        <li>🛡️ <strong>Security:</strong> Manual Auditing & Slither Analysis</li>
+        <li>⚖️ <strong>DeFi Architecture:</strong> Lending Pools & AMM Logic</li>
+        <li>⚙️ <strong>EVM Internals:</strong> Storage Layout & Opcodes</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Full Stack Expansion</h3>
+      <ul>
+        <li>🎨 <strong>Frontend:</strong> Next.js 14 (App Router) & Tailwind</li>
+        <li>🔌 <strong>Integration:</strong> Wagmi v2 & Viem</li>
+        <li>📊 <strong>Data:</strong> The Graph (Subgraphs) & Indexing</li>
+        <li>🧱 <strong>Infra:</strong> Alchemy RPC & Node Management</li>
+        <li>🗄️ <strong>Storage:</strong> IPFS & Supabase (PostgreSQL)</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
+<br/>
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="tech">
@@ -115,6 +100,9 @@ Data & Infrastructure:
 </p>
 
 </div>
+
+<br/>
+
 <h2>
   Featured Projects
 </h2>
@@ -180,20 +168,34 @@ Data & Infrastructure:
     </td>
   </tr>
 </table>
-## Engineering Metrics
+
+<br/>
+
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
+  Engineering Metrics
+</h2>
 
 <div align="center">
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="170" alt="Top Languages" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="140"/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="140"/>
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNexTechArchitect%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="140"/>
-
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DNexTechArchitect%26theme%3Dtokyo-night%26hide_border%3Dtrue%26bg_color%3D0D1117"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
-```
-
-```
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
