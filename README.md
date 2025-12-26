@@ -86,27 +86,34 @@ Backend & APIs:
 Technical Arsenal
 </h2>
 
-<h4>💻 Programming Languages</h4>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<div align="center">
 
-<h4>🧱 Blockchain Frameworks</h4>
-<img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardhat-FFF04E%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dblack" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nextjs,react,tailwind,nodejs,postgres,graphql,git,github,vscode,linux,docker&perline=7" />
+</p>
 
-<h4>🛡️ Security & Auditing</h4>
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Slither-000000%3Fstyle%3Dfor-the-badge%26logo%3Dshield%26logoColor%3Dwhite" />
+#### 🔗 Blockchain & Web3
 
-<h4>🌐 Frontend & Data</h4>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/The_Graph-0C0A1C%3Fstyle%3Dfor-the-badge%26logo%3Dgraphql%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/IPFS-65C2CB%3Fstyle%3Dfor-the-badge%26logo%3Dipfs%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF04E?style=flat-square&logo=ethereum&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+
+#### 🛡️ Security Tools
+
+<img src="https://img.shields.io/badge/Slither-FF6B6B?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Echidna-8B4513?style=flat-square" />
+<img src="https://img.shields.io/badge/Tenderly-805CF6?style=flat-square" />
+
+#### 🗄️ Backend & Data
+
+<img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Alchemy-2356F7?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+</div>
 
 <h2>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28px" alt="projects">
@@ -173,7 +180,6 @@ Featured Projects
 
 </td>
 </tr>
-
 <tr>
 <td width="33%" align="center">
 
