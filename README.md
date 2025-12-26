@@ -71,27 +71,46 @@ Backend & APIs:
 </tr>
 </table>
 
-## Tech Stack
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="tech">
+  Technical Arsenal
+</h2>
 
-**Blockchain & EVM**
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Solidity-363636%3Fstyle%3Dflat-square%26logo%3Dsolidity%26logoColor%3Dwhite"/>
-<img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardhat-FFF04E%3Fstyle%3Dflat-square%26logo%3Dhardhat%26logoColor%3Dblack"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+<div align="center">
 
-**Security**
-<img src="https://img.shields.io/badge/Slither-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Echidna-8B4513%3Fstyle%3Dflat-square%26logo%3Drust%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tenderly-805CF6%3Fstyle%3Dflat-square%26logo%3Dethereum%26logoColor%3Dwhite"/>
+<h3>🧱 Smart Contract & EVM Architecture</h3>
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF04E?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+</p>
 
-**Frontend**
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dflat-square%26logo%3Dnextdotjs%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwindcss%26logoColor%3Dwhite"/>
+<br/>
 
----
+<h3>🛡️ Security, Auditing & Tooling</h3>
+<p>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tenderly-805CF6?style=for-the-badge&logo=tenderly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+<br/>
+
+<h3>🌐 Full Stack Integration & DApps</h3>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+</div>
 <h2>
   Featured Projects
 </h2>
