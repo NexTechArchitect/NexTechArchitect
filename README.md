@@ -43,16 +43,16 @@
 ```yaml
 Smart Contracts:
   ├─ Solidity (Advanced)
-  ├─ Foundry Testing & Deployment
-  ├─ Gas Optimization & EVM Internals
-  ├─ Security Auditing & Best Practices
-  └─ DeFi Protocol Architecture
+  ├─ Foundry Testing
+  ├─ Gas Optimization
+  ├─ Security Auditing
+  └─ DeFi Architecture
 
 Advanced Concepts:
-  ├─ Upgradeable Contracts (Proxy Patterns)
-  ├─ Assembly & Yul Optimization
-  ├─ Invariant Testing & Fuzzing
-  └─ Multi-sig & DAO Governance
+  ├─ Upgradeable Proxies
+  ├─ Assembly (Yul)
+  ├─ Fuzzing & Invariants
+  └─ DAO Governance
 
 
 ```
@@ -64,17 +64,17 @@ Advanced Concepts:
 
 ```yaml
 Frontend Development:
-  ├─ Next.js & React Ecosystem
-  ├─ TypeScript & Modern JS
-  ├─ Tailwind CSS & UI/UX
-  ├─ Wagmi & Web3 Integration
-  └─ React Query & State Management
+  ├─ Next.js & React
+  ├─ TypeScript
+  ├─ Tailwind CSS
+  ├─ Wagmi Integration
+  └─ State Management
 
 Backend & APIs:
-  ├─ The Graph (Subgraphs)
-  ├─ Alchemy SDK & Node Services
-  ├─ IPFS & Decentralized Storage
-  └─ Supabase (PostgreSQL)
+  ├─ The Graph
+  ├─ Alchemy SDK
+  ├─ IPFS Storage
+  └─ Supabase
 
 
 ```
@@ -90,38 +90,34 @@ Technical Arsenal
 
 <div align="center">
 
-#### 🔗 Blockchain & EVM Architecture
+#### 🔗 Blockchain & EVM
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Solidity-363636%3Fstyle%3Dflat-square%26logo%3Dsolidity%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF04E?style=flat-square&logo=ethereum&logoColor=black" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Solidity-363636%3Fstyle%3Dfor-the-badge%26logo%3Dsolidity%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Foundry-000000%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardhat-FFF04E%3Fstyle%3Dfor-the-badge%26logo%3Dhardhat%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ethereum-3C3C3D%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Chainlink-375BD2%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" />
 
 #### 🛡️ Security & Auditing
 
-<img src="https://img.shields.io/badge/Slither-FF6B6B?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Echidna-8B4513?style=flat-square" />
-<img src="https://img.shields.io/badge/Tenderly-805CF6?style=flat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mythril-5C5C5C%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Slither-FF6B6B%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Echidna-8B4513%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tenderly-805CF6%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite" />
 
-#### 💻 Web3 Integration & Frontend
+#### 💻 Web3 & Frontend
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dflat-square%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wagmi-000000%3Fstyle%3Dflat-square%26logo%3Dethereum%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ethers.js-2A2C3E%3Fstyle%3Dflat-square%26logo%3Dethereum%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wagmi-000000%3Fstyle%3Dfor-the-badge%26logo%3Dwalletconnect%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" />
 
-#### 🛠️ Tools & Infrastructure
+#### 🛠️ Tools & Infra
 
-<img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/The_Graph-0C0A1C%3Fstyle%3Dfor-the-badge%26logo%3Dgraphql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/IPFS-65C2CB%3Fstyle%3Dfor-the-badge%26logo%3Dipfs%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
 
 </div>
 
@@ -137,7 +133,7 @@ Featured Projects
 <h3>🏦 DeFi StableCoin</h3>
 <p>Exogenous collateralized CDP engine.</p>
 <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
 </td>
@@ -146,7 +142,7 @@ Featured Projects
 <h3>🎲 Fair Lottery (VRF)</h3>
 <p>Tamper-proof randomness via Chainlink.</p>
 <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
 </td>
@@ -155,7 +151,7 @@ Featured Projects
 <h3>🎨 IPFS Advanced NFT</h3>
 <p>Merkle Whitelisting & Dynamic Metadata.</p>
 <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
 </td>
@@ -166,7 +162,7 @@ Featured Projects
 <h3>🪂 SISO Merkle Airdrop</h3>
 <p>Gas-optimized EIP-712 Distribution.</p>
 <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
 </td>
@@ -175,7 +171,7 @@ Featured Projects
 <h3>🪙 SISO ERC20 Token</h3>
 <p>Mintable Asset with Access Control.</p>
 <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
 </td>
@@ -184,7 +180,7 @@ Featured Projects
 <h3>💰 FundMe Contract</h3>
 <p>Crowdfunding via Chainlink Price Feeds.</p>
 <a href="https://github.com/NexTechArchitect/FundMe-Contract">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Repo-2ea44f%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
 
 </td>
@@ -215,5 +211,7 @@ Engineering Metrics
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
+
+```
 
 ```
