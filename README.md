@@ -28,48 +28,52 @@
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Mastered Skills
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Engineering Expertise
 
 ```yaml
-Smart Contracts:
-  ├─ Solidity (Advanced)
-  ├─ Foundry Testing
-  ├─ Gas Optimization
-  ├─ Security Auditing
-  └─ DeFi Architecture
+Core Blockchain:
+  ├─ Solidity (Inline Assembly)
+  ├─ Foundry (Invariant Fuzzing)
+  ├─ EVM Opcode Optimization
+  └─ Smart Contract Security
 
-Advanced Concepts:
-  ├─ Upgradeable Contracts
-  ├─ Assembly & Yul
-  ├─ Fuzzing
-  └─ DAO Governance
+System Architecture:
+  ├─ Upgradeable Proxies (UUPS)
+  ├─ Algorithmic DeFi Math
+  ├─ Cross-Chain Messaging
+  └─ DAO Governance Logic
 
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Currently Exploring
+### 🚀 Stack Expansion
 
 ```yaml
-Frontend Development:
-  ├─ Next.js & React
-  ├─ TypeScript
-  ├─ Tailwind CSS
-  ├─ Wagmi Integration
-  └─ State Management
+Full Stack Web3:
+  ├─ Next.js 14 (App Router)
+  ├─ TypeScript & Wagmi v2
+  ├─ Tailwind & Shadcn UI
+  └─ Client State Management
 
-Backend & APIs:
-  ├─ The Graph
-  ├─ Alchemy SDK
-  ├─ IPFS Storage
-  └─ Supabase
+Data & Infrastructure:
+  ├─ Subgraphs (The Graph)
+  ├─ Alchemy & RPC Config
+  ├─ IPFS / Arweave Storage
+  └─ Supabase (PostgreSQL)
 
 ```
 
 </td>
 </tr>
 </table>
+
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="tech">
