@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing Effect" />
 </div>
 
 <br />
@@ -28,7 +28,7 @@
       
    <h3>📬 Connect With Me</h3>
       <a href="https://github.com/NexTechArchitect">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
       </a>
       &nbsp;
       <a href="https://www.linkedin.com/in/amit-kumar-811a11277">
@@ -36,7 +36,7 @@
       </a>
       &nbsp;
       <a href="mailto:amitthapa181133@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
       </a>
     </td>
 
@@ -45,7 +45,7 @@
       <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" style="border-radius: 10px;" />
       <br/><br/>
       <a href="mailto:amitthapa181133@gmail.com">
-        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-007AFF?style=for-the-badge&logo=clockify&logoColor=white" />
+        <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-25c2a0?style=for-the-badge&logo=clockify&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -59,35 +59,35 @@
   <h2>🛠️ Technical Arsenal</h2>
   
   <h4>🧱 Core Smart Contract & EVM</h4>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundry-be5212?style=flat-square&logo=rust&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge&logo=remix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix_IDE-000000?style=flat-square&logo=remix&logoColor=white" />
 
   <br/>
 
   <h4>🛡️ Security & Auditing Tools</h4>
-  <img src="https://img.shields.io/badge/OpenZeppelin-4e5ee4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4e5ee4?style=flat-square&logo=openzeppelin&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Chainlink-375bd2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375bd2?style=flat-square&logo=chainlink&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Slither-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Slither-000000?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Tenderly-805cf6?style=for-the-badge&logo=tenderly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tenderly-805cf6?style=flat-square&logo=tenderly&logoColor=white" />
 
   <br/>
 
   <h4>💻 Frontend & Database Integration</h4>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=flat-square&logo=thegraph&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </div>
 
 <br/>
@@ -100,41 +100,60 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <br/>
       <h3>🏦 DeFi StableCoin</h3>
       <p>Exogenous collateralized CDP engine.</p>
       <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-        <img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br/><br/>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <br/>
       <h3>🎲 Fair Lottery (VRF)</h3>
-      <p>Tamper-proof randomness via Chainlink VRF.</p>
+      <p>Tamper-proof randomness via Chainlink.</p>
       <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-        <img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br/><br/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <br/>
       <h3>🎨 IPFS Advanced NFT</h3>
       <p>Merkle Whitelisting & Dynamic Metadata.</p>
       <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-        <img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br/><br/>
     </td>
-    <td width="50%" align="center">
+  </tr>
+  
+  <tr>
+    <td width="33%" align="center">
       <br/>
       <h3>🪂 SISO Merkle Airdrop</h3>
       <p>Gas-optimized EIP-712 Distribution.</p>
       <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
-        <img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <h3>🪙 SISO ERC20 Token</h3>
+      <p>Mintable Asset with Access Control.</p>
+      <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
+        <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <h3>💰 FundMe Contract</h3>
+      <p>Crowdfunding via Chainlink Price Feeds.</p>
+      <a href="https://github.com/NexTechArchitect/FundMe-Contract">
+        <img src="https://img.shields.io/badge/Code-View_Repo-21262d?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br/><br/>
     </td>
@@ -146,26 +165,27 @@
 <br/>
 
 <div align="center">
-<div align="center">
 <h2>📈 Engineering Metrics</h2>
   <br/>
-
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-  </a>
   
-  <br/><br/>
+  <p align="center">
+    <a href="https://github.com/NexTechArchitect">
+      <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="GitHub Stats" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/NexTechArchitect">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/NexTechArchitect">
+      <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=midnight-purple&hide_border=true" height="180" alt="GitHub Streak" />
+    </a>
+  </p>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=1a1b27&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=000000&color=9e4c98&line=9e4c98&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
