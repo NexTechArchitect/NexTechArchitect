@@ -91,62 +91,9 @@ Backend & APIs:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-<br><strong>Solidity</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><strong>Next.js</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br><strong>GraphQL</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nextjs,react,tailwind,nodejs,postgres,graphql,git,github,vscode,linux,docker&perline=7" />
+</p>
 
 #### 🔗 Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
@@ -177,27 +124,15 @@ Backend & APIs:
 </h2>
 
 <div align="center">
+  
+[![DeFi StableCoin](https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Foundry-Defi-StableCoin&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
+[![Raffle Lottery](https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Raffle-Lottery-Foundry&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
 
-<a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Foundry-Defi-StableCoin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-</a>
-<a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Raffle-Lottery-Foundry&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-</a>
+[![Advanced NFT](https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=ERC721-Advanced-IPFS-NFT&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)
+[![Merkle Airdrop](https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Siso-Merkle-Airdrop&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
 
-<a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=ERC721-Advanced-IPFS-NFT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-</a>
-<a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=Siso-Merkle-Airdrop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-</a>
-
-<a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=SISO-Token-ERC20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-</a>
-<a href="https://github.com/NexTechArchitect/FundMe-Contract">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=FundMe-Contract&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/>
-</a>
+[![SISO Token](https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=SISO-Token-ERC20&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/NexTechArchitect/SISO-Token-ERC20)
+[![FundMe Contract](https://github-readme-stats.vercel.app/api/pin/?username=NexTechArchitect&repo=FundMe-Contract&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/NexTechArchitect/FundMe-Contract)
 
 </div>
 
@@ -210,34 +145,34 @@ Backend & APIs:
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=NexTechArchitect&theme=react&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NexTechArchitect&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=00d9ff&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NexTechArchitect&theme=react&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=false&border_color=00d9ff" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
 <!-- Footer -->
 <div align="center">
-  
-### 💬 Let's Connect & Build Together!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/NexTechArchitect)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
