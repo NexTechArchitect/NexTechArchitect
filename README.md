@@ -85,44 +85,35 @@ Backend & APIs:
 
 <h2>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="tech">
-Technical Arsenal
-</h2>
-
 <div align="center">
 
-#### 🔗 Blockchain & EVM
+### 🔗 Blockchain & EVM
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF04E?style=for-the-badge&logo=hardhat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Solidity-363636%3Fstyle%3Dfor-the-badge%26logo%3Dsolidity%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Foundry-000000%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardhat-FFF04E%3Fstyle%3Dfor-the-badge%26logo%3Dhardhat%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ethereum-3C3C3D%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Chainlink-375BD2%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" />
+### 🛡️ Security & Auditing
+<img src="https://img.shields.io/badge/Slither-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Echidna-8B4513?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tenderly-805CF6?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
-#### 🛡️ Security & Auditing
+### 💻 Web3 & Frontend
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=walletconnect&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Slither-FF6B6B%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Echidna-8B4513%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tenderly-805CF6%3Fstyle%3Dfor-the-badge%26logo%3Dethereum%26logoColor%3Dwhite" />
-
-#### 💻 Web3 & Frontend
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wagmi-000000%3Fstyle%3Dfor-the-badge%26logo%3Dwalletconnect%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" />
-
-#### 🛠️ Tools & Infra
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/The_Graph-0C0A1C%3Fstyle%3Dfor-the-badge%26logo%3Dgraphql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/IPFS-65C2CB%3Fstyle%3Dfor-the-badge%26logo%3Dipfs%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+### 🛠️ Tools & Infra
+<img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
-<h2>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28px" alt="projects">
 Featured Projects
 </h2>
 
