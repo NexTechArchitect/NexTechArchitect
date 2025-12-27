@@ -170,26 +170,22 @@
 <br/>
 
 <h2 align="center">
- ## 📊 Engineering Metrics
+<br/>
+
+## 📊 Engineering Metrics
 
 <div align="center">
 
 <a href="https://github.com/NexTechArchitect">
-<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" alt="streak"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/NexTechArchitect">
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/NexTechArchitect">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=tokyo-night&hide_border=true&area=true" width="800" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
