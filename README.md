@@ -171,25 +171,16 @@
 
 <h2 align="center">
 <br/>
-
-<br/>
-
-<br/>
-
 ## 📊 Engineering Metrics
 
 <div align="center">
 
-<a href="https://github.com/NexTechArchitect">
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=25c2a0&currStreakNum=25c2a0" height="150" alt="streak"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00FF00&currStreakNum=00FF00&fire=00FF00" height="150" alt="streak" />
 &nbsp;
-<a href="https://github.com/NexTechArchitect">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0" height="150" alt="languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="150" alt="languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=25c2a0&line=25c2a0&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
