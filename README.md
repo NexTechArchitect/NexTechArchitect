@@ -170,48 +170,16 @@
 <br/>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
-  Engineering Metrics
+  🏆 Achievements & Metrics
 </h2>
-
 <div align="center">
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NexTechArchitect&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35" width="100%" alt="Footer" />
 </div>
-  Engineering Metrics
-</h2>
+
+<br/><br/>
 
 <div align="center">
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35" width="100%" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Connect+with+me+above!" alt="Footer" />
 </div>
