@@ -176,24 +176,11 @@
 <h2 align="center">⚡ Engineering Metrics</h2>
 
 <div align="center">
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
   <br/><br/>
-
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-  </a>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Langs" />
   <br/><br/>
-  
-  <img src="https://github.com/NexTechArchitect/NexTechArchitect/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-  
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&height=100" width="100%" />
 </div>
