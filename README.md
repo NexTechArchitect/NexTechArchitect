@@ -167,15 +167,11 @@
   </tr>
 </table>
 
-<br/>
-
-<h2 align="center">
-<br/>
 ## 📊 Engineering Metrics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00FF00&currStreakNum=00FF00&fire=00FF00" height="150" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="150" alt="stats" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="150" alt="languages" />
 
