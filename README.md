@@ -176,21 +176,21 @@
 <h2 align="center">Engineering Metrics</h2>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=NexTechArchitect&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
 
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak -->
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity.svg?username=NexTechArchitect&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br/><br/>
 
-  <!-- GitHub Top Languages Card -->
+  <!-- Top Languages -->
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs.svg?username=NexTechArchitect&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   <br/><br/>
 
