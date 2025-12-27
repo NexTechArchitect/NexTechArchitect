@@ -172,20 +172,18 @@
 <h2 align="center">
 <br/>
 
+<br/>
+
 ## 📊 Engineering Metrics
 
 <div align="center">
 
-<a href="https://github.com/NexTechArchitect">
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" alt="streak"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/NexTechArchitect">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dracula&hide_border=true" height="150" alt="streak" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&theme=dracula&hide_border=true&layout=compact" height="150" alt="languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=dracula&hide_border=true&area=true" width="600" alt="activity-graph" />
 
 </div>
