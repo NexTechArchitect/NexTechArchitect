@@ -188,6 +188,28 @@
   <a href="https://github.com/NexTechArchitect">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
   </a>
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35" width="100%" alt="Footer" />
+</div>
+  Engineering Metrics
+</h2>
+
+<div align="center">
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  </a>
 
   <br/><br/>
 
