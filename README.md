@@ -103,9 +103,7 @@
 
 <br/>
 
-<h2>
-  Featured Projects
-</h2>
+<h2>Featured Projects</h2>
 
 <table border="0" width="100%">
   <tr>
@@ -171,14 +169,27 @@
 
 <br/>
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
-## ⚡ Engineering Metrics
+  Engineering Metrics
+</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true)
+  <br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true)
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  </a>
 
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35)
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35" width="100%" alt="Footer" />
+</div>
