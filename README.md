@@ -175,10 +175,10 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
 ## ⚡ Engineering Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/NexTechArchitect)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true)](https://github.com/NexTechArchitect)
+![GitHub Streak](https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NexTechArchitect)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35)
