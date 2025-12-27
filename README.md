@@ -177,24 +177,23 @@
 
 <div align="center">
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   </a>
-  
+
   <br/><br/>
 
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   </a>
-
+  
   <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
+  
+  <img src="https://github.com/NexTechArchitect/NexTechArchitect/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  
+  <br/><br/>
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&height=100&section=footer" width="100%" alt="Footer" />
 </div>
