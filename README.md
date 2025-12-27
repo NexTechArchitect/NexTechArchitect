@@ -173,25 +173,12 @@
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
-<h2 align="center">⚡ Engineering Metrics</h2>
+## ⚡ Engineering Metrics
 
-<div align="center">
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Streak" />
-  </a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/NexTechArchitect)
 
-  <br/><br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true)](https://github.com/NexTechArchitect)
 
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" alt="Top Languages" />
-  </a>
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NexTechArchitect)
 
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35" width="100%" alt="Footer" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&text=NexTechArchitect&fontSize=30&fontColor=7aa2f7&fontAlignY=35)
