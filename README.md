@@ -173,49 +173,28 @@
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" alt="stats">
- ## 📊 Engineering Metrics
+<h2 align="center">⚡ Engineering Metrics</h2>
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&ring_color=7aa2f7" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
   </a>
   
-  <!-- GitHub Streak Stats -->
+  <br/><br/>
+
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&stroke=7aa2f7&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideNums=c0caf5&currStreakNum=c0caf5&sideLabels=c0caf5" width="49%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
   </a>
-  
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8&card_width=495" width="49%" alt="Top Languages" />
-  </a>
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://github-profile-trophy.vercel.app/?username=NexTechArchitect&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" width="49%" alt="GitHub Trophies" />
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&custom_title=Contribution%20Activity&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&area_color=7aa2f7" width="98%" alt="Contribution Graph" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0D1117&height=100&section=footer" width="100%" alt="Footer" />
 </div>
