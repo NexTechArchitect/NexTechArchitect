@@ -170,16 +170,26 @@
 <br/>
 
 <h2 align="center">
-  🏆 Achievements & Metrics
-</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NexTechArchitect&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
-  </a>
-</div>
-
-<br/><br/>
+ ## 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Connect+with+me+above!" alt="Footer" />
+
+<a href="https://github.com/NexTechArchitect">
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/NexTechArchitect">
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/NexTechArchitect">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexTechArchitect&theme=tokyo-night&hide_border=true&area=true" width="800" alt="Activity Graph" />
+
 </div>
