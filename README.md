@@ -33,17 +33,7 @@
 
 ## 🎯 About Me
 
-```solidity
-contract NexTechArchitect {
-    string public role = "Smart Contract Engineer";
-    string[] public expertise = ["Solidity", "DeFi", "Security Auditing"];
-    bool public openToWork = true;
-    
-    function getCurrentFocus() public pure returns (string memory) {
-        return "Building secure, gas-optimized smart contracts for DeFi protocols";
-    }
-}
-```
+> **Smart Contract Engineer** specializing in secure, gas-optimized DeFi protocols. Passionate about building the next generation of decentralized applications with a focus on security, efficiency, and user experience. Currently exploring advanced Solidity patterns, protocol design, and full-stack Web3 integration.
 
 <br/>
 
@@ -210,7 +200,7 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&currStreakNum=00D9FF&fire=FF6B35&sideNums=00D9FF&currStreakLabel=FFFFFF&dates=888888" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&currStreakNum=00D9FF&fire=FF6B35&sideNums=00D9FF&currStreakLabel=FFFFFF&dates=888888" height="180" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&card_width=320" height="180" alt="Top Languages" />
 
