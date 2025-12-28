@@ -2,10 +2,10 @@
 
 # 👋 Welcome to My Engineering Space
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NexTechArchitect;Smart+Contract+Engineer;Blockchain+Developer;DeFi+Enthusiast" alt="Typing Effect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NexTechArchitect;Smart+Contract+Engineer;Blockchain+Developer;Full+Stack+Web3+Dev" alt="Typing Effect" />
 
 <p align="center">
-  <em>Building the future of decentralized finance, one smart contract at a time</em>
+  <em>Building innovative blockchain solutions and decentralized applications</em>
 </p>
 
 </div>
@@ -30,10 +30,6 @@
 </div>
 
 <br/>
-
-## 🎯 About Me
-
-> **Smart Contract Engineer** specializing in secure, gas-optimized DeFi protocols. Passionate about building the next generation of decentralized applications with a focus on security, efficiency, and user experience. Currently exploring advanced Solidity patterns, protocol design, and full-stack Web3 integration.
 
 <br/>
 
@@ -199,16 +195,21 @@ Decentralized crowdfunding with Chainlink price feeds
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&currStreakNum=00D9FF&fire=FF6B35&sideNums=00D9FF&currStreakLabel=FFFFFF&dates=888888" height="180" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&card_width=320" height="180" alt="Top Languages" />
+
+</div>
+
 <br/>
+
+<div align="center">
 
 ## 🤝 Let's Connect & Build Together
 
 <p>
-<em>Always open to discussing blockchain development, DeFi protocols, or collaboration opportunities</em>
+<em>Open to discussing blockchain development, smart contract architecture, or collaboration opportunities</em>
 </p>
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
