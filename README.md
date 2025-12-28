@@ -8,7 +8,6 @@
 </p>
 
 </div>
-
 ---
 
 <div align="center">
@@ -30,7 +29,6 @@
 
 <br/>
 
-<br/>
 
 ## 💡 Core Competencies
 
