@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing Effect" />
 </div>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NexTechArchitect;Smart+Contract+Engineer;Blockchain+Developer;Full+Stack+Web3+Dev" alt="Typing Effect" />
-
 <p align="center">
   <em>Building innovative blockchain solutions and decentralized applications</em>
 </p>
