@@ -1,179 +1,238 @@
 <div align="center">
-  <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing Effect" />
+
+# 👋 Welcome to My Engineering Space
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NexTechArchitect;Smart+Contract+Engineer;Blockchain+Developer;DeFi+Enthusiast" alt="Typing Effect" />
+
+<p align="center">
+  <em>Building the future of decentralized finance, one smart contract at a time</em>
+</p>
+
 </div>
 
-<br />
+---
 
-<p align="center">
-  <a href="https://github.com/NexTechArchitect">
-    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amit-kumar-811a11277">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:amitthapa181133@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_To_Work-007AFF?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-India-FF4500?style=for-the-badge&logo=google-maps&logoColor=white"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexTechArchitect)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
+
+![Status](https://img.shields.io/badge/🚀_Status-Open_To_Work-00D9FF?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Location-India-FF6B35?style=for-the-badge)
+
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="skills">
-  Learning Journey
-</h2>
+<br/>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Engineering Expertise</h3>
-      <ul>
-        <li>💎 <strong>Solidity:</strong> Inline Assembly (Yul) & Gas Optimization</li>
-        <li>🏗️ <strong>Foundry:</strong> Invariant Fuzzing & Scripting</li>
-        <li>🛡️ <strong>Security:</strong> Manual Auditing & Slither Analysis</li>
-        <li>⚖️ <strong>DeFi Architecture:</strong> Lending Pools & AMM Logic</li>
-        <li>⚙️ <strong>EVM Internals:</strong> Storage Layout & Opcodes</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Full Stack Expansion</h3>
-      <ul>
-        <li>🎨 <strong>Frontend:</strong> Next.js 14 (App Router) & Tailwind</li>
-        <li>🔌 <strong>Integration:</strong> Wagmi v2 & Viem</li>
-        <li>📊 <strong>Data:</strong> The Graph (Subgraphs) & Indexing</li>
-        <li>🧱 <strong>Infra:</strong> Alchemy RPC & Node Management</li>
-        <li>🗄️ <strong>Storage:</strong> IPFS & Supabase (PostgreSQL)</li>
-      </ul>
-    </td>
-  </tr>
+## 🎯 About Me
+
+```solidity
+contract NexTechArchitect {
+    string public role = "Smart Contract Engineer";
+    string[] public expertise = ["Solidity", "DeFi", "Security Auditing"];
+    bool public openToWork = true;
+    
+    function getCurrentFocus() public pure returns (string memory) {
+        return "Building secure, gas-optimized smart contracts for DeFi protocols";
+    }
+}
+```
+
+<br/>
+
+## 💡 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 **Blockchain Engineering**
+
+- **Smart Contracts:** Solidity, Inline Assembly (Yul), Gas Optimization
+- **Development:** Foundry, Hardhat, Forge Testing
+- **Security:** Manual Auditing, Slither, Invariant Fuzzing
+- **DeFi Protocols:** AMMs, Lending Pools, Staking Mechanisms
+- **EVM Deep Dive:** Storage Patterns, Opcodes, Low-level Calls
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 **Full Stack Integration**
+
+- **Frontend:** Next.js 14, React, TypeScript, Tailwind CSS
+- **Web3:** Wagmi v2, Viem, Ethers.js, RainbowKit
+- **Backend:** The Graph (Subgraphs), Node.js, REST APIs
+- **Database:** Supabase, PostgreSQL, IPFS
+- **Infrastructure:** Alchemy, Infura, Tenderly
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" alt="tech">
-  Technical Arsenal
-</h2>
+## 🛠️ Technology Stack
 
 <div align="center">
 
-<h3>🧱 Smart Contract & EVM Architecture</h3>
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry-be5212?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF04E?style=for-the-badge&logo=ethereum&logoColor=black" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-</p>
+### **Blockchain & Smart Contracts**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-BE5212?style=for-the-badge&logo=rust&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04E?style=for-the-badge&logo=ethereum&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-<br/>
+### **Security & Auditing**
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![Tenderly](https://img.shields.io/badge/Tenderly-805CF6?style=for-the-badge&logo=ethereum&logoColor=white)
 
-<h3>🛡️ Security, Auditing & Tooling</h3>
-<p>
-  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slither-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tenderly-805CF6?style=for-the-badge&logo=tenderly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### **Full Stack Development**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=graphql&logoColor=white)
 
-<br/>
-
-<h3>🌐 Full Stack Integration & DApps</h3>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+### **Tools & Infrastructure**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-2356F7?style=for-the-badge&logo=alchemy&logoColor=white)
 
 </div>
 
 <br/>
 
-<h2>Featured Projects</h2>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🏦 DeFi StableCoin</h3>
-      <p>Exogenous collateralized CDP engine. Algorithmic stablecoin system.</p>
-      <p><code>Solidity</code> <code>Foundry</code> <code>Math</code></p>
-      <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-        <strong>🔗 View Source Code</strong>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🎲 Fair Lottery</h3>
-      <p>Tamper-proof randomness using Chainlink VRF & Automation.</p>
-      <p><code>Chainlink VRF</code> <code>Solidity</code> <code>Events</code></p>
-      <a href="https://github.com/NexTechArchitect/Raffle-Lottery-Foundry">
-        <strong>🔗 View Source Code</strong>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🎨 IPFS Advanced NFT</h3>
-      <p>ERC721 collection with Merkle Whitelisting & Dynamic Metadata.</p>
-      <p><code>Merkle Tree</code> <code>IPFS</code> <code>ERC721</code></p>
-      <a href="https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT">
-        <strong>🔗 View Source Code</strong>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🪂 SISO Airdrop</h3>
-      <p>Gas-optimized token distribution using EIP-712 Signatures.</p>
-      <p><code>EIP-712</code> <code>Cryptography</code> <code>ECDSA</code></p>
-      <a href="https://github.com/NexTechArchitect/Siso-Merkle-Airdrop">
-        <strong>🔗 View Source Code</strong>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🪙 SISO Token</h3>
-      <p>Professional ERC20 implementation with Access Control & Minting.</p>
-      <p><code>ERC20</code> <code>OpenZeppelin</code> <code>Roles</code></p>
-      <a href="https://github.com/NexTechArchitect/SISO-Token-ERC20">
-        <strong>🔗 View Source Code</strong>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>💰 FundMe Contract</h3>
-      <p>Decentralized crowdfunding utilizing Chainlink Price Feeds.</p>
-      <p><code>AggregatorV3</code> <code>DeFi</code> <code>Payable</code></p>
-      <a href="https://github.com/NexTechArchitect/FundMe-Contract">
-        <strong>🔗 View Source Code</strong>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-<br/>
-
-## 📊 Engineering Metrics
+## 🚀 Featured Projects
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
+### 🏦 **DeFi StableCoin**
+
+<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
+
+Algorithmic stablecoin with exogenous collateral and CDP liquidation engine
+
+**Tech:** `Solidity` `Foundry` `Chainlink`
+
+[**→ View Project**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎲 **Fair Lottery System**
+
+<img src="https://img.shields.io/badge/Complexity-Intermediate-00D9FF?style=flat-square" />
+
+Provably fair lottery using Chainlink VRF for tamper-proof randomness
+
+**Tech:** `VRF` `Automation` `Events`
+
+[**→ View Project**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎨 **Advanced NFT**
+
+<img src="https://img.shields.io/badge/Complexity-Intermediate-00D9FF?style=flat-square" />
+
+ERC721 with Merkle whitelisting and dynamic IPFS metadata
+
+**Tech:** `Merkle Tree` `IPFS` `ERC721`
+
+[**→ View Project**](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🪂 **SISO Airdrop**
+
+<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
+
+Gas-optimized token distribution using EIP-712 signatures
+
+**Tech:** `EIP-712` `ECDSA` `Cryptography`
+
+[**→ View Project**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🪙 **SISO Token**
+
+<img src="https://img.shields.io/badge/Complexity-Intermediate-00D9FF?style=flat-square" />
+
+Professional ERC20 with role-based access control
+
+**Tech:** `ERC20` `OpenZeppelin` `Roles`
+
+[**→ View Project**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 💰 **FundMe Contract**
+
+<img src="https://img.shields.io/badge/Complexity-Beginner-4CAF50?style=flat-square" />
+
+Decentralized crowdfunding with Chainlink price feeds
+
+**Tech:** `Chainlink` `Payable` `DeFi`
+
+[**→ View Project**](https://github.com/NexTechArchitect/FundMe-Contract)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&currStreakNum=00D9FF&fire=FF6B35&sideNums=00D9FF&currStreakLabel=FFFFFF&dates=888888" height="180" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&card_width=320" height="180" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect & Build Together
+
+<p>
+<em>Always open to discussing blockchain development, DeFi protocols, or collaboration opportunities</em>
+</p>
+
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
+[![Schedule Call](https://img.shields.io/badge/📞_Schedule_Call-00D9FF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
 </div>
