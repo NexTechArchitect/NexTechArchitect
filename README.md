@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to My Engineering Space
+# 👋Hii There, Welcome to My Engineering Space
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NexTechArchitect;Smart+Contract+Engineer;Blockchain+Developer;Full+Stack+Web3+Dev" alt="Typing Effect" />
 
@@ -72,7 +72,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-BE5212?style=for-the-badge&logo=rust&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF04E?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### **Security & Auditing**
