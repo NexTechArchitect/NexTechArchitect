@@ -1,5 +1,4 @@
-<d
-iv align="center">
+<div align="center">
   <h3>Hi there, I am</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing Effect" />
 </div>
