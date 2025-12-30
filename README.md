@@ -208,7 +208,9 @@ Decentralized crowdfunding with Chainlink price feeds
 </p>
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
-[![Schedule Call](https://img.shields.io/badge/📞_Schedule_Call-00D9FF?style=for-the-badge&logo=google-calendar&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
+[![Connect on LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
+[![Follow on Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Chat on Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
 
@@ -216,4 +218,4 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-</div>
+</div>>
