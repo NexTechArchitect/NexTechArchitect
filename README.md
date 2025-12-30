@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,14 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
 
-[![Status](https://img.shields.io/badge/🚀_Status-Open_To_Work-00D9FF?style=for-the-badge)](https://www.linkedin.com/in/amit-kumar-811a11277)
+[![Status](https://img.shields.io/badge/🚀_Status-Open_To_Work-00D9FF?style=for-the-badge)](mailto:amitthapa181133@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Location-India-FF6B35?style=for-the-badge)
-
-### 💼 Open to Work - Connect With Me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
 
@@ -197,7 +191,7 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/api?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
 
@@ -222,4 +216,4 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-</div>>
+</div>
