@@ -7,8 +7,6 @@
   <em>Building innovative blockchain solutions and decentralized applications</em>
 </p>
 
-</div>
-
 ---
 
 <div align="center">
@@ -17,8 +15,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
 
-![Status](https://img.shields.io/badge/🚀_Status-Open_To_Work-00D9FF?style=for-the-badge)
+[![Status](https://img.shields.io/badge/🚀_Status-Open_To_Work-00D9FF?style=for-the-badge)](https://www.linkedin.com/in/amit-kumar-811a11277)
 ![Location](https://img.shields.io/badge/📍_Location-India-FF6B35?style=for-the-badge)
+
+### 💼 Open to Work - Connect With Me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 </div>
 
@@ -190,14 +194,17 @@ Decentralized crowdfunding with Chainlink price feeds
 <br/>
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   
-<<!-- Option 2: Using GitHub Readme Streak Stats (different endpoint) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
-
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
+
+</div>
+
 <br/>
+
 <div align="center">
 
 ## 🤝 Let's Connect & Build Together
@@ -215,4 +222,4 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-</div>
+</div>>
