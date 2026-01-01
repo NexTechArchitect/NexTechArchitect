@@ -169,15 +169,15 @@ Professional ERC20 with role-based access control
 </td>
 <td width="33%" align="center" valign="top">
 
-### 💰 **FundMe Contract**
+### ⚙️ **UUPS Protocol Config**
 
-<img src="https://img.shields.io/badge/Complexity-Beginner-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
 
-Decentralized crowdfunding with Chainlink price feeds
+Upgradeable proxy architecture using UUPS standard for protocol configuration
 
-**Tech:** `Chainlink` `Payable` `DeFi`
+**Tech:** `UUPS` `ERC1967` `OpenZeppelin`
 
-[**→ View Project**](https://github.com/NexTechArchitect/FundMe-Contract)
+[**→ View Project**](https://github.com/NexTechArchitect/uups-protocol-config)
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
   
-<img src="https://nirzak-streak-stats.vercel.app/api?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=NexTechArchitect&theme=dark&hide_border=true&background=0D1117&ring=00e6ff&currStreakNum=00e6ff&fire=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff" height="170" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
 
@@ -218,4 +218,4 @@ Decentralized crowdfunding with Chainlink price feeds
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-</div>>
+</div>
