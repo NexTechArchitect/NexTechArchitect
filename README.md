@@ -186,16 +186,14 @@ Upgradeable proxy architecture using UUPS standard for protocol configuration
 </div>
 
 <br/>
-
 ## 📊 GitHub Analytics
-
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=00e6ff&fire=00e6ff&currStreakNum=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=00e6ff&fire=00e6ff&currStreakNum=00e6ff&sideNums=00e6ff&currStreakLabel=00e6ff&dates=ffffff)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div>>
 
 <br/>
 
