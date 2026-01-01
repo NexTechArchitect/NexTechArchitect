@@ -185,13 +185,16 @@ Upgradeable proxy architecture using UUPS standard for protocol configuration
 
 </div>
 
+
 <br/>
+
 ## 📊 GitHub Analytics
+
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&dates=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&theme=radical)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e6ff&text_color=ffffff&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
 <br/>
