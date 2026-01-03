@@ -11,11 +11,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexTechArchitect)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-811a11277)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
-
-[![Status](https://img.shields.io/badge/🚀_Status-Open_To_Work-00D9FF?style=for-the-badge)](mailto:amitthapa181133@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Location-India-FF6B35?style=for-the-badge)
 
 </div>
