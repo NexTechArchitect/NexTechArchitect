@@ -128,7 +128,7 @@ Provably fair lottery using Chainlink VRF for tamper-proof randomness
 
 ERC721 with Merkle whitelisting and dynamic IPFS metadata
 
-**Tech:** `Merkle Tree` `IPFS` `ERC721`
+**Tech:** 
 
 [**→ View Project**](https://github.com/NexTechArchitect/ERC721-Advanced-IPFS-NFT)
 
@@ -144,7 +144,7 @@ ERC721 with Merkle whitelisting and dynamic IPFS metadata
 
 Gas-optimized token distribution using EIP-712 signatures
 
-**Tech:** `EIP-712` `ECDSA` `Cryptography`
+**Tech:**
 
 [**→ View Project**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
 
@@ -157,7 +157,7 @@ Gas-optimized token distribution using EIP-712 signatures
 
 Professional ERC20 with role-based access control
 
-**Tech:** `ERC20` `OpenZeppelin` `Roles`
+**Tech:**
 
 [**→ View Project**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
 
@@ -170,7 +170,7 @@ Professional ERC20 with role-based access control
 
 Upgradeable proxy architecture using UUPS standard for protocol configuration
 
-**Tech:** `UUPS` `ERC1967` `OpenZeppelin`
+**Tech:**  
 
 [**→ View Project**](https://github.com/NexTechArchitect/uups-protocol-config)
 
