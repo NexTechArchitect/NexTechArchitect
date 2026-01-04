@@ -35,7 +35,7 @@
 - **Smart Contracts:** Solidity, Inline Assembly (Yul), Gas Optimization
 - **Development:** Foundry, Hardhat, Forge Testing
 - **Security:** Manual Auditing, Slither, Invariant Fuzzing
-- **DeFi Protocols:** AMMs, Lending Pools, Staking Mechanisms
+- **DeFi Protocols:** AMMs,Stablecoin, Lending Pools, Staking Mechanisms
 - **EVM Deep Dive:** Storage Patterns, Opcodes, Low-level Calls
 
 </td>
