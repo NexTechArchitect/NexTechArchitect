@@ -1,32 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Smart+Contract+Security+Engineer;Protocol+Architect+%7C+DeFi+Specialist;EVM+Internals+%7C+Gas+Optimization+Expert" alt="Typing SVG" />
-</div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img
-<p align="center">
-  <em>Building innovative blockchain solutions and decentralized applications</em>
+font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Protocol+Architect+%7C+DeFi+Specialist;Smart+Contract+Security+Engineer;EVM+Internals+%7C+Gas+Optimization" alt="Typing" />
 </p>
-
----
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/📍_Location-India-FF6B35?style=for-the-badge)
-
-</div>
-
 <br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
-
-<br/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_India-0d1117?style=flat-square&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Views&color=00D9FF&style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/NexTechArchitect?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117" />
+</p>
 
 ### 👨‍💻 About Me
 
