@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,00D9FF,0d1117&height=200&section=header&text=NexTechArchitect&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Smart%20Contract%20Security%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 </div>
-font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Protocol+Architect+%7C+DeFi+Specialist;Smart+Contract+Security+Engineer;EVM+Internals+%7C+Gas+Optimization" alt="Typing" />
-</p>
+
 <br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Protocol+Architect+%7C+DeFi+Specialist;Smart+Contract+Security+Engineer;EVM+Internals+%7C+Gas+Optimization" alt="Typing" />
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/📍_India-0d1117?style=flat-square&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Views&color=00D9FF&style=flat-square&labelColor=0d1117" />
