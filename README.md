@@ -1,20 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,00D9FF,0d1117&height=200&section=header&text=NexTechArchitect&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Smart%20Contract%20Security%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <h3>Hi there, I am</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <em>Building innovative blockchain solutions and decentralized applications</em>
+</p>
+
+---
+
+<div align="center">
+
+![Location](https://img.shields.io/badge/📍_Location-India-FF6B35?style=for-the-badge)
+
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Protocol+Architect;DeFi+%26+Security+Specialist;EVM+%7C+Solidity+%7C+Assembly;Gas+Optimization+Expert" alt="Typing" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Smart_Contract_Security-00D9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialty-DeFi_Protocols-00D9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code-Production_Grade-00D9FF?style=flat-square" />
-</p>
+<br/>
 
----
 
 ### 👨‍💻 About Me
 
