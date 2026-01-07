@@ -1,8 +1,12 @@
 <div align="center">
-  <h3>Hi there, I am</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=NexTechArchitect;Smart+Contract+Engineer;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Smart+Contract+Security+Engineer;Protocol+Architect+%7C+DeFi+Specialist;EVM+Internals+%7C+Gas+Optimization+Expert" alt="Typing SVG" />
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img
 <p align="center">
   <em>Building innovative blockchain solutions and decentralized applications</em>
 </p>
