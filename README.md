@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,00D9FF,0d1117&height=200&section=header&text=NexTechArchitect&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Smart%20Contract%20Security%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
+<br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Smart+Contract+Engineer;Blockchain+Security+Researcher;Building+Production+Grade+Web3" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Protocol+Architect+%7C+DeFi+Specialist;Smart+Contract+Security+Engineer;EVM+Internals+%7C+Gas+Optimization" alt="Typing" />
 </p>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_India-0d1117?style=flat-square&labelColor=0d1117" />
@@ -12,30 +16,19 @@
   <img src="https://img.shields.io/github/followers/NexTechArchitect?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117" />
 </p>
 
+---
+
 ### 👨‍💻 About Me
 
-Building secure, gas-optimized smart contracts for DeFi protocols. Deep expertise in EVM internals, security auditing, and protocol architecture. Every line of code is written with security-first mindset and production-grade quality standards.
+Smart contract engineer specializing in building secure, production-grade blockchain solutions. Experienced across DeFi protocols, NFT systems, DAOs, token standards, and upgradeable contract architecture. Strong focus on security auditing, gas optimization, and comprehensive testing. Full-stack capabilities with React, Next.js, and TypeScript for complete Web3 application development.
 
-```solidity
-pragma solidity ^0.8.24;
-
-contract DevProfile {
-    address public constant DEVELOPER = address(NexTechArchitect);
-    
-    string[] public expertise = [
-        "Smart Contract Architecture",
-        "DeFi Protocol Design", 
-        "Security Auditing",
-        "Gas Optimization",
-        "Account Abstraction",
-        "Full-Stack Web3"
-    ];
-    
-    function approach() external pure returns (string memory) {
-        return "Security First. Gas Optimized. Production Ready.";
-    }
-}
-```
+**Core Focus Areas:**
+- Protocol Architecture & Smart Contract Development
+- Security Auditing & Vulnerability Research  
+- Gas Optimization & EVM Internals
+- Upgradeable Contracts (UUPS, Transparent Proxies)
+- Account Abstraction & Token Distribution
+- Full-Stack Web3 Integration
 
 ---
 
