@@ -2,37 +2,38 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Smart+Contract+Engineer;Blockchain+Security+Researcher;Building+Production+Grade+Web3" alt="Typing" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=1000&lines=Smart+Contract+Engineer;Protocol+Security+Researcher;EVM+Architecture+%26+Optimization" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_India-0d1117?style=flat-square&labelColor=0d1117" />
-  <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Views&color=00D9FF&style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/NexTechArchitect?label=Followers&style=flat-square&color=00D9FF&labelColor=0d1117" />
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://img.shields.io/badge/📍_Location-India-0d1117?style=flat-square&labelColor=0d1117&color=25c2a0" />
+  </a>
+  <a href="https://github.com/NexTechArchitect">
+    <img src="https://komarev.com/ghpvc/?username=NexTechArchitect&label=Profile+Views&color=25c2a0&style=flat-square&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/NexTechArchitect?tab=followers">
+    <img src="https://img.shields.io/github/followers/NexTechArchitect?label=Network&style=flat-square&color=25c2a0&labelColor=0d1117" />
+  </a>
 </p>
-
----
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;">
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-Smart contract engineer specializing in building secure, production-grade blockchain solutions. Experienced across DeFi protocols, NFT systems, DAOs, token standards, and upgradeable contract architecture. Strong focus on security auditing, gas optimization, and comprehensive testing. Full-stack capabilities with React, Next.js, and TypeScript for complete Web3 application development.
+> **Full-Stack Web3 Engineer bridging secure smart contract architecture with high-performance interfaces.**
+>
+> *Specializing in end-to-end dApp development: from gas-optimized Solidity protocols (DeFi, AA) to responsive React/Next.js frontends.*
 
-**Core Focus Areas:**
-- Smart Contract Architecture & Protocol Development
-- Security Auditing & Vulnerability Research  
-- Gas Optimization & EVM Internals
-- Account Abstraction & Token Distribution Systems
-- End-to-End dApp Development (Smart Contracts + Frontend)
-- Full-Stack Web3 (Wagmi, Viem, RainbowKit, The Graph)
-
----
+**Core Competencies:**
+* **Smart Contract Engineering:** Advanced Solidity (Account Abstraction, Upgradeable Proxies, DeFi math).
+* **Full-Stack Integration:** Building production-ready dApps using Next.js, TypeScript, Wagmi, and Viem.
+* **Protocol Security:** Writing invariant tests, manual auditing, and optimizing EVM storage layouts.
 
 ## 🛠️ Technology Stack
 
