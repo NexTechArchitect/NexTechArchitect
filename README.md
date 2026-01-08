@@ -70,39 +70,33 @@
 
 ### 🛡️ **ERC-4337 Account Abstraction**
 
-<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-Solidity_|_Foundry-b298dc?style=flat-square&labelColor=0d1117" />
 
-Production implementation with UserOps and Paymasters
+A production-grade implementation of the AA protocol. Features custom EntryPoint, Paymaster gas sponsorship, and Bundler simulation.
 
-**Tech:** `Solidity` `Foundry` `EIP-4337`
-
-[**→ View Project**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry)
+[**→ View Architecture**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🏦 **Algorithmic Stablecoin**
+### 🏦 **DeFi Algorithmic Stablecoin**
 
-<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-DeFi_Math_|_Oracles-b298dc?style=flat-square&labelColor=0d1117" />
 
-CDP-based stablecoin with automated liquidations
+Exogenous collateral engine ensuring $1 peg. Implements custom liquidation thresholds and DSCE (Decentralized Stablecoin Engine) patterns.
 
-**Tech:** `Solidity` `Foundry` `Chainlink`
-
-[**→ View Project**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
+[**→ View Architecture**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🎲 **Provably Fair Lottery**
+### ⚙️ **UUPS Upgradeable Protocol**
 
-<img src="https://img.shields.io/badge/Complexity-Intermediate-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-Proxy_|_DelegateCall-b298dc?style=flat-square&labelColor=0d1117" />
 
-Decentralized lottery with VRF randomness
+Future-proof architecture using EIP-1822 (UUPS). Enables logic upgrades without state migration or storage collisions.
 
-**Tech:** `VRF` `Automation` `Foundry`
-
-[**→ View Project**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
+[**→ View Architecture**](https://github.com/NexTechArchitect/uups-protocol-config)
 
 </td>
 </tr>
@@ -112,46 +106,39 @@ Decentralized lottery with VRF randomness
 
 ### 🪂 **Merkle Airdrop Protocol**
 
-<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-Cryptography_|_EIP712-b298dc?style=flat-square&labelColor=0d1117" />
 
-Gas-optimized with Merkle proofs and EIP-712
+Gas-optimized token distribution system. Uses Merkle Proofs for O(1) verification cost and typed signatures for secure claiming.
 
-**Tech:** `Merkle Trees` `EIP-712` `Foundry`
-
-[**→ View Project**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
+[**→ View Architecture**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🌐 **Full-Stack DeFi dApp**
+### 🎲 **Provably Fair Lottery**
 
-<img src="https://img.shields.io/badge/Complexity-Advanced-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-Chainlink_VRF_|_Automation-b298dc?style=flat-square&labelColor=0d1117" />
 
-Complete Web3 app with smart contracts + frontend
+Tamper-proof lottery system. Leverages Verifiable Random Function (VRF) for on-chain randomness and Keepers for auto-execution.
 
-**Tech:** `Next.js` `Wagmi` `Solidity`
-
-[**→ View Project**](https://github.com/NexTechArchitect/your-dapp-repo)
+[**→ View Architecture**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🪙 **SISO Token Standard**
 
-<img src="https://img.shields.io/badge/Complexity-Intermediate-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-ERC20_|_AccessControl-b298dc?style=flat-square&labelColor=0d1117" />
 
-Production-grade ERC20 with access control
+Production-ready ERC-20 implementation featuring Role-Based Access Control (RBAC) and supply management mechanisms.
 
-**Tech:** `ERC20` `AccessControl` `Foundry`
-
-[**→ View Project**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
+[**→ View Architecture**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
 
 </td>
 </tr>
 </table>
 
 </div>
-
 <br/>
 
 ## 📊 GitHub Statistics
