@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:9d4edd&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9d4edd&center=true&vCenter=true&width=1000&lines=Smart+Contract+Engineer;Protocol+Security+Researcher;EVM+Architecture+%26+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=c77dff&center=true&vCenter=true&width=1000&lines=Smart+Contract+Engineer;Protocol+Security+Researcher;EVM+Architecture+%26+Optimization" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/NexTechArchitect">
-    <img src="https://img.shields.io/badge/📍_Location-India-0d1117?style=flat-square&labelColor=0d1117&color=7b2cbf" />
+    <img src="https://img.shields.io/badge/📍_Location-India-0d1117?style=flat-square&labelColor=0d1117&color=b298dc" />
   </a>
 </p>
 
