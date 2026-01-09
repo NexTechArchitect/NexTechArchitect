@@ -71,7 +71,7 @@
 ### 🛡️ **ERC-4337 Account Abstraction**
 <br/>
 <sub>Production-grade AA with Bundler simulation & Paymaster gas sponsorship.</sub>
-<br/><br/>
+<br/>
 
 ![Stack](https://img.shields.io/badge/Stack-Solidity_|_Foundry-b298dc?style=flat-square&labelColor=18181b)
 
@@ -83,7 +83,7 @@
 ### 🏦 **Algorithmic Stablecoin**
 <br/>
 <sub>Exogenous collateral engine ensuring $1 peg with automated liquidations.</sub>
-<br/><br/>
+<br/>
 
 ![Stack](https://img.shields.io/badge/Stack-DeFi_Math_|_Chainlink-b298dc?style=flat-square&labelColor=18181b)
 
@@ -95,7 +95,7 @@
 ### ⚙️ **UUPS Protocol Config**
 <br/>
 <sub>Gas-efficient proxy pattern enabling logic upgrades without storage collisions.</sub>
-<br/><br/>
+<br/>
 
 ![Stack](https://img.shields.io/badge/Stack-Proxy_|_Yul_Assembly-b298dc?style=flat-square&labelColor=18181b)
 
@@ -110,7 +110,7 @@
 ### 🪂 **Merkle Airdrop Protocol**
 <br/>
 <sub>Optimized token distribution using Cryptographic proofs for O(1) gas costs.</sub>
-<br/><br/>
+<br/>
 
 ![Stack](https://img.shields.io/badge/Stack-Merkle_|_EIP712-b298dc?style=flat-square&labelColor=18181b)
 
@@ -122,7 +122,7 @@
 ### 🎲 **Provably Fair Lottery**
 <br/>
 <sub>Tamper-proof gaming leveraging Chainlink VRF for on-chain randomness.</sub>
-<br/><br/>
+<br/>
 
 ![Stack](https://img.shields.io/badge/Stack-VRF_|_Automation-b298dc?style=flat-square&labelColor=18181b)
 
@@ -134,7 +134,7 @@
 ### 🪙 **SISO Token Standard**
 <br/>
 <sub>Enterprise-grade ERC-20 with granular Role-Based Access Control (RBAC).</sub>
-<br/><br/>
+<br/>
 
 ![Stack](https://img.shields.io/badge/Stack-ERC20_|_Access_Control-b298dc?style=flat-square&labelColor=18181b)
 
