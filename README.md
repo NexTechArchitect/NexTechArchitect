@@ -69,43 +69,37 @@
 <td width="33%" align="center" valign="top">
 
 ### 🛡️ **ERC-4337 Account Abstraction**
-
-<sub>Production-grade AA implementation with Bundler simulation & Paymaster gas sponsorship.</sub>
-
+<br/>
+<sub>Production-grade AA with Bundler simulation & Paymaster gas sponsorship.</sub>
 <br/><br/>
 
-![Solidity](https://img.shields.io/badge/Solidity-b298dc?style=flat-square&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-b298dc?style=flat-square&logo=rust&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Solidity_|_Foundry-b298dc?style=flat-square&labelColor=18181b)
 
-[**View Architecture →**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry)
+[**Explore Architecture**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🏦 **DeFi Algorithmic Stablecoin**
-
-<sub>Exogenous collateral engine ensuring $1 peg with automated liquidation thresholds.</sub>
-
+### 🏦 **Algorithmic Stablecoin**
+<br/>
+<sub>Exogenous collateral engine ensuring $1 peg with automated liquidations.</sub>
 <br/><br/>
 
-![DeFi](https://img.shields.io/badge/DeFi_Math-b298dc?style=flat-square&logo=ethereum&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-b298dc?style=flat-square&logo=chainlink&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-DeFi_Math_|_Chainlink-b298dc?style=flat-square&labelColor=18181b)
 
-[**View Architecture →**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
+[**Explore Architecture**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### ⚙️ **UUPS Protocol Config**
-
-<sub>Gas-efficient proxy pattern enabling seamless logic upgrades without storage collisions.</sub>
-
+<br/>
+<sub>Gas-efficient proxy pattern enabling logic upgrades without storage collisions.</sub>
 <br/><br/>
 
-![Proxy](https://img.shields.io/badge/EIP--1822-b298dc?style=flat-square&logo=ethereum&logoColor=white)
-![Assembly](https://img.shields.io/badge/Yul_Assembly-b298dc?style=flat-square&logo=solidity&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Proxy_|_Yul_Assembly-b298dc?style=flat-square&labelColor=18181b)
 
-[**View Architecture →**](https://github.com/NexTechArchitect/uups-protocol-config)
+[**Explore Architecture**](https://github.com/NexTechArchitect/uups-protocol-config)
 
 </td>
 </tr>
@@ -114,43 +108,37 @@
 <td width="33%" align="center" valign="top">
 
 ### 🪂 **Merkle Airdrop Protocol**
-
-<sub>Optimized token distribution using Cryptographic proofs for O(1) gas verification.</sub>
-
+<br/>
+<sub>Optimized token distribution using Cryptographic proofs for O(1) gas costs.</sub>
 <br/><br/>
 
-![Merkle](https://img.shields.io/badge/Merkle_Trees-b298dc?style=flat-square&logo=ethereum&logoColor=white)
-![EIP-712](https://img.shields.io/badge/EIP--712-b298dc?style=flat-square&logo=ethereum&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Merkle_|_EIP712-b298dc?style=flat-square&labelColor=18181b)
 
-[**View Architecture →**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
+[**Explore Architecture**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🎲 **Provably Fair Lottery**
-
-<sub>Tamper-proof gaming system leveraging Chainlink VRF for on-chain randomness.</sub>
-
+<br/>
+<sub>Tamper-proof gaming leveraging Chainlink VRF for on-chain randomness.</sub>
 <br/><br/>
 
-![VRF](https://img.shields.io/badge/Chainlink_VRF-b298dc?style=flat-square&logo=chainlink&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-b298dc?style=flat-square&logo=chainlink&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-VRF_|_Automation-b298dc?style=flat-square&labelColor=18181b)
 
-[**View Architecture →**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
+[**Explore Architecture**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🪙 **SISO Token Standard**
-
-<sub>Enterprise-grade ERC-20 implementation with granular Role-Based Access Control.</sub>
-
+<br/>
+<sub>Enterprise-grade ERC-20 with granular Role-Based Access Control (RBAC).</sub>
 <br/><br/>
 
-![ERC20](https://img.shields.io/badge/ERC--20-b298dc?style=flat-square&logo=ethereum&logoColor=white)
-![Security](https://img.shields.io/badge/Access_Control-b298dc?style=flat-square&logo=openzeppelin&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-ERC20_|_Access_Control-b298dc?style=flat-square&labelColor=18181b)
 
-[**View Architecture →**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
+[**Explore Architecture**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
 
 </td>
 </tr>
