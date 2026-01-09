@@ -70,33 +70,42 @@
 
 ### 🛡️ **ERC-4337 Account Abstraction**
 
-<img src="https://img.shields.io/badge/Stack-Solidity_|_Foundry-b298dc?style=flat-square&labelColor=0d1117" />
+<sub>Production-grade AA implementation with Bundler simulation & Paymaster gas sponsorship.</sub>
 
-A production-grade implementation of the AA protocol. Features custom EntryPoint, Paymaster gas sponsorship, and Bundler simulation.
+<br/><br/>
 
-[**→ View Architecture**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry)
+![Solidity](https://img.shields.io/badge/Solidity-b298dc?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-b298dc?style=flat-square&logo=rust&logoColor=white)
+
+[**View Architecture →**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🏦 **DeFi Algorithmic Stablecoin**
 
-<img src="https://img.shields.io/badge/Stack-DeFi_Math_|_Oracles-b298dc?style=flat-square&labelColor=0d1117" />
+<sub>Exogenous collateral engine ensuring $1 peg with automated liquidation thresholds.</sub>
 
-Exogenous collateral engine ensuring $1 peg. Implements custom liquidation thresholds and DSCE (Decentralized Stablecoin Engine) patterns.
+<br/><br/>
 
-[**→ View Architecture**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
+![DeFi](https://img.shields.io/badge/DeFi_Math-b298dc?style=flat-square&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-b298dc?style=flat-square&logo=chainlink&logoColor=white)
+
+[**View Architecture →**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### ⚙️ **UUPS Upgradeable Protocol**
+### ⚙️ **UUPS Protocol Config**
 
-<img src="https://img.shields.io/badge/Stack-Proxy_|_DelegateCall-b298dc?style=flat-square&labelColor=0d1117" />
+<sub>Gas-efficient proxy pattern enabling seamless logic upgrades without storage collisions.</sub>
 
-Future-proof architecture using EIP-1822 (UUPS). Enables logic upgrades without state migration or storage collisions.
+<br/><br/>
 
-[**→ View Architecture**](https://github.com/NexTechArchitect/uups-protocol-config)
+![Proxy](https://img.shields.io/badge/EIP--1822-b298dc?style=flat-square&logo=ethereum&logoColor=white)
+![Assembly](https://img.shields.io/badge/Yul_Assembly-b298dc?style=flat-square&logo=solidity&logoColor=white)
+
+[**View Architecture →**](https://github.com/NexTechArchitect/uups-protocol-config)
 
 </td>
 </tr>
@@ -106,33 +115,42 @@ Future-proof architecture using EIP-1822 (UUPS). Enables logic upgrades without 
 
 ### 🪂 **Merkle Airdrop Protocol**
 
-<img src="https://img.shields.io/badge/Stack-Cryptography_|_EIP712-b298dc?style=flat-square&labelColor=0d1117" />
+<sub>Optimized token distribution using Cryptographic proofs for O(1) gas verification.</sub>
 
-Gas-optimized token distribution system. Uses Merkle Proofs for O(1) verification cost and typed signatures for secure claiming.
+<br/><br/>
 
-[**→ View Architecture**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
+![Merkle](https://img.shields.io/badge/Merkle_Trees-b298dc?style=flat-square&logo=ethereum&logoColor=white)
+![EIP-712](https://img.shields.io/badge/EIP--712-b298dc?style=flat-square&logo=ethereum&logoColor=white)
+
+[**View Architecture →**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🎲 **Provably Fair Lottery**
 
-<img src="https://img.shields.io/badge/Stack-Chainlink_VRF_|_Automation-b298dc?style=flat-square&labelColor=0d1117" />
+<sub>Tamper-proof gaming system leveraging Chainlink VRF for on-chain randomness.</sub>
 
-Tamper-proof lottery system. Leverages Verifiable Random Function (VRF) for on-chain randomness and Keepers for auto-execution.
+<br/><br/>
 
-[**→ View Architecture**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
+![VRF](https://img.shields.io/badge/Chainlink_VRF-b298dc?style=flat-square&logo=chainlink&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-b298dc?style=flat-square&logo=chainlink&logoColor=white)
+
+[**View Architecture →**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🪙 **SISO Token Standard**
 
-<img src="https://img.shields.io/badge/Stack-ERC20_|_AccessControl-b298dc?style=flat-square&labelColor=0d1117" />
+<sub>Enterprise-grade ERC-20 implementation with granular Role-Based Access Control.</sub>
 
-Production-ready ERC-20 implementation featuring Role-Based Access Control (RBAC) and supply management mechanisms.
+<br/><br/>
 
-[**→ View Architecture**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
+![ERC20](https://img.shields.io/badge/ERC--20-b298dc?style=flat-square&logo=ethereum&logoColor=white)
+![Security](https://img.shields.io/badge/Access_Control-b298dc?style=flat-square&logo=openzeppelin&logoColor=white)
+
+[**View Architecture →**](https://github.com/NexTechArchitect/SISO-Token-ERC20)
 
 </td>
 </tr>
