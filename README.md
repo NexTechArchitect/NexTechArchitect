@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ffff&center=true&vCenter=true&width=1000&lines=Smart+Contract+Engineer;" alt="Typing SVG" />
 </div>
-
+<br/>
 <p align="center">
   <a href="https://github.com/NexTechArchitect">
     <img src="https://img.shields.io/badge/📍_Location-India-0d1117?style=flat-square&labelColor=0d1117&color=b298dc" />
