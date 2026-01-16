@@ -21,7 +21,7 @@
 
 > **Full-Stack Web3 Engineer bridging secure smart contract architecture with high-performance interfaces.**
 >
-> *Specializing in end-to-end dApp development: from gas-optimized Solidity protocols (DeFi, AA) to responsive React/Next.js frontends.*
+> *Specializing in end-to-end dApp development: from gas-optimized Solidity protocols to responsive React/Next.js frontends.*
 
 **Core Competencies:**
 * **Smart Contract Engineering:** Advanced Solidity (Account Abstraction, Upgradeable Proxies, DeFi math).
