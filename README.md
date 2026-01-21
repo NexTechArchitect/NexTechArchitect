@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=180&section=header&text=NexTechArchitect&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=120&section=header&text=NexTechArchitect&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=28" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B298DC&center=true&vCenter=true&width=800&lines=Smart+Contract+Engineer;Protocol+Architect;DeFi+Infrastructure+Builder;Security-First+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B298DC&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;Protocol+Architect;DeFi+Infrastructure+Builder" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,66 +21,42 @@
 
 ## 🛡️ About Me
 
-> **Smart Contract Engineer** focused on building **resilient**, **modular**, and **institutional-grade** decentralized infrastructure.
+**Smart Contract Engineer** specializing in **governance systems** and **DeFi primitives**. I build protocol-level infrastructure focused on security isolation, sovereign decentralization, and systems designed to scale to institutional-grade TVL.
 
-I specialize in designing **governance systems** and **DeFi primitives** that prioritize **security isolation** and **sovereign decentralization**. My work centers on creating protocol-level infrastructure that can scale to billions in TVL while maintaining censorship resistance.
-
-### 🎯 Core Focus
-
-- 🔭 **Current Work:** Advanced Governance Frameworks & DeFi Risk Mitigation
-- ⚡ **Philosophy:** *"Don't just write code; architect systems that can survive the dark forest."*
-- 🛠️ **Expertise:** UUPS Proxies, Timelock Execution, Dynamic Parameter Systems, Invariant Testing
+**Philosophy:** *"Don't just write code; architect systems that can survive the dark forest."*
 
 ---
 
-## 🏆 Featured Protocol-Grade Projects
+## 🏆 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🛡️ [Sentinel Governance Core](https://github.com/NexTechArchitect/sentinel-governance-core)
 
-**Fault-tolerant governance primitive for high-value EVM protocols**
+**Fault-tolerant DAO governance infrastructure**
 
-A complete DAO governance operating system with:
-- Timelock-enforced execution (zero EOA privileges)
-- Dynamic parameter tuning via `DAOConfig`
-- UUPS upgrade architecture
-- Emergency circuit breakers
-- Modular plugin system
+<sub>Complete governance operating system with timelock execution, dynamic parameters, UUPS upgrades, and modular architecture.</sub>
 
-**Key Innovation:** Solves the "Static Governance" problem by allowing DAOs to evolve without redeploying core logic.
+<br/>
 
-**Tech Stack:** Solidity, Foundry, UUPS Proxies, Role-Based Access Control
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-BE5212?style=flat-square&logo=rust&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Solidity_|_Foundry_|_UUPS-b298dc?style=flat-square&labelColor=18181b)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🏦 [DeFi StableCoin Engine](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
 
-**Exogenous, over-collateralized stablecoin system**
+**Exogenous over-collateralized stablecoin**
 
-A mathematically modeled stablecoin protocol featuring:
-- Algorithmic $1.00 peg via Chainlink oracles
-- Dynamic liquidation engine
-- Health factor enforcement
-- Multi-collateral support (wETH/wBTC)
-- Stateful fuzz-tested invariants
+<sub>Algorithmic $1 peg via Chainlink oracles with dynamic liquidations, health factor enforcement, and fuzz-tested invariants.</sub>
 
-**Key Innovation:** Protocol solvency is cryptographically guaranteed through on-chain math, not centralized reserves.
+<br/>
 
-**Tech Stack:** Solidity, DeFi Math, Chainlink Oracles, Foundry Fuzzing
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-Math-b298dc?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-DeFi_Math_|_Chainlink_|_Foundry-b298dc?style=flat-square&labelColor=18181b)
 
 </td>
 </tr>
@@ -128,51 +104,11 @@ A mathematically modeled stablecoin protocol featuring:
 
 ---
 
-## 🚀 Additional Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🪂 [Merkle Airdrop](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop)
-
-Optimized token distribution using cryptographic proofs
-
-![Stack](https://img.shields.io/badge/Stack-Merkle_|_EIP712-b298dc?style=flat-square&labelColor=18181b)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🎲 [Provably Fair Lottery](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
-
-Chainlink VRF-powered on-chain randomness
-
-![Stack](https://img.shields.io/badge/Stack-VRF_|_Automation-b298dc?style=flat-square&labelColor=18181b)
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🪙 [SISO Token](https://github.com/NexTechArchitect/SISO-Token-ERC20)
-
-Enterprise ERC-20 with granular RBAC
-
-![Stack](https://img.shields.io/badge/Stack-ERC20_|_Access_Control-b298dc?style=flat-square&labelColor=18181b)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=B298DC&fire=B298DC&currStreakNum=B298DC&sideNums=B298DC&currStreakLabel=B298DC&dates=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B298DC&icon_color=B298DC&text_color=ffffff&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=B298DC&text_color=ffffff&langs_count=8&hide=html,css" height="180" alt="Top Languages" />
 
@@ -180,7 +116,7 @@ Enterprise ERC-20 with granular RBAC
 
 ---
 
-## 🤝 Let's Connect & Build Together
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -205,6 +141,6 @@ Enterprise ERC-20 with granular RBAC
 
 *"This is not how tutorials simplify protocols — this is how engineers build them."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=100&section=footer" width="100%"/>
 
 </div>
