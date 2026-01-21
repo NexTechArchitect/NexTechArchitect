@@ -69,12 +69,7 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 <br/>
 
-<sub>
-  <b>Stack:</b> Solidity · Foundry · UUPS · RBAC
-</sub>
 
-<br/>
-<br/>
 
 <a href="https://github.com/NexTechArchitect/sentinel-governance-core">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
@@ -89,12 +84,6 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 <br/>
 
-<sub>
-  <b>Stack:</b> DeFi Math · Chainlink · Foundry · Fuzzing
-</sub>
-
-<br/>
-<br/>
 
 <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
