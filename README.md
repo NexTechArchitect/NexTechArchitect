@@ -67,11 +67,18 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 **Fault-tolerant DAO governance infrastructure**
 
-<sub>Complete governance operating system with timelock execution, dynamic parameters, UUPS upgrades, and modular architecture.</sub>
-
 <br/>
 
-![Stack](https://img.shields.io/badge/Stack-Solidity_|_Foundry_|_UUPS-b298dc?style=flat-square&labelColor=18181b)
+<sub>
+  <b>Stack:</b> Solidity · Foundry · UUPS · RBAC
+</sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/NexTechArchitect/sentinel-governance-core">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
+</a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -80,19 +87,24 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 **Exogenous over-collateralized stablecoin**
 
-<sub>Algorithmic $1 peg via Chainlink oracles with dynamic liquidations, health factor enforcement, and fuzz-tested invariants.</sub>
-
 <br/>
 
-![Stack](https://img.shields.io/badge/Stack-DeFi_Math_|_Chainlink_|_Foundry-b298dc?style=flat-square&labelColor=18181b)
+<sub>
+  <b>Stack:</b> DeFi Math · Chainlink · Foundry · Fuzzing
+</sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
 
 ## 📊 GitHub Statistics
 
