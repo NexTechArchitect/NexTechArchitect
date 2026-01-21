@@ -98,11 +98,9 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B298DC&icon_color=B298DC&text_color=ffffff&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NexTechArchitect&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B298DC&icon_color=B298DC&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=B298DC&fire=B298DC&currStreakNum=B298DC&sideNums=B298DC&currStreakLabel=B298DC&dates=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=B298DC&text_color=ffffff&langs_count=6&hide=html,css)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=B298DC&text_color=ffffff&langs_count=6&hide=html,css" alt="Top Languages" />
 
 </div>
 
