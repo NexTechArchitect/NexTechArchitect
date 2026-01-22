@@ -108,6 +108,7 @@ I build production-ready decentralized applications by integrating **Solidity pr
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=B298DC&text_color=ffffff&langs_count=6&hide=html,css" alt="Top Languages" />
 
 </div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -122,6 +123,8 @@ I build production-ready decentralized applications by integrating **Solidity pr
 [![GitHub](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexTechArchitect)
 
 </div>
+
+---
 
 <div align="center">
 
