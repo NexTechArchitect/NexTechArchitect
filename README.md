@@ -12,9 +12,6 @@
   <a href="https://github.com/NexTechArchitect">
     <img src="https://img.shields.io/badge/📍_Location-India-0d1117?style=flat-square&labelColor=0d1117&color=b298dc" />
   </a>
-  <a href="mailto:amitthapa181133@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Available-0d1117?style=flat-square&labelColor=0d1117&color=b298dc" />
-  </a>
 </p>
 
 ---
@@ -69,7 +66,10 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 <br/>
 
+<sub>A production-grade DAO framework featuring optimistic circuit breakers, UUPS upgradeability, and granular Role-Based Access Control (RBAC). Designed for high-value protocols requiring institutional-grade security and modular architecture.</sub>
 
+<br/>
+<br/>
 
 <a href="https://github.com/NexTechArchitect/sentinel-governance-core">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
@@ -84,6 +84,10 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 <br/>
 
+<sub>An algorithmic stablecoin system pegged to $1 using Chainlink Data Feeds. Implements dynamic liquidation logic, solvency checks, and exogenous collateral backing to ensure system stability under high market volatility.</sub>
+
+<br/>
+<br/>
 
 <a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
