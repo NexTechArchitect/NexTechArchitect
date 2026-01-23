@@ -46,7 +46,7 @@ I build production-ready decentralized applications by integrating **Solidity pr
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=react&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
 
 </div>
 
