@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B298DC&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;Full+Stack+Web3+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B298DC&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;Full+Stack+Web3+Developer;DeFi+Protocol+Architect" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,27 +26,35 @@ I build production-ready decentralized applications by integrating **Solidity pr
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Architecture
 
 <div align="center">
 
-### **Smart Contracts & Security**
+### **1. Core Blockchain & Smart Contracts**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-BE5212?style=for-the-badge&logo=rust&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### **Frontend & Web3 Integration**
+<br/>
+
+### **2. Frontend Interface & API Integration**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Web3 Libraries & Tools**
+<br/>
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=react&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
+<br/>
+
+### **3. Security, Tools & Infrastructure**
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
