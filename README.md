@@ -28,36 +28,43 @@ I build resilient decentralized systems by combining **Solidity engineering** wi
 
 ## 🛠️ Technical Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="250"><b>⛓️ Blockchain Core</b></td>
-    <td align="center" width="250"><b>🎨 Frontend & UI</b></td>
-    <td align="center" width="250"><b>🔌 Integration</b></td>
-    <td align="center" width="250"><b>🔧 Tools & Infra</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Foundry-BE5212?style=flat&logo=rust&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=flat&logo=react&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Viem-646CFF?style=flat&logo=ethereum&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Ethers-2535A0?style=flat&logo=ethereum&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/The_Graph-0C0C0C?style=flat&logo=thegraph&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### **⛓️ Blockchain & Smart Contract Core**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-BE5212?style=for-the-badge&logo=rust&logoColor=white)
+![Yul](https://img.shields.io/badge/Yul_(Assembly)-4A4A55?style=for-the-badge&logo=llvm&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
+<br/>
+
+### **🎨 Frontend & User Interface**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+<br/>
+
+### **🔌 Web3 Integration & Data**
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=react&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-0C0C0C?style=for-the-badge&logo=thegraph&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS_/_Pinata-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+<br/>
+
+### **🛡️ Security, DevOps & Tools**
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-181717?style=for-the-badge&logo=python&logoColor=white)
+![Tenderly](https://img.shields.io/badge/Tenderly-8B5CF6?style=for-the-badge&logo=tenderly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -145,4 +152,4 @@ I build resilient decentralized systems by combining **Solidity engineering** wi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=100&section=footer" width="100%"/>
 
-</div>>
+</div>
