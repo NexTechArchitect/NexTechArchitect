@@ -115,15 +115,22 @@ I build resilient decentralized systems by combining **Solidity engineering** wi
 
 </div>
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=B298DC&fire=B298DC&currStreakNum=B298DC&sideNums=B298DC&currStreakLabel=B298DC&dates=FFFFFF" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=B298DC&text_color=ffffff&langs_count=6&hide=html,css" alt="Top Languages" />
+<br/>
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1117&title_color=B298DC&text_color=ffffff&langs_count=6&hide=html,css" alt="Top Languages" />
 
 </div>
+
+---
 
 ## 🤝 Let's Connect
 
