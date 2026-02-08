@@ -47,7 +47,6 @@ Currently, I am **expanding into a Full-Stack Web3 Engineer**, bridging my low-l
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-0C0C0C?style=for-the-badge&logo=thegraph&logoColor=white)
 
 <br/>
 
