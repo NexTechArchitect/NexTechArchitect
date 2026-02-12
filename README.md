@@ -67,19 +67,22 @@ Currently, I am **expanding into a Full-Stack Web3 Engineer**, bridging my low-l
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🛡️ [Sentinel Governance Core](https://github.com/NexTechArchitect/Sentinel-DAO)
+### 🛡️ [Sentinel DAO | Full Stack OS](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
 
-**Production-Grade DAO Infrastructure**
-
-<br/>
-
-<sub>A modular Hub-and-Spoke governance system featuring <b>Hybrid Voting</b>, <b>Timelock-Enforced Execution</b>, and <b>Optimistic Security Layers</b>. Demonstrates advanced architecture for sovereign protocols.</sub>
+**Institutional Governance Infrastructure**
 
 <br/>
+
+<sub>A modular on-chain governance system featuring **Timelock Execution** and **Hybrid Voting**. Upgraded with a **Next.js Dashboard** and **Account Abstraction (ERC-4337)** for frictionless, gasless user participation.</sub>
+
+<br/>
 <br/>
 
-<a href="https://github.com/NexTechArchitect/Sentinel-DAO">
-  <img src="https://img.shields.io/badge/View_Architecture-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
+<a href="https://sentinel-dao-brown.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Launch_App-Live_Dashboard-b298dc?style=for-the-badge&logo=vercel&logoColor=white" height="28">
+</a>
+<a href="https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
 </a>
 
 </td>
@@ -91,7 +94,7 @@ Currently, I am **expanding into a Full-Stack Web3 Engineer**, bridging my low-l
 
 <br/>
 
-<sub>An exogenous stablecoin system pegged to $1 via Chainlink Oracles. Features <b>dynamic liquidation logic</b>, solvency invariants, and high-precision math to ensure system stability.</sub>
+<sub>An exogenous stablecoin system pegged to $1 via Chainlink Oracles. Features **dynamic liquidation logic**, solvency invariants, and high-precision math to ensure system stability.</sub>
 
 <br/>
 <br/>
