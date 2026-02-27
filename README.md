@@ -67,12 +67,35 @@ Currently, I am **expanding into a Full-Stack Web3 Engineer**, bridging my low-l
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🛡️ [Sentinel DAO | Full Stack OS](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
+### ⚡ [Nexus Protocol OS](https://github.com/NexTechArchitect/Nexus-Protocol-OS)
+
+<br/>
+
+<a href="https://nexus-protocol-os.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Launch_App-Trading_Terminal-b298dc?style=for-the-badge&logo=vercel&logoColor=white" height="35">
+</a>
+
+<br/>
+<br/>
+
+<sub>An institutional-grade, fully on-chain **Perpetuals DEX** with zero off-chain dependencies. Features **ERC-4337 Smart Accounts** for gasless trading, **Chainlink CCIP** for cross-chain margin relay, and an invariant-tested liquidation engine.</sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/NexTechArchitect/Nexus-Protocol-OS">
+  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🛡️ [Sentinel DAO](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
 
 <br/>
 
 <a href="https://sentinel-dao-brown.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Launch_App-Live_Dashboard-b298dc?style=for-the-badge&logo=vercel&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/🏛️_Launch_DAO-Governance_OS-e0aaff?style=for-the-badge&logo=vercel&logoColor=white" height="35">
 </a>
 
 <br/>
@@ -84,29 +107,6 @@ Currently, I am **expanding into a Full-Stack Web3 Engineer**, bridging my low-l
 <br/>
 
 <a href="https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO">
-  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🏦 [DeFi StableCoin Engine](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin)
-
-<br/>
-
-<a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
-  <img src="https://img.shields.io/badge/⚙️_View_Engine-Core_Architecture-e0aaff?style=for-the-badge&logo=solidity&logoColor=white" height="35">
-</a>
-
-<br/>
-<br/>
-
-<sub>An exogenous stablecoin system pegged to $1 via Chainlink Oracles. Features **dynamic liquidation logic**, solvency invariants, and high-precision math to ensure system stability.</sub>
-
-<br/>
-<br/>
-
-<a href="https://github.com/NexTechArchitect/Foundry-Defi-StableCoin">
   <img src="https://img.shields.io/badge/View_Source_Code-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
