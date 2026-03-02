@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b298dc,100:e0aaff&height=120&section=header&text=NexTechArchitect&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=28" width="100%"/>
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B298DC&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;Full+Stack+Web3+Dev" alt="Typing SVG" />
 </div>
