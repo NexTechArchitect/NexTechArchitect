@@ -81,7 +81,7 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
 <td width="50%" valign="top">
 
 ### [Sentinel DAO](https://sentinel-dao-brown.vercel.app/)
-**Modular governance OS — 256 tests, zero failures**
+**Modular governance OS  with 256 tests, zero failures**
 
 48H timelock, `RageQuit` minority exit protection, Aave V3 idle treasury yield, and an ERC-4337 AA layer with session keys for gasless voting. Next.js 14 dashboard — zero backend, all state read directly from chain.
 
