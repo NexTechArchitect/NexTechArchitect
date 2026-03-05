@@ -32,7 +32,6 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
   &nbsp;
   <img src="https://img.shields.io/badge/Contracts_Deployed-60+-F0B90B?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Tests_Written-256,_Zero_Failures-e0aaff?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
