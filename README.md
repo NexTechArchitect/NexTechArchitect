@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Smart+Contract+%26+Full-Stack+Web3+Engineer;ERC-4337+%7C+Chainlink+CCIP+%7C+DeFi+Protocols;Perpetuals+%7C+DAOs+%7C+Stablecoins+%7C+Account+Abstraction;Building+protocols+that+survive+the+dark+forest." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Smart+Contract+%26+Full-Stack+Web3+Engineer;ERC-4337+%7C+Chainlink+CCIP+%7C+DeFi+Protocols;Perpetuals+%7C+DAOs+%7C+Stablecoins+%7C+Proxies;Building+protocols+that+survive+the+dark+forest." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,11 +18,11 @@
   </a>
   &nbsp;
   <a href="https://x.com/itZ_AmiT0">
-    <img src="https://img.shields.io/badge/𝕏_Twitter-@itZ__AmiT0-181717?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/𝕏-@itZ__AmiT0-181717?style=for-the-badge&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://t.me/NexTechDev">
-    <img src="https://img.shields.io/badge/💬_Telegram-NexTechDev-26A5E4?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/💬-Telegram-26A5E4?style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
 
@@ -30,19 +30,33 @@
 
 ## 👋 About Me
 
-Smart Contract & Full-Stack Web3 Engineer based in India. In the Web3 space since **2019** as a user — started building in **2024** and haven't stopped since.
+I'm **Amit** — a Smart Contract & Full-Stack Web3 Engineer from India.
 
-I focus on three things: **correct logic**, **low gas**, and **security by default** — not patched in after. Everything I ship is tested, documented, and deployed. Two production dApps live on Vercel right now.
+I've been in the Web3 ecosystem since **2019**, long before building in it. I spent years understanding how protocols actually work — reading whitepapers, tracking exploits, studying how systems break. In **2024** I made the shift from user to builder, and since then I've shipped consistently: **15+ projects**, **60+ contracts deployed**, **2 production dApps** live right now.
+
+My engineering philosophy is simple:
+
+- **Security is not a feature** — CEI patterns, reentrancy guards, and access control are written on line one, not added after an audit finding
+- **Gas is user experience** — every `SLOAD`, every loop, every storage write is intentional
+- **Tests are proof, not coverage** — invariant fuzzing over 10,000+ random tx sequences tells me more than 100% unit test coverage
+
+Right now I'm focused on **full-stack DeFi** — protocols that have real on-chain logic underneath and interfaces real users can actually open. Not just contract repos sitting on GitHub.
+
+**What I've built across:**
+> DeFi · Perpetuals · DAOs · Stablecoins · Account Abstraction · NFT Infrastructure · Merkle Airdrops · Upgradeable Proxies · Cross-Chain Systems
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🗓️_Web3_Since-2019-0d9488?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Web3_Since-2019-0d9488?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🔨_Building_Since-2024-0055FF?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Building_Since-2024-0055FF?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📦_Projects_Built-15+-059669?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Projects_Built-15+-059669?style=flat-square&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🔗_Contracts_Deployed-60+-F0B90B?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contracts_Deployed-60+-F0B90B?style=flat-square&labelColor=0d1117" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Tests_Written-256,_Zero_Failures-e0aaff?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
@@ -81,32 +95,30 @@ I focus on three things: **correct logic**, **low gas**, and **security by defau
 <td width="50%" valign="top">
 
 ### ⚡ [Nexus Perpetuals DEX](https://nexus-protocol-os.vercel.app/)
-
 **Fully on-chain perp exchange — zero off-chain dependencies**
 
-50× leverage, ERC-4337 gasless trading, Chainlink CCIP cross-chain margin, invariant-tested liquidation engine. Every price fetch, settlement, and liquidation runs entirely on-chain.
+50× leverage, ERC-4337 gasless trading via `NexusPaymaster`, Chainlink CCIP cross-chain margin with per-trader nonce deduplication, and an invariant-tested vault that held solvency across 6,400 randomized state mutations.
 
 <a href="https://nexus-protocol-os.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Launch_App-Trading_Terminal-F0B90B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Launch_App-F0B90B?style=for-the-badge" />
 </a>
 <a href="https://github.com/NexTechArchitect/Nexus-Protocol-OS">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏛️ [Sentinel DAO](https://sentinel-dao-brown.vercel.app/)
-
 **Modular governance OS — 256 tests, zero failures**
 
-48H timelock, RageQuit minority protection, Aave V3 yield strategy, AA session keys for gasless voting. Next.js 14 dashboard with zero backend — all state read directly from chain.
+48H timelock, `RageQuit` minority exit protection, Aave V3 idle treasury yield, and an ERC-4337 AA layer with session keys for gasless voting. Next.js 14 dashboard — zero backend, all reads from chain.
 
 <a href="https://sentinel-dao-brown.vercel.app/">
-  <img src="https://img.shields.io/badge/🏛️_Launch_DAO-Governance_OS-e0aaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏛️_Launch_DAO-e0aaff?style=for-the-badge" />
 </a>
 <a href="https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" />
 </a>
 
 </td>
@@ -117,16 +129,16 @@ I focus on three things: **correct logic**, **low gas**, and **security by defau
 
 ## 🔬 Core Protocol Implementations
 
-> Each built from raw EIP specs — not tutorials or copy-paste. Click to explore.
+> Each built from raw EIP specs — not tutorials. Every repo is tested, documented, and deployable.
 
 | Protocol | What It Is | Key Engineering |
 |:---|:---|:---|
 | [**Merkle-712 Airdrop**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop) | Gas-optimized token distribution | O(1) claim cost · EIP-712 typed sigs · front-run protection |
 | [**Decentralized StableCoin**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) | USD-pegged overcollateralized system | 200% collateral ratio · Chainlink oracles · 10K+ tx fuzz suite |
-| [**ERC-4337 Account Abstraction**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry) | Smart wallet infrastructure | EntryPoint validation · Custom Paymaster · Session keys |
+| [**ERC-4337 Account Abstraction**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry) | Smart wallet infrastructure from spec | EntryPoint validation · Custom Paymaster · Session keys |
 | [**UUPS Upgradeable Protocol**](https://github.com/NexTechArchitect/uups-protocol-config) | Storage-safe proxy system | EIP-1967 slots · Atomic V1→V2→V3 migration · `__gap` arrays |
 | [**Provably Fair Raffle**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry) | Autonomous on-chain lottery | Chainlink VRF + Automation · CEI pattern · State machine |
-| [**SISO Token**](https://github.com/NexTechArchitect/SISO-Token-ERC20) | Production ERC-20 primitive | RBAC · Pausable circuit breaker · Deployed on Sepolia |
+| [**SISO Token**](https://github.com/NexTechArchitect/SISO-Token-ERC20) | Production ERC-20 primitive | RBAC · Pausable circuit breaker · Deployed & verified Sepolia |
 | [**CuteCat NFT**](https://github.com/NexTechArchitect/FOUNDRY-Basic-and-Mood-Nft) | ERC-721 with IPFS provenance | Split-stack architecture · Immutable metadata · Admin controls |
 | [**Oracle Crowdfunding**](https://github.com/NexTechArchitect/FundMe-Contract) | USD-denominated funding dApp | Chainlink price feeds · 1e18 precision math · Gas optimized |
 
@@ -148,11 +160,15 @@ I focus on three things: **correct logic**, **low gas**, and **security by defau
 
 ## 🤝 Open to Opportunities
 
-Actively looking for my first full-time Web3 role — **Smart Contract Engineer**, **Full-Stack Web3 Dev**, or **Protocol Engineer**. Happy to discuss protocol design, contribute to an existing codebase, or build something from scratch.
+I'm actively looking for my first full-time Web3 role — **Smart Contract Engineer**, **Full-Stack Web3 Developer**, or **Protocol Engineer**.
+
+I write clean, well-tested code, I understand the full stack from EVM opcodes to Next.js UI, and I ship things that actually work. If your team is building something serious in DeFi or Web3 infrastructure, I'd like to talk.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_Full_Portfolio-nex--tech--architect--portfolio.vercel.app-0d9488?style=for-the-badge&labelColor=0d1117)](https://nex-tech-architect-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Full_Portfolio-nex--tech--architect--portfolio.vercel.app-0d9488?style=for-the-badge&labelColor=0d1117)](https://nex-tech-architect-portfolio.vercel.app/)
+
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
 [![Twitter](https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
