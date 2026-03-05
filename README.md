@@ -19,15 +19,17 @@
 
 I'm **Amit** — a Smart Contract & Full-Stack Web3 Engineer from India.
 
-I've been in the Web3 ecosystem since **2019**, long before building in it. I spent years understanding how protocols actually work — reading whitepapers, tracking exploits, studying how systems fail under adversarial conditions. In **2024** I made the shift from user to builder, and since then I've shipped consistently across DeFi, DAOs, NFT infrastructure, cross-chain systems, and account abstraction.
+I didn't start as a developer. I came into Web3 in **2019** the way most people do — as a user trying to understand what was actually happening on-chain. That curiosity turned into something deeper: reading whitepapers late at night, breaking down exploit post-mortems, trying to understand exactly why protocols fail the way they do. By **2024** I had enough foundation to start building, and I haven't stopped since.
 
-My engineering philosophy:
+Since then I've shipped across DeFi, DAOs, NFT infrastructure, stablecoins, account abstraction, and cross-chain systems — not as exercises, but as real deployed protocols with frontends people can actually open. Two of them are live on Vercel right now.
 
-- **Security is not a feature.** CEI patterns, reentrancy guards, and access control are written on line one — not added after an audit finding.
-- **Gas is user experience.** Every `SLOAD`, every loop, every storage write is intentional.
-- **Tests are proof, not coverage numbers.** Invariant fuzzing over 10,000+ random tx sequences tells me more than 100% unit test coverage ever could.
+The way I think about engineering:
 
-Right now I'm focused on building full-stack DeFi — protocols with real on-chain logic underneath and interfaces real users can actually open. Two production dApps are live on Vercel today.
+- **Security is not a feature.** CEI patterns, reentrancy guards, and access control go in on line one — not after someone finds a bug.
+- **Gas is user experience.** Every `SLOAD`, every loop, every storage write is a conscious decision.
+- **Tests are proof, not metrics.** Invariant fuzzing over 10,000+ randomized transactions tells me more than any coverage report ever could.
+
+I care about building things that are correct — not just things that work most of the time.
 
 <br/>
 
@@ -136,9 +138,9 @@ Right now I'm focused on building full-stack DeFi — protocols with real on-cha
 
 ## Open to Opportunities
 
-I'm actively looking for my first full-time Web3 role — **Smart Contract Engineer**, **Full-Stack Web3 Developer**, or **Protocol Engineer**.
+I'm looking for my first full-time Web3 role — ideally somewhere I can go deep on protocol design, contribute to a real codebase, and keep pushing on both the contract and frontend sides of the stack.
 
-I write clean, well-tested code and understand the full stack from EVM opcodes to production frontend. If your team is building something serious in DeFi or Web3 infrastructure, I'd like to talk.
+I'm not looking for a place to learn the basics. I'm looking for a team that builds seriously and cares about getting the details right. If that sounds like your team, I'd genuinely like to talk.
 
 <div align="center">
 
