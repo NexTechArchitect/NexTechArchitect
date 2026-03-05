@@ -142,10 +142,10 @@ I write clean, well-tested code and understand the full stack from EVM opcodes t
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-amitthapa181133%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@itZ__AmiT0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
-[![Telegram](https://img.shields.io/badge/Telegram-NexTechDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NexTechDev)
-[![GitHub](https://img.shields.io/badge/GitHub-NexTechArchitect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexTechArchitect)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NexTechDev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexTechArchitect)
 
 </div>
 
