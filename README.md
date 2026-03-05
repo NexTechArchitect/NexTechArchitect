@@ -17,19 +17,9 @@
 
 ## About Me
 
-I'm **Amit** — a Smart Contract & Full-Stack Web3 Engineer from India.
+I'm **Amit** — a Smart Contract & Full-Stack Web3 Engineer from India. I've been in the Web3 space since **2019** and building since **2024**.
 
-I didn't start as a developer. I came into Web3 in **2019** the way most people do — as a user trying to understand what was actually happening on-chain. That curiosity turned into something deeper: reading whitepapers late at night, breaking down exploit post-mortems, trying to understand exactly why protocols fail the way they do. By **2024** I had enough foundation to start building, and I haven't stopped since.
-
-Since then I've shipped across DeFi, DAOs, NFT infrastructure, stablecoins, account abstraction, and cross-chain systems — not as exercises, but as real deployed protocols with frontends people can actually open. Two of them are live on Vercel right now.
-
-The way I think about engineering:
-
-- **Security is not a feature.** CEI patterns, reentrancy guards, and access control go in on line one — not after someone finds a bug.
-- **Gas is user experience.** Every `SLOAD`, every loop, every storage write is a conscious decision.
-- **Tests are proof, not metrics.** Invariant fuzzing over 10,000+ randomized transactions tells me more than any coverage report ever could.
-
-I care about building things that are correct — not just things that work most of the time.
+I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems — including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2. I write security-first Solidity, use Foundry for invariant fuzzing, and build the full stack end to end.
 
 <br/>
 
@@ -138,9 +128,7 @@ I care about building things that are correct — not just things that work most
 
 ## Open to Opportunities
 
-I'm looking for my first full-time Web3 role — ideally somewhere I can go deep on protocol design, contribute to a real codebase, and keep pushing on both the contract and frontend sides of the stack.
-
-I'm not looking for a place to learn the basics. I'm looking for a team that builds seriously and cares about getting the details right. If that sounds like your team, I'd genuinely like to talk.
+Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build end to end — from Solidity architecture to production frontend — and I take testing and security seriously. Open to DeFi protocols, infrastructure teams, or anything where the engineering bar is high.
 
 <div align="center">
 
