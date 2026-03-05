@@ -17,9 +17,9 @@
 
 ## About Me
 
-I'm **Amit** — a Smart Contract & Full-Stack Web3 Engineer from India. I've been in the Web3 space since **2019** and building since **2024**.
+I'm **Amit**, A Smart Contract & Full-Stack Web3 Engineer from India. I've been in the Web3 space since **2019** and building since **2024**.
 
-I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems — including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2. I write security-first Solidity, use Foundry for invariant fuzzing, and build the full stack end to end.
+I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems, including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2. I write security-first Solidity, use Foundry for invariant fuzzing, and build the full stack end to end.
 
 <br/>
 
@@ -128,7 +128,7 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
 
 ## Open to Opportunities
 
-Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build end to end — from Solidity architecture to production frontend — and I take testing and security seriously. Open to DeFi protocols, infrastructure teams, or anything where the engineering bar is high.
+Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build end to end from Solidity architecture to production frontend.. Open to DeFi protocols, infrastructure teams, or anything where the engineering bar is high.
 
 <div align="center">
 
