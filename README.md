@@ -114,12 +114,11 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 
 **[→ View Resume PDF](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)**
 ---
-
 ## Engineering Metrics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=0d9488&fire=0055FF&currStreakNum=0d9488&sideNums=0d9488&currStreakLabel=0d9488&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=NexTechArchitect&theme=tokyonight&hide_border=true&background=0D1117&ring=0d9488&fire=0055FF&currStreakNum=0d9488&sideNums=0d9488&currStreakLabel=0d9488&dates=FFFFFF&hide_total_contributions=true" alt="GitHub Streak" />
 
 <br/><br/>
 
