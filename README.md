@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Smart+Contract+%26+Full-Stack+Web3+Engineer;ERC-4337+%7C+Chainlink+CCIP+%7C+DeFi+Protocols;Perpetuals+%7C+DAOs+%7C+Stablecoins+%7C+Proxies;Building+protocols+that+survive+the+dark+forest." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Smart+Contract+%26+Full-Stack+Web3+Developer;Building+protocols+that+survive+the+dark+forest." alt="Typing SVG" />
 
   <br/><br/>
 
@@ -17,9 +17,9 @@
 
 ## About Me
 
-I'm **Amit**, A Smart Contract & Full-Stack Web3 Engineer from India. I've been in the Web3 space since **2019** and building since **2024**.
+I'm **Amit**, a Smart Contract & Full-Stack Web3 Developer from India. I've been in the Web3 space since **2019** and building since **2024**.
 
-I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems, including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2. I write security-first Solidity, use Foundry for invariant fuzzing, and build the full stack end to end.
+Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems — including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2.
 
 <br/>
 
@@ -31,7 +31,6 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
   <img src="https://img.shields.io/badge/Projects_Built-15+-059669?style=flat-square&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Contracts_Deployed-60+-F0B90B?style=flat-square&labelColor=0d1117" />
-  &nbsp;
 </p>
 
 ---
@@ -53,9 +52,8 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
 ![Viem](https://img.shields.io/badge/Viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Security & Testing
+### Testing
 ![Invariant Fuzzing](https://img.shields.io/badge/Invariant_Fuzzing-FF4500?style=for-the-badge&logoColor=white)
-![Slither](https://img.shields.io/badge/Slither-181717?style=for-the-badge&logo=python&logoColor=white)
 ![ERC-4337](https://img.shields.io/badge/ERC--4337_AA-AA00FF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Chainlink CCIP](https://img.shields.io/badge/Chainlink_CCIP-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
@@ -81,7 +79,7 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
 <td width="50%" valign="top">
 
 ### [Sentinel DAO](https://sentinel-dao-brown.vercel.app/)
-**Modular governance OS  with 256 tests, zero failures**
+**Modular governance OS with 256 tests, zero failures**
 
 48H timelock, `RageQuit` minority exit protection, Aave V3 idle treasury yield, and an ERC-4337 AA layer with session keys for gasless voting. Next.js 14 dashboard — zero backend, all state read directly from chain.
 
@@ -100,14 +98,21 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
 
 | Protocol | What It Is | Key Engineering |
 |:---|:---|:---|
-| [**Merkle-712 Airdrop**](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop) | Gas-optimized token distribution | O(1) claim cost · EIP-712 typed sigs · front-run protection |
-| [**Decentralized StableCoin**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) | USD-pegged overcollateralized system | 200% collateral ratio · Chainlink oracles · 10K+ tx fuzz suite |
+| [**Decentralized StableCoin**](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) | USD-pegged overcollateralized system | 200% collateral ratio · Chainlink oracles · 10K+ fuzz suite |
 | [**ERC-4337 Account Abstraction**](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry) | Smart wallet infrastructure from spec | EntryPoint validation · Custom Paymaster · Session keys |
 | [**UUPS Upgradeable Protocol**](https://github.com/NexTechArchitect/uups-protocol-config) | Storage-safe proxy system | EIP-1967 slots · Atomic V1→V2→V3 migration · `__gap` arrays |
 | [**Provably Fair Raffle**](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry) | Autonomous on-chain lottery | Chainlink VRF + Automation · CEI pattern · State machine |
-| [**SISO Token**](https://github.com/NexTechArchitect/SISO-Token-ERC20) | Production ERC-20 primitive | RBAC · Pausable circuit breaker · Deployed & verified on Sepolia |
-| [**CuteCat NFT**](https://github.com/NexTechArchitect/FOUNDRY-Basic-and-Mood-Nft) | ERC-721 with IPFS provenance | Split-stack architecture · Immutable metadata · Admin controls |
-| [**Oracle Crowdfunding**](https://github.com/NexTechArchitect/FundMe-Contract) | USD-denominated funding dApp | Chainlink price feeds · 1e18 precision math · Gas optimized |
+| [**SISO Token**](https://github.com/NexTechArchitect/SISO-Token-ERC20) | Production ERC-20 primitive | RBAC · Pausable · Deployed & verified on Sepolia |
+| [**CuteCat NFT**](https://github.com/NexTechArchitect/FOUNDRY-Basic-and-Mood-Nft) | ERC-721 with IPFS provenance | Immutable metadata · Admin controls |
+| [**Oracle Crowdfunding**](https://github.com/NexTechArchitect/FundMe-Contract) | USD-denominated funding dApp | Chainlink price feeds · 1e18 precision math |
+
+---
+
+## Resume
+
+> Full project timeline, stack, and engineering work in one page.
+
+[![View Resume PDF](https://img.shields.io/badge/View_Resume_PDF-0d6e65?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NexTechArchitect/web3-resume/blob/main/resume.pdf)
 
 ---
 
@@ -127,7 +132,7 @@ I've shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure
 
 ## Open to Opportunities
 
-Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build end to end from Solidity architecture to production frontend.. Open to DeFi protocols, infrastructure teams, or anything where the engineering bar is high.
+Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build end to end — from Solidity architecture to production frontend. Open to DeFi protocols, infrastructure teams, or anything where the engineering bar is high.
 
 <div align="center">
 
