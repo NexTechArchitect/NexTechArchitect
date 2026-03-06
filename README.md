@@ -112,8 +112,7 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 
 > Full project timeline, stack, and engineering work — one page.
 
-📄 **[View Resume PDF →](https://github.com/NexTechArchitect/web3-resume/blob/main/resume.pdf)**
-
+**[→ View Resume PDF](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)**
 ---
 
 ## Engineering Metrics
