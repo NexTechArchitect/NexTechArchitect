@@ -8,7 +8,7 @@
   <br/><br/>
 
   <a href="https://nex-tech-architect-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-nex--tech--architect--portfolio.vercel.app-0d9488?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-nex--tech--architect-0d9488?style=flat-square&labelColor=0d1117" />
   </a>
 
 </div>
@@ -110,9 +110,9 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 
 ## Resume
 
-> Full project timeline, stack, and engineering work in one page.
+> Full project timeline, stack, and engineering work — one page.
 
-[![View Resume PDF](https://img.shields.io/badge/View_Resume_PDF-0d6e65?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NexTechArchitect/web3-resume/blob/main/resume.pdf)
+📄 **[View Resume PDF →](https://github.com/NexTechArchitect/web3-resume/blob/main/resume.pdf)**
 
 ---
 
