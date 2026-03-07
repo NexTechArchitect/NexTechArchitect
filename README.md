@@ -8,12 +8,12 @@
   <br/><br/>
 
   <a href="https://nex-tech-architect-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-nex--tech--architect-0d9488?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-nex--tech--architect.vercel.app-2563eb?style=flat-square&labelColor=0d1117" />
   </a>
 
 </div>
 
----
+<br/>
 
 ## About Me
 
@@ -33,7 +33,7 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
   <img src="https://img.shields.io/badge/Contracts_Deployed-60+-F0B90B?style=flat-square&labelColor=0d1117" />
 </p>
 
----
+<br/>
 
 ## Technical Stack
 
@@ -59,7 +59,7 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 
 </div>
 
----
+<br/>
 
 ## Flagship Projects
 
@@ -90,7 +90,7 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 </tr>
 </table>
 
----
+<br/>
 
 ## Core Protocol Implementations
 
@@ -106,14 +106,16 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 | [**CuteCat NFT**](https://github.com/NexTechArchitect/FOUNDRY-Basic-and-Mood-Nft) | ERC-721 with IPFS provenance | Immutable metadata · Admin controls |
 | [**Oracle Crowdfunding**](https://github.com/NexTechArchitect/FundMe-Contract) | USD-denominated funding dApp | Chainlink price feeds · 1e18 precision math |
 
----
+<br/>
 
 ## Resume
 
-> Full project timeline, stack, and engineering work.
+> Full project timeline, stack, and engineering work — one page.
 
 **[→ View Resume PDF](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)**
----
+
+<br/>
+
 ## Engineering Metrics
 
 <div align="center">
@@ -126,7 +128,7 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 
 </div>
 
----
+<br/>
 
 ## Open to Opportunities
 
@@ -141,7 +143,7 @@ Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build 
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
