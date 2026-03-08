@@ -136,7 +136,6 @@ Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amit-kumar-811a11277)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitthapa181133@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NexTechDev)
