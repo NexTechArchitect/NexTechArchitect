@@ -12,7 +12,6 @@
   </a>
 
 </div>
-
 <br/>
 
 ## About Me
