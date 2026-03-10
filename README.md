@@ -15,7 +15,7 @@
 
 <br/>
 
-## About Me
+## About Me ##
 
 I'm **Amit**, a Smart Contract & Full-Stack Web3 Developer from India. I've been in the Web3 space since **2019** and building since **2024**.
 
