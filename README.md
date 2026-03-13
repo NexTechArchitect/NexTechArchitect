@@ -60,7 +60,7 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
 
 <br/>
 
-## Flagship Projects
+## Flagship Projects ##
 
 <table width="100%">
 <tr>
