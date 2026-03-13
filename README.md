@@ -10,7 +10,6 @@
   <a href="https://nex-tech-architect-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-nex--tech--architect.vercel.app-2563eb?style=flat-square&labelColor=0d1117" />
   </a>
-
 </div>
 
 <br/>
