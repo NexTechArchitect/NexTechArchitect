@@ -18,7 +18,7 @@
 
 I'm **Amit**, a Smart Contract & Full-Stack Web3 Developer from India. I've been in the Web3 space since **2019** and building since **2024**.
 
-Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems — including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2.
+Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, account abstraction, and cross-chain systems — including a fully on-chain **Perpetuals DEX** with ERC-4337 gasless trading and Chainlink CCIP, and a modular **DAO governance OS** with 256 tests and zero failures. Both are live with production frontends built on Next.js 14 and Wagmi v2
 
 <br/>
 
