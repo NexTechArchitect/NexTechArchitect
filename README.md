@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=0d9488&center=true&vCenter=true&width=750&lines=Smart+Contract+%26+Full-Stack+Web3+Developer;" alt="Typing SVG" />
-
   <br/>
 
   <a href="https://nex-tech-architect-portfolio.vercel.app/">
