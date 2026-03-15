@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,50:0d9488,100:059669&height=130&section=header&text=NexTechArchitect&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=30" width="100%"/>
+  
 </div>
 
 <div align="center">
