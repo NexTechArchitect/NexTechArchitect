@@ -31,7 +31,6 @@ Shipped **15+ projects** across DeFi, DAOs, stablecoins, NFT infrastructure, acc
   &nbsp;
   <img src="https://img.shields.io/badge/Contracts_Deployed-60+-F0B90B?style=flat-square&labelColor=0d1117" />
 </p>
-
 <br/>
 
 ## Technical Stack
