@@ -146,7 +146,7 @@ Currently looking for a **Smart Contract** or **Full-Stack Web3** role. I build 
 
 <div align="center">
 
-*"Building protocols that survive the dark forest."*
+**Building protocols that survive the dark forest.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:0d9488,100:0055FF&height=100&section=footer" width="100%"/>
 
