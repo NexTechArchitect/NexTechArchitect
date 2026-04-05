@@ -76,7 +76,7 @@ On-chain identity layer using soulbound tokens.
 
 ## Open to Work
 
-Looking for a **Smart Contract** or **Full-Stack Web3** role.  
+Looking for a **Smart Contract** or **Web3** role.  
 DeFi protocols, infrastructure teams, or anywhere the engineering bar is high.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://nex-tech-architect-portfolio.vercel.app/)
