@@ -33,7 +33,7 @@ Fully on-chain perpetuals exchange. No off-chain order book, no trusted operator
 **v1** — Ethereum Sepolia · [Live](https://nexus-protocol-os.vercel.app/) · [Source](https://github.com/NexTechArchitect/Nexus-Protocol-OS)  
 **v2** — Polkadot Hub Testnet · Polkadot Solidity Hackathon 2026 · [Live](https://nexus-protocol-v2.vercel.app/) · [Source](https://github.com/NexTechArchitect/nexus-protocol-v2)
 
----
+--- 
 
 ### [Sentinel DAO](https://sentinel-dao-brown.vercel.app/)
 Modular governance infrastructure built for adversarial conditions.
