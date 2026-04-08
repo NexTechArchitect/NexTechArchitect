@@ -17,7 +17,7 @@ Smart Contract & Web3 Engineer based in India. Building since 2024 — focused o
 Every project starts from raw EIP specs, not tutorials. Every contract is invariant-tested before deployment. Every system ships with a production frontend.
 
 **Stack:** Solidity · Foundry · ERC-4337 · Chainlink CCIP · Next.js 14 · Wagmi v2 
-
+ 
 ---
 
 ## Flagship Projects
