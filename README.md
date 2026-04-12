@@ -18,7 +18,7 @@ Every project starts from raw EIP specs, not tutorials. Every contract is invari
 
 **Stack:** Solidity · Foundry · ERC-4337 · Chainlink CCIP · Next.js 14 · Wagmi v2 
  
----
+--- 
 
 ## Flagship Projects
 
