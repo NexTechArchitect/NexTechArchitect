@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=600&lines=Smart+Contract+%26+Web3+Engineer;DeFi+%7C+Account+Abstraction+%7C+Cross-Chain;Every+concept+shipped+as+production+code." alt="Typing SVG" />
 </div>
 
-<br/>
+<br/> 
 
 ---
 
@@ -73,7 +73,7 @@ On-chain identity layer using soulbound tokens.
 | **Oracle Crowdfunding** | USD-denominated · Chainlink price feeds · 1e18 precision | [→](https://github.com/NexTechArchitect/FundMe-Contract) |
 
 ---
-
+ 
 ## Open to Work
 
 Looking for a **Smart Contract** or **Web3** role.  
