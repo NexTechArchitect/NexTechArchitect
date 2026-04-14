@@ -56,7 +56,7 @@ On-chain identity layer using soulbound tokens.
 - Score clamped to [0, 1000] via pure `ReputationMath` library — overflow impossible by design
 - `ReputationVault` with cooldowns, strict CEI, `nonReentrant` throughout
 
-[Live](https://rst-reputation-protocol.vercel.app/) · [Source](https://github.com/NexTechArchitect/ERC-5484)
+[Live](https://rst-reputation-protocol.vercel.app/) · [Source](https://github.com/NexTechArchitect/RST-Reputation-Protocol)
 
 ---
 
