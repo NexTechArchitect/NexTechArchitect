@@ -17,6 +17,8 @@
 I independently manage the entire engineering lifecycle—from architecting gas-optimized smart contracts to shipping seamless, production-ready frontends. My focus is on high-leverage DeFi, modular governance, and Account Abstraction.
 
 **Stack:** Solidity · Foundry · Interoperability (CCIP) · Next.js 15 · ERC-4337
+
+<br/> 
 --- 
 
 ## Flagship Projects
