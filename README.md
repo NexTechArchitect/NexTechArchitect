@@ -12,12 +12,7 @@
 
 ## About
 
-Smart Contract & Web3 Engineer based in India. Building since 2024 — focused on DeFi infrastructure, account abstraction, and cross-chain systems and Many more.
-
-Every project starts from raw EIP specs, not tutorials. Every contract is invariant-tested before deployment. Every system ships with a production frontend.
-
-**Stack:** Solidity · Foundry · ERC-4337 · Chainlink CCIP · Next.js 14 · Wagmi v2 
- 
+Smart Contract Architect & Full-Stack Developer. I’ve been designing and deploying secure blockchain protocols and decentralized apps (dApps) since 2024. My focus is on building robust systems that balance deep on-chain security with a seamless, modern user experience.I have independently delivered a wide range of projects, including high-leverage trading platforms, automated governance systems, and digital identity protocols. I manage the entire engineering lifecycle—from architecting gas-optimized smart contracts to shipping production-ready frontends.Stack: Solidity · Foundry · Interoperability (CCIP) · Next.js 15 · Account Abstraction (ERC-4337).
 --- 
 
 ## Flagship Projects
