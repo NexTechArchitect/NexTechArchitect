@@ -17,7 +17,7 @@ I independently manage the entire engineering lifecycle—from architecting gas-
 **Stack:** Solidity · Foundry · Interoperability (CCIP) · Next.js 15 · ERC-4337
 
 <br/> 
---- 
+
 
 ## Flagship Projects
 
