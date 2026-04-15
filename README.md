@@ -12,7 +12,7 @@
 
 ## About
 
-Smart Contract & Web3 Engineer based in India. Building since 2024 — focused on DeFi infrastructure, account abstraction, and cross-chain systems.
+Smart Contract & Web3 Engineer based in India. Building since 2024 — focused on DeFi infrastructure, account abstraction, and cross-chain systems and Many more.
 
 Every project starts from raw EIP specs, not tutorials. Every contract is invariant-tested before deployment. Every system ships with a production frontend.
 
