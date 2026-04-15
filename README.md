@@ -12,7 +12,11 @@
 
 ## About
 
-Smart Contract Architect & Full-Stack Developer. I’ve been designing and deploying secure blockchain protocols and decentralized apps (dApps) since 2024. My focus is on building robust systems that balance deep on-chain security with a seamless, modern user experience.I have independently delivered a wide range of projects, including high-leverage trading platforms, automated governance systems, and digital identity protocols. I manage the entire engineering lifecycle—from architecting gas-optimized smart contracts to shipping production-ready frontends.Stack: Solidity · Foundry · Interoperability (CCIP) · Next.js 15 · Account Abstraction (ERC-4337).
+**Smart Contract Architect & Full-Stack Developer** building secure blockchain protocols since 2024. 
+
+I independently manage the entire engineering lifecycle—from architecting gas-optimized smart contracts to shipping seamless, production-ready frontends. My focus is on high-leverage DeFi, modular governance, and Account Abstraction.
+
+**Stack:** Solidity · Foundry · Interoperability (CCIP) · Next.js 15 · ERC-4337
 --- 
 
 ## Flagship Projects
