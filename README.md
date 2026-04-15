@@ -8,8 +8,6 @@
 
 <br/> 
 
----
-
 ## About
 
 **Smart Contract Architect & Full-Stack Developer** building secure blockchain protocols since 2024. 
