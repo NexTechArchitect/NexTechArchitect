@@ -10,7 +10,7 @@
 
 ## About
 
-**Smart Contract Architect & Web3 Developer** building secure blockchain protocols since 2024. 
+**Smart Contract Architect & Web3 Developer** building secure blockchain protocols since 2024.
 
 I independently manage the entire engineering lifecycle—from architecting gas-optimized smart contracts to shipping seamless, production-ready frontends. My focus is on high-leverage DeFi, modular governance, and Account Abstraction.
 
