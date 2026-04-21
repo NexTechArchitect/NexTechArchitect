@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=120&section=header&text=NexTechArchitect&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=600&lines=Smart+Contract+%26+Web3+Engineer;DeFi+%7C+Account+Abstraction+%7C+Cross-Chain;Every+concept+shipped+as+production+code." alt="Typing SVG" />
 </div>
