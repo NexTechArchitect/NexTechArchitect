@@ -18,7 +18,6 @@ I independently manage the entire engineering lifecycle—from architecting gas-
 
 <br/> 
 
-
 ## Flagship Projects
 
 ### [Nexus Perpetuals DEX](https://nexus-protocol-os.vercel.app/)
