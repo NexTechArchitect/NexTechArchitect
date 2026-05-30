@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=600&lines=Solidity+Engineer+%7C+DeFi+Infrastructure;Every+concept+shipped+as+production+code." alt="Typing SVG" />
 </div>
-
+ 
 <br/>
 
 Solidity engineer building production DeFi protocols — perpetuals DEXs, insurance vaults, DAO governance, and gasless smart wallets. Everything ships fuzz-tested, verified on-chain, with a live frontend.
