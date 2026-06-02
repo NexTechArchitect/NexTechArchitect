@@ -36,6 +36,6 @@ Soulbound identity with 5-tier dynamic medals that auto-upgrade on score change.
 
 ---
 
-Open to Blockchain and Smart Contract roles — DeFi protocols, infra, anywhere the bar is high.
+Open to Blockchain and Smart Contract roles: DeFi protocols, infra, anywhere the bar is high.
 
 [Portfolio](https://nex-tech-architect-portfolio.vercel.app) · [Resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) · [Email](mailto:amitthapa181133@gmail.com) · [LinkedIn](https://in.linkedin.com/in/amit-kumar-811a11277)
