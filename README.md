@@ -22,7 +22,6 @@ Modular governance with 48H timelock, veto council, rage-quit exit, and auto-com
 
 ### [RST Protocol — On-Chain Reputation](https://rst-reputation-protocol.vercel.app/) · [Source](https://github.com/NexTechArchitect/ERC-5484)
 Soulbound identity with 5-tier dynamic medals that auto-upgrade on score change. UUPS upgradeable, fuzz-proved overflow-safe.
-
 ---
 
 ## More
