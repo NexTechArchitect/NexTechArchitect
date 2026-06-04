@@ -1,39 +1,38 @@
 # Amit Kumar
 
-Smart contract engineer. Building production DeFi infrastructure: perpetuals, governance, identity, and gasless wallets.
+Smart contract engineer based in India.
 
-### What I ship
+I build DeFi protocols end to end — contracts, tests, and frontend. Everything I ship is deployed on-chain and tested with invariant fuzzing.
 
-Every project is tested with stateful invariant fuzzing and deployed on-chain. Not tutorials.
+<br>
 
-**Nexus Perpetuals DEX** ([live](https://nexus-protocol-os.vercel.app) / [src](https://github.com/NexTechArchitect/Nexus-Protocol-OS))
-50x on-chain perpetuals. ERC-4337 gasless trading via custom paymaster. Chainlink CCIP cross-chain margin. Solvency invariant held across 6,400 randomised state mutations, zero violations. Ported to Polkadot Hub in [v2](https://github.com/NexTechArchitect/nexus-protocol-v2).
+## Projects
 
-**Sentinel DAO** ([live](https://sentinel-dao-brown.vercel.app) / [src](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO))
-Modular governance with 48h timelock, veto council, rage-quit exit, and Aave V3 auto-compounding treasury. 256 tests, zero failures.
+**[Nexus Perpetuals](https://nexus-protocol-os.vercel.app)** &nbsp; [source](https://github.com/NexTechArchitect/Nexus-Protocol-OS)
+On-chain perpetuals exchange. 50x leverage, gasless trading via ERC-4337, cross-chain margin via Chainlink CCIP.
+Also live on Polkadot Hub — [v2](https://nexus-protocol-v2.vercel.app)
 
-**Sentinel Insurance Protocol** ([live](https://sentinel-insurance-protocol.vercel.app) / [src](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol))
-ERC-4626 vault routing idle USDC into Aave V3. Claims resolved via flash-loan-resistant DAO voting. Slither audit, 0 high severity findings.
+**[Sentinel DAO](https://sentinel-dao-brown.vercel.app)** &nbsp; [source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
+Governance protocol with 48h timelock, veto council, rage-quit exit, and auto-compounding treasury via Aave V3.
 
-**RST Protocol** ([live](https://rst-reputation-protocol.vercel.app) / [src](https://github.com/NexTechArchitect/ERC-5484))
-ERC-5484 soulbound identity with 5-tier dynamic SVG medals that auto-upgrade on score change. UUPS upgradeable engine, fuzz-proved overflow-safe.
+**[Sentinel Insurance](https://sentinel-insurance-protocol.vercel.app)** &nbsp; [source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
+DeFi insurance vault. Idle USDC deployed to Aave V3. Claims resolved through DAO voting.
 
-### Other work
+**[RST Protocol](https://rst-reputation-protocol.vercel.app)** &nbsp; [source](https://github.com/NexTechArchitect/ERC-5484)
+On-chain reputation using ERC-5484 soulbound tokens. Dynamic SVG medals that update automatically as scores change.
 
-| Project | |
-|:--|:--|
-| Decentralised Stablecoin | 200% overcollateralised, liquidation engine, invariant-tested. [src](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) |
-| ERC-4337 Account Abstraction | Custom paymaster from raw EIP spec, session-key delegation. [src](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry) |
-| UUPS Proxy Protocol | Atomic V1 to V3 live migration with storage gap management. [src](https://github.com/NexTechArchitect/uups-protocol-config) |
-| Merkle Airdrop | EIP-712 phased vesting, front-running resistant. [src](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop) |
-| Provably Fair Raffle | Chainlink VRF, CEI state machine, Foundry invariant suite. [src](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry) |
+<br>
 
-### Stack
+## Other
 
-Solidity, Foundry, EVM, Chainlink (VRF, CCIP, Oracles), ERC-4337, Aave V3, OpenZeppelin, Next.js, Wagmi v2, Viem
+[Decentralised Stablecoin](https://github.com/NexTechArchitect/Foundry-Defi-StableCoin) &nbsp; [ERC-4337 Account Abstraction](https://github.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry) &nbsp; [UUPS Proxy Protocol](https://github.com/NexTechArchitect/uups-protocol-config) &nbsp; [Merkle Airdrop](https://github.com/NexTechArchitect/Siso-Merkle-Airdrop) &nbsp; [Provably Fair Raffle](https://github.com/NexTechArchitect/Raffle-Lottery-Foundry)
 
-### Contact
+<br>
 
-Open to smart contract and blockchain engineering roles.
+## Stack
 
-[Portfolio](https://nex-tech-architect-portfolio.vercel.app) / [Resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) / [Email](mailto:amitthapa181133@gmail.com) / [LinkedIn](https://in.linkedin.com/in/amit-kumar-811a11277)
+Solidity &nbsp; Foundry &nbsp; EVM &nbsp; Chainlink &nbsp; ERC-4337 &nbsp; Aave V3 &nbsp; Next.js &nbsp; Wagmi
+
+<br>
+
+[portfolio](https://nex-tech-architect-portfolio.vercel.app) &nbsp; [resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) &nbsp; amitthapa181133@gmail.com
