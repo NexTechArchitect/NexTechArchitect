@@ -1,6 +1,6 @@
 # Amit Kumar
 
-Smart contract engineer. I build DeFi protocols end to end — contracts, tests, and frontend. Everything deployed on-chain.
+Smart contract engineer. I build DeFi protocols from scratch — contracts, tests, and frontend. Everything is deployed on-chain.
 
 <br>
 
@@ -12,16 +12,16 @@ Smart contract engineer. I build DeFi protocols end to end — contracts, tests,
 
 **[Nexus Perpetuals](https://nexus-protocol-os.vercel.app)**
 
-On-chain perpetuals exchange. 50x leverage, gasless trading via ERC-4337, cross-chain margin via Chainlink CCIP.
+On-chain 50x perpetuals exchange with gasless trading via ERC-4337 and cross-chain margin via Chainlink CCIP.
 
-[source](https://github.com/NexTechArchitect/Nexus-Protocol-OS) &nbsp; [v2 on Polkadot](https://github.com/NexTechArchitect/nexus-protocol-v2)
+[source](https://github.com/NexTechArchitect/Nexus-Protocol-OS) &nbsp; [v2 on Polkadot Hub](https://github.com/NexTechArchitect/nexus-protocol-v2)
 
 </td>
 <td width="50%" valign="top">
 
 **[Sentinel DAO](https://sentinel-dao-brown.vercel.app)**
 
-Governance protocol with 48h timelock, veto council, rage-quit exit, and auto-compounding treasury via Aave V3.
+Governance with 48h timelock, veto council, rage-quit exit, and auto-compounding treasury via Aave V3.
 
 [source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
 
@@ -32,7 +32,7 @@ Governance protocol with 48h timelock, veto council, rage-quit exit, and auto-co
 
 **[Sentinel Insurance](https://sentinel-insurance-protocol.vercel.app)**
 
-DeFi insurance vault. Idle USDC deployed to Aave V3. Claims resolved through DAO voting.
+Insurance vault routing idle USDC into Aave V3. Claims resolved through flash-loan-resistant DAO voting.
 
 [source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
 
@@ -41,7 +41,7 @@ DeFi insurance vault. Idle USDC deployed to Aave V3. Claims resolved through DAO
 
 **[RST Protocol](https://rst-reputation-protocol.vercel.app)**
 
-On-chain reputation using ERC-5484 soulbound tokens. Dynamic SVG medals that update automatically as scores change.
+On-chain reputation using ERC-5484 soulbound tokens. Dynamic SVG medals that update as scores change.
 
 [source](https://github.com/NexTechArchitect/ERC-5484)
 
@@ -50,8 +50,6 @@ On-chain reputation using ERC-5484 soulbound tokens. Dynamic SVG medals that upd
 </table>
 
 <br>
-
-### Stack
 
 Solidity &nbsp; Foundry &nbsp; EVM &nbsp; Chainlink &nbsp; ERC-4337 &nbsp; Aave V3 &nbsp; Next.js &nbsp; Wagmi
 
