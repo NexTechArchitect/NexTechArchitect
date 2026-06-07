@@ -64,4 +64,4 @@ ERC-5484 soulbound tokens with 5-tier dynamic SVG medals that auto-upgrade on sc
 Open to remote Solidity / Smart Contract roles — DeFi protocols, infra, audit-adjacent.
 Anywhere the bar is high.
 
-[Portfolio](https://nex-tech-architect-portfolio.vercel.app) · [Resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) · [Email](mailto:amitthapa181133@gmail.com) · [LinkedIn](https://in.linkedin.com/in/amit-kumar-811a11277)
+[Portfolio](https://nex-tech-architect-portfolio.vercel.app) · [Resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) · [Email](mailto:nextech.amit@gmail.com) · [LinkedIn](https://in.linkedin.com/in/amit-kumar-811a11277)
