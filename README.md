@@ -1,67 +1,71 @@
-# Amit Kumar — Smart Contract Engineer
+# Amit Kumar
 
-Solidity engineer shipping production DeFi end to end —
-fuzz-tested, Slither-audited, and verified on-chain.
-Zero high-severity findings across 40+ contracts.
+Solidity engineer. Self-taught. Two years of building DeFi protocols from scratch and shipping them to mainnet.
 
-**Stack:** Solidity · Foundry · EVM · Chainlink · ERC-4337 · Next.js
+Not tutorials. Not forks. Original architecture — insurance vaults, perpetuals exchanges, DAO governance systems, on-chain reputation protocols — each one designed for production security from the first line of code.
 
----
-
-## Featured Projects
-
-### [Sentinel Insurance Protocol](https://sentinel-insurance-protocol.vercel.app/) · [Source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
-`Solidity 0.8.24` `ERC-4626` `Aave V3` `DAO Governance` `ERC-5484` `Base Mainnet`
-
-ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO governance via `getPastVotes(block.number-1)`. Soulbound PolicyNFTs with on-chain SVG metadata.
-
-**8 contracts live on Base Mainnet — Basescan verified — Slither: 0 high / 2 medium validated.**
+Zero high-severity findings across 40+ verified contracts.
 
 ---
 
-### [Nexus Perpetuals DEX — Gasless 50× Leverage](https://nexus-protocol-os.vercel.app/) · [Source](https://github.com/NexTechArchitect/Nexus-Protocol-OS)
-`Solidity` `ERC-4337` `Chainlink CCIP` `Cross-Chain` `Sepolia`
+## What I build
 
-Fully on-chain perpetuals with ERC-4337 paymaster covering 100% of gas. Chainlink oracles with staleness guards, CCIP cross-chain margin with nonce deduplication. `MINIMUM_LIQUIDITY` burn prevents LP inflation attacks.
+**Sentinel Insurance Protocol** — ERC-4626 vault routing idle USDC into Aave V3 yield. Flash-loan-resistant DAO governance using snapshot voting. Soulbound PolicyNFTs with on-chain SVG metadata. Eight contracts live on Base Mainnet, Basescan verified, Slither clean.
 
-**Solvency invariant held across 6,400 randomized mutations — zero violations.**
-
-> **v2 on Polkadot Hub** · [Live](https://nexus-protocol-v2.vercel.app/) · [Source](https://github.com/NexTechArchitect/nexus-protocol-v2)
+[Live](https://sentinel-insurance-protocol.vercel.app) · [Source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
 
 ---
 
-### [Sentinel DAO — Anti-Flash Governance](https://sentinel-dao-brown.vercel.app/) · [Source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
-`Solidity` `TimelockController` `Aave V3 Treasury` `ERC-4337` `Rage-Quit` `Sepolia`
+**Nexus Perpetuals DEX** — Fully on-chain 50x leverage perpetuals. ERC-4337 paymaster sponsors 100% of gas, so users never touch ETH. Chainlink oracles with staleness guards. CCIP cross-chain margin with nonce deduplication to prevent replay attacks. Solvency invariant held across 6,400 randomised mutations with zero violations.
 
-48H `TimelockController` + VetoCouncil rage-quit mechanism blocks flash-loan governance attacks. Aave V3 auto-compounding treasury. ERC-4337 gasless voting removes gas as a participation barrier.
-
-**256 tests — zero failures. Treasury solvency fuzz-proved.**
+[Live](https://nexus-protocol-os.vercel.app) · [Source](https://github.com/NexTechArchitect/Nexus-Protocol-OS) · [v2 on Polkadot Hub](https://nexus-protocol-v2.vercel.app)
 
 ---
 
-### [RST Protocol — On-Chain Reputation](https://rst-reputation-protocol.vercel.app/) · [Source](https://github.com/NexTechArchitect/ERC-5484)
-`Solidity` `ERC-5484 Soulbound` `UUPS Upgradeable` `Sepolia`
+**Sentinel DAO** — Anti-flash-loan governance. 48H TimelockController plus a VetoCouncil rage-quit mechanism that lets minority holders exit before a hostile proposal executes. Aave V3 auto-compounding treasury. ERC-4337 gasless voting. 256 tests, zero failures.
 
-ERC-5484 soulbound tokens with 5-tier dynamic SVG medals that auto-upgrade on score change. UUPS proxy pattern keeps scoring logic upgradeable while SBT records stay permanently immutable.
+[Live](https://sentinel-dao-brown.vercel.app) · [Source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
 
-**Overflow and uniqueness fuzz-proved across 4-layer test suite.**
+---
+
+**RST Protocol** — On-chain reputation with ERC-5484 soulbound tokens. Five-tier dynamic SVG medals that auto-upgrade when a user's score crosses a threshold. UUPS proxy keeps scoring logic upgradeable while the SBT records stay permanently immutable. Fuzz-proved against overflow and uniqueness violations.
+
+[Live](https://rst-reputation-protocol.vercel.app) · [Source](https://github.com/NexTechArchitect/ERC-5484)
 
 ---
 
 ## Also on GitHub
 
-| Project | What it does |
-|---|---|
-| DSC Stablecoin | Overcollateralised stablecoin — 10,000-run invariant fuzz suite |
-| UUPS V1→V3 Migration | Live proxy upgrade path with storage-collision-safe layout |
-| Merkle + EIP-712 Airdrop | O(1) gas, MEV-resistant claim verification |
-| Chainlink VRF Lottery | Provably fair on-chain randomness |
-| Dynamic SVG NFTs | Fully on-chain metadata, no IPFS dependency |
-| ERC-20 Fundraise | RBAC + circuit breaker pattern |
+**DSC Stablecoin** — Overcollateralised stablecoin with a 10,000-run invariant fuzz suite proving solvency under adversarial conditions.
+
+**UUPS V1 to V3 Migration** — Live proxy upgrade path with storage-collision-safe layout across three contract versions.
+
+**Merkle + EIP-712 Airdrop** — O(1) gas claim verification with MEV-resistant proof structure.
+
+**Chainlink VRF Lottery** — Provably fair on-chain randomness with no trusted operator.
+
+**Dynamic SVG NFTs** — Fully on-chain metadata. No IPFS dependency, no external rendering.
+
+**ERC-20 Fundraise** — Role-based access control with a circuit breaker pattern for emergency pause.
 
 ---
 
-Open to remote Solidity / Smart Contract roles — DeFi protocols, infra, audit-adjacent.
-Anywhere the bar is high.
+## How I build
+
+Security is not a review step at the end. Threat modeling happens before the first function signature. CEI patterns, reentrancy guards, oracle staleness checks, and flash-loan resistance are architectural decisions, not patches.
+
+Testing means unit tests for correctness and fork tests for reality. A bug I missed on Nexus cross-chain margin only appeared in a fork test — not in 95 passing unit tests. That is the difference between testing your assumptions and testing the actual system.
+
+Storage layout gets designed before implementation on anything upgradeable. Retrofitting UUPS onto an existing contract once cost me more time than writing the contract itself. It never happened again.
+
+---
+
+## Stack
+
+Solidity 0.8 · Foundry · EVM · Yul · Chainlink CCIP, VRF, Price Feeds · Aave V3 · ERC-4337 · UUPS · OpenZeppelin · Slither · Echidna · Next.js 15 · Wagmi · Viem · TypeScript · IPFS
+
+---
+
+Open to remote Solidity and smart contract roles. DeFi protocols, infrastructure, audit-adjacent work. Anywhere the bar is high.
 
 [Portfolio](https://nex-tech-architect-portfolio.vercel.app) · [Resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) · [Email](mailto:nextech.amit@gmail.com) · [LinkedIn](https://in.linkedin.com/in/amit-kumar-811a11277)
