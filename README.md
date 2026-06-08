@@ -1,6 +1,6 @@
 # Amit Kumar — Smart Contract Engineer
 
-Self-taught Solidity engineer. Two years building DeFi protocols from scratch — insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything ships with Foundry test suites, Slither audits, and Basescan verification.
+Open-source Solidity engineer. Two years building DeFi protocols from scratch — insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything ships with Foundry test suites, Slither audits, and Basescan verification.
 
 Zero high-severity findings across 40+ contracts.
 
