@@ -6,7 +6,7 @@ Zero high-severity findings across 40+ contracts.
 
 ---
 
-## Featured Projects
+## Some Featured Projects
 
 **Sentinel Insurance Protocol** - ERC-4626 vault into Aave V3, flash-loan-resistant DAO, 8 contracts on Base Mainnet.
 [Live](https://sentinel-insurance-protocol.vercel.app/) · [Source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
