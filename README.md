@@ -1,4 +1,4 @@
-# Amit Kumar - Smart Contract Engineer
+# Amit Kumar - Smart Contract Engineer 
  
 Open-source Solidity engineer. Building DeFi protocols from scratch: insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything ships with Foundry test suites and Basescan verification.
 
