@@ -2,7 +2,7 @@
  
 Open-source Solidity engineer. Building DeFi protocols from scratch: insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything ships with Foundry test suites and Basescan verification.
 
-Solidity 0.8 · Foundry · ERC-4337 AA · Chainlink CCIP · OpenZeppelin · EVM Security
+Solidity 0.8 · Foundry · ERC-4337 AA · Chainlink CCIP · OpenZeppelin · EVM Security 
 
 ---
 
