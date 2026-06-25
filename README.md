@@ -20,6 +20,20 @@ Solidity engineer who builds and ships - insurance vaults, perpetuals DEX, DAO g
 
 ---
 
+### Stack
+
+&nbsp;
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1220&title_color=00D4AA&text_color=8FA8C2&langs_count=8" />
+
+</div>
+
+&nbsp;
+
+---
+
 ### Deployments
 
 &nbsp;
@@ -71,7 +85,9 @@ ERC-5484 soulbound tokens with 5-tier dynamic SVG medals auto-upgrading on score
 
 <div align="center">
 
-[portfolio](https://nex-tech-architect-portfolio.vercel.app/) &nbsp;·&nbsp; [resume](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf) &nbsp;·&nbsp; nextech.amit@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=flat-square&labelColor=0D1220)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-0088CC?style=flat-square&labelColor=0D1220)](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-304860?style=flat-square&labelColor=0D1220)](mailto:nextech.amit@gmail.com)
 
 </div>
 
