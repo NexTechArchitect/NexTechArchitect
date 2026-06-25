@@ -31,7 +31,7 @@ Solidity engineer who builds and ships - insurance vaults, perpetuals DEX, DAO g
 ![Aave V3](https://img.shields.io/badge/Aave_V3-1A2E44?style=flat-square&labelColor=0D1220)
 ![ERC-5484](https://img.shields.io/badge/ERC--5484-1A2E44?style=flat-square&labelColor=0D1220)
 
-ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO via `getPastVotes(block.number-1)`. Soulbound PolicyNFTs with on-chain SVG. 8 contracts, Basescan verified — Slither: 0 high / 2 medium validated as false positives.
+ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO via `getPastVotes(block.number-1)`. Soulbound PolicyNFTs with on-chain SVG. 8 contracts, Basescan verified - Slither: 0 high / 2 medium validated as false positives.
 
 &nbsp;
 
@@ -41,7 +41,7 @@ ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO via
 ![ERC-4337](https://img.shields.io/badge/ERC--4337-1A2E44?style=flat-square&labelColor=0D1220)
 ![Chainlink CCIP](https://img.shields.io/badge/Chainlink_CCIP-1A2E44?style=flat-square&labelColor=0D1220)
 
-50× gasless leverage — ERC-4337 paymaster sponsors 100% of gas. Chainlink oracles with staleness guards. CCIP cross-chain margin with nonce dedup. Full invariant suite, zero solvency violations across all fuzz runs.
+50× gasless leverage - ERC-4337 paymaster sponsors 100% of gas. Chainlink oracles with staleness guards. CCIP cross-chain margin with nonce dedup. Full invariant suite, zero solvency violations across all fuzz runs.
 
 &nbsp;
 
@@ -51,7 +51,7 @@ ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO via
 ![TimelockController](https://img.shields.io/badge/TimelockController-1A2E44?style=flat-square&labelColor=0D1220)
 ![Anti-Flash](https://img.shields.io/badge/Anti--Flash_Gov-1A2E44?style=flat-square&labelColor=0D1220)
 
-48H TimelockController + VetoCouncil rage-quit blocks flash-governance attacks. Aave V3 treasury yield. ERC-4337 gasless voting. 256 tests, zero failures — treasury solvency fuzz-proved.
+48H TimelockController + VetoCouncil rage-quit blocks flash-governance attacks. Aave V3 treasury yield. ERC-4337 gasless voting. 256 tests, zero failures - treasury solvency fuzz-proved.
 
 &nbsp;
 
