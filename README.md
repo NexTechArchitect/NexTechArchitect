@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Base Mainnet](https://img.shields.io/badge/%E2%97%8F%20Base_Mainnet-deployed-00D4AA?style=flat-square&labelColor=0D1220)&nbsp;&nbsp;
+![Mainnet](https://img.shields.io/badge/%E2%97%8F%20Mainnet-deployed-00D4AA?style=flat-square&labelColor=0D1220)&nbsp;&nbsp;
 ![Remote](https://img.shields.io/badge/%E2%97%8B%20Remote-open-304860?style=flat-square&labelColor=0D1220)&nbsp;&nbsp;
 ![Contracts](https://img.shields.io/badge/40%2B_verified_contracts-0_high--sev_findings-1A3A2A?style=flat-square&labelColor=0D1220&color=0F2A20)
 
@@ -15,20 +15,6 @@
 &nbsp;
 
 Solidity engineer who builds and ships - insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything goes to mainnet or testnet with Foundry invariant suites, Slither audits, and Basescan verification. Zero high-severity findings across 40+ verified contracts.
-
-&nbsp;
-
----
-
-### Stack
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexTechArchitect&layout=compact&hide_border=true&bg_color=0D1220&title_color=00D4AA&text_color=8FA8C2&langs_count=8" />
-
-</div>
 
 &nbsp;
 
