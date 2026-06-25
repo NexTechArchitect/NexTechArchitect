@@ -14,7 +14,7 @@
 
 &nbsp;
 
-Solidity engineer who builds and ships — insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything goes to mainnet or testnet with Foundry invariant suites, Slither audits, and Basescan verification. Zero high-severity findings across 40+ verified contracts.
+Solidity engineer who builds and ships - insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything goes to mainnet or testnet with Foundry invariant suites, Slither audits, and Basescan verification. Zero high-severity findings across 40+ verified contracts.
 
 &nbsp;
 
