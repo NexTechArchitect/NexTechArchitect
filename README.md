@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Mainnet](https://img.shields.io/badge/%E2%97%8F%20Mainnet-deployed-00D4AA?style=flat-square&labelColor=0C1220)&nbsp;&nbsp;
+![Mainnet](https://img.shields.io/badge/%E2%97%8F%20Mainnet-deployed-00D4AA?style=flat-square&labelColor=0D9220)&nbsp;&nbsp;
 ![Remote](https://img.shields.io/badge/%E2%97%8B%20Remote-open-304860?style=flat-square&labelColor=0D1220)&nbsp;&nbsp;
 ![Contracts](https://img.shields.io/badge/40%2B_verified_contracts-0_high--sev_findings-1A3A2A?style=flat-square&labelColor=0D1220&color=0F2A20)
 
