@@ -64,7 +64,7 @@ ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO via
 ERC-5484 soulbound tokens with 5-tier dynamic SVG medals auto-upgrading on score change. UUPS proxy keeps scoring upgradeable while SBT records stay immutable. Overflow and uniqueness fuzz-proved.
 
 &nbsp;
-
+ 
 ---
 
 &nbsp;
