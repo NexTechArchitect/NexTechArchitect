@@ -71,7 +71,7 @@ ERC-5484 soulbound tokens with 5-tier dynamic SVG medals auto-upgrading on score
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4CC?style=flat-square&labelColor=0D1200)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&labelColor=0D1255)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-0088CC?style=flat-square&labelColor=0D1220)](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-304860?style=flat-square&labelColor=0D1220)](mailto:nextech.amit@gmail.com)
 
