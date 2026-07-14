@@ -1,78 +1,78 @@
-<div align="center"> 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:00D4AA,100:0088CC&height=140&section=header&text=Amit%20Kumar&fontSize=38&fontColor=E8F0FF&fontAlignY=45&desc=Smart%20Contract%20Engineer%20%C2%B7%20DeFi%20Protocol%20Developer%20%C2%B7%20EVM%20Security&descAlignY=68&descSize=13&descColor=6A8AAA" width="100%" />
-
-</div>
- 
 <div align="center">
 
-![Mainnet](https://img.shields.io/badge/%E2%97%8F%20Mainnet-deployed-6A8AAA?style=flat-square&labelColor=6A8AAA)&nbsp;&nbsp;
-![Remote](https://img.shields.io/badge/%E2%97%8B%20Remote-open-304860?style=flat-square&labelColor=0D1220)&nbsp;&nbsp;
-![Contracts](https://img.shields.io/badge/40%2B_verified_contracts-0_high--sev_findings-1A3A2A?style=flat-square&labelColor=0D1220&color=0F2A20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:00D4AA,100:0088CC&height=140&section=header&text=Amit%20Kumar&fontSize=38&fontColor=E8F0FF&fontAlignY=45&desc=Smart%20Contract%20Engineer%20%C2%B7%20DeFi%20Protocol%20Developer%20%C2%B7%20EVM%20Security&descAlignY=68&descSize=13&descColor=6A8AAA" width="100%" />
 
 </div>
 
 &nbsp;
 
-Solidity engineer who builds and ships - insurance vaults, perpetuals DEX, DAO governance, on-chain reputation. Everything goes to mainnet or testnet with Foundry invariant suites, Slither audits, and Basescan verification. Zero high-severity findings across 40+ verified contracts.
+Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 60+ verified contracts on Base Mainnet and EVM testnets.
+
+Core stack: Solidity 0.8 · ERC-4337 · ERC-4626 · Chainlink CCIP · UUPS Proxies · Foundry · Yul
 
 &nbsp;
 
 ---
 
-### Deployments
+### Production Deployments
+
+&nbsp;
+
+**[On-Chain Automation Protocol (Keeper Network)](https://on-chain-automation-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/OnChain-Automation-Protocol)
+
+`Base Mainnet` `ETH Bonding & Slashing` `Foundry`
+
+Permissionless keeper network where ETH-bonded operators execute jobs and earn rewards. Three slashes trigger autonomous permanent jail. ExecutionEngine wraps every target call in `try/catch` so reverting jobs never block the batch queue. Gas griefing ceiling, O(1) swap-pop queue, pull-payment treasury. **3 contracts on Base Mainnet. Slither: 0 Critical, 0 High.**
 
 &nbsp;
 
 **[Sentinel Insurance Protocol](https://sentinel-insurance-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
 
-![Base Mainnet](https://img.shields.io/badge/%E2%9B%93%20Base-Mainnet-00D4AA?style=flat-square&labelColor=0D1220)
-![ERC-4626](https://img.shields.io/badge/ERC--4626-1A2E44?style=flat-square&labelColor=0D1220)
-![Aave V3](https://img.shields.io/badge/Aave_V3-1A2E44?style=flat-square&labelColor=0D1220)
-![ERC-5484](https://img.shields.io/badge/ERC--5484-1A2E44?style=flat-square&labelColor=0D1220)
+`Base Mainnet` `ERC-4626` `Aave V3` `DAO Governance` `ERC-5484`
 
-ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO via `getPastVotes(block.number-1)`. Soulbound PolicyNFTs with on-chain SVG. 8 contracts, Basescan verified - Slither: 0 high / 2 medium validated as false positives.
+ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enforces `block.number-1` snapshot voting. Soulbound PolicyNFTs with on-chain SVG. **8 contracts on Base Mainnet. Slither: 0 High, 2 medium validated as false positives.**
 
 &nbsp;
 
 **[Nexus Perpetuals DEX](https://nexus-protocol-os.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-Protocol-OS)
 
-![Sepolia](https://img.shields.io/badge/%E2%9B%93%20Sepolia-Testnet-304860?style=flat-square&labelColor=0D1220)
-![ERC-4337](https://img.shields.io/badge/ERC--4337-1A2E44?style=flat-square&labelColor=0D1220)
-![Chainlink CCIP](https://img.shields.io/badge/Chainlink_CCIP-1A2E44?style=flat-square&labelColor=0D1220)
+`Sepolia` `ERC-4337` `Chainlink CCIP & Oracles` `5 Isolated Layers`
 
-50× gasless leverage - ERC-4337 paymaster sponsors 100% of gas. Chainlink oracles with staleness guards. CCIP cross-chain margin with nonce dedup. Full invariant suite, zero solvency violations across all fuzz runs.
+50x gasless leverage — ERC-4337 paymaster sponsors 100% of gas. Chainlink oracles with per-asset staleness guards. CCIP cross-chain margin with per-trader nonce dedup. Minimum-liquidity burn guards LP inflation. **Zero solvency violations across 6,400 invariant state mutations.**
 
 &nbsp;
 
 **[Sentinel DAO](https://sentinel-dao-brown.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
 
-![Sepolia](https://img.shields.io/badge/%E2%9B%93%20Sepolia-Testnet-304860?style=flat-square&labelColor=0D1220)
-![TimelockController](https://img.shields.io/badge/TimelockController-1A2E44?style=flat-square&labelColor=0D1220)
-![Anti-Flash](https://img.shields.io/badge/Anti--Flash_Gov-1A2E44?style=flat-square&labelColor=0D1220)
+`Sepolia` `TimelockController` `Aave V3 Treasury` `ERC-4337` `Rage-Quit`
 
-48H TimelockController + VetoCouncil rage-quit blocks flash-governance attacks. Aave V3 treasury yield. ERC-4337 gasless voting. 256 tests, zero failures - treasury solvency fuzz-proved.
+48H TimelockController + VetoCouncil rage-quit blocks flash-governance attacks. Aave V3 treasury yield. ERC-4337 gasless voting. ProposalGuard prevents spam. **256 tests, zero failures. Treasury solvency fuzz-proved.**
 
 &nbsp;
 
-**[RST Protocol](https://rst-reputation-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/ERC-5484)
+**[RST Protocol — On-Chain Reputation](https://rst-reputation-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/RST-Reputation-Protocol)
 
-![Sepolia](https://img.shields.io/badge/%E2%9B%93%20Sepolia-Testnet-304860?style=flat-square&labelColor=0D1220)
-![ERC-5484](https://img.shields.io/badge/ERC--5484-1A2E44?style=flat-square&labelColor=0D1220)
-![UUPS](https://img.shields.io/badge/UUPS_Proxy-1A2E44?style=flat-square&labelColor=0D1220)
+`Sepolia` `ERC-5484 Soulbound` `UUPS Upgradeable`
 
-ERC-5484 soulbound tokens with 5-tier dynamic SVG medals auto-upgrading on score change. UUPS proxy keeps scoring upgradeable while SBT records stay immutable. Overflow and uniqueness fuzz-proved.
+ERC-5484 soulbound tokens with 5-tier on-chain SVG medals that auto-upgrade on score change — no re-mint required. UUPS proxy keeps scoring logic upgradeable while SBT ownership records stay immutable. Score bounded 0–1000, overflow impossible by design.
 
 &nbsp;
- 
+
+**[Nexus Polkadot DEX](https://nexus-protocol-v2.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/nexus-polka-perps)
+
+`Polkadot Hub Testnet` `Chainlink CCIP` `Foundry` `Polkadot Hackathon 2026`
+
+Non-custodial 50x leverage exchange on Polkadot Hub. CCIP cross-chain margin, live Binance WebSocket PnL, invariant-proven vault solvency.
+
+&nbsp;
+
 ---
-
-&nbsp;
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&labelColor=0D1255)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&labelColor=0D1220)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-0088CC?style=flat-square&labelColor=0D1220)](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/𝕏-@itZ__AmiT0-304860?style=flat-square&labelColor=0D1220)](https://x.com/itZ_AmiT0)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-304860?style=flat-square&labelColor=0D1220)](mailto:nextech.amit@gmail.com)
 
 </div>
