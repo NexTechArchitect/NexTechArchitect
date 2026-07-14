@@ -69,8 +69,7 @@ Non-custodial 50x leverage exchange on Polkadot Hub. CCIP cross-chain margin, li
 ---
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&labelColor=0D1220)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-f0f4f8?style=flat-square&labelColor=1e293b&logoColor=0f172a)](https://nex-tech-architect-portfolio.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-0088CC?style=flat-square&labelColor=0D1220)](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/𝕏-@itZ__AmiT0-304860?style=flat-square&labelColor=0D1220)](https://x.com/itZ_AmiT0)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-304860?style=flat-square&labelColor=0D1220)](mailto:nextech.amit@gmail.com)
