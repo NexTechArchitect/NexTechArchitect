@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:00D4AA,100:0088CC&height=140&section=header&text=Amit%20Kumar&fontSize=38&fontColor=E8F0FF&fontAlignY=45&desc=Smart%20Contract%20Engineer%20%C2%B7%20DeFi%20Protocol%20Developer%20%C2%B7%20EVM%20Security&descAlignY=68&descSize=13&descColor=6A8AAA" width="100%" />
 
-</div>
+</div> 
 
 &nbsp;
 
