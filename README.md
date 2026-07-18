@@ -44,7 +44,7 @@ ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enf
 
 **[Sentinel DAO](https://sentinel-dao-brown.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
 
-`Sepolia` `TimelockController` `Aave V3 Treasury` `ERC-4337` `Rage-Quit`
+`Sepolia` `TimelockController` `Aave V3 Treasury` `ERC-4337` `Rage-Quit` 
 
 48H TimelockController + VetoCouncil rage-quit blocks flash-governance attacks. Aave V3 treasury yield. ERC-4337 gasless voting. ProposalGuard prevents spam. **256 tests, zero failures. Treasury solvency fuzz-proved.**
 
