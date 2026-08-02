@@ -6,7 +6,7 @@
  
 &nbsp;
 
-Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 60+ verified contracts on Base Mainnet and EVM testnets.
+Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 60+ verified contracts on Mainnet and EVM testnets.
 
 Core stack: Solidity 0.8 · ERC-4337 · ERC-4626 · Chainlink CCIP · UUPS Proxies · Foundry · Yul 
 
