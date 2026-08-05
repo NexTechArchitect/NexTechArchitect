@@ -6,7 +6,7 @@
  
 &nbsp;
 
-Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 60+ verified contracts on Mainnet and EVM testnets.
+Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 70+ verified contracts on Mainnet and EVM testnets.
 
 Core stack: Solidity 0.8 · ERC-4337 · ERC-4626 · Chainlink CCIP · UUPS Proxies · Foundry · Yul 
 
@@ -15,6 +15,14 @@ Core stack: Solidity 0.8 · ERC-4337 · ERC-4626 · Chainlink CCIP · UUPS Proxi
 ---
 
 ### Production Deployments
+
+&nbsp;
+
+**[Nexus RWA Protocol](https://basescan.org/address/0x88bb8025dc10Cc642d2F0D10F4335EcDBdC9A594)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-RWA-Protocol)
+
+`Base Mainnet` `ERC-3643` `Chainlink Automation` `Merkle Yield`
+
+On-chain compliance engine intercepts every ERC-20 transfer in real-time — KYC tier, OFAC sanctions, jurisdictional rules, zero off-chain dependency. Chainlink-automated Merkle yield drops at O(1) gas. NAV oracle with 15% circuit breaker. **6 contracts on Base Mainnet. 219+ tests, stateful invariant fuzzing. Slither: 0 Critical, 0 High.**
 
 &nbsp;
 
