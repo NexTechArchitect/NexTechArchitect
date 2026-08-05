@@ -8,7 +8,7 @@
 
 Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 70+ verified contracts on Mainnet and EVM testnets.
 
-Core stack: Solidity 0.8 · ERC-4337 · ERC-4626 · Chainlink CCIP · UUPS Proxies · Foundry · Yul 
+Specializing in DeFi protocol architecture across RWA tokenization, perpetuals infrastructure, decentralized insurance, DAO governance, and keeper automation networks.
 
 &nbsp;
 
@@ -30,7 +30,7 @@ On-chain compliance engine intercepts every ERC-20 transfer in real-time — KYC
 
 `Base Mainnet` `ETH Bonding & Slashing` `Foundry`
 
-Permissionless keeper network where ETH-bonded operators execute jobs and earn rewards. Three slashes trigger autonomous permanent jail. ExecutionEngine wraps every target call in `try/catch` so reverting jobs never block the batch queue. Gas griefing ceiling, O(1) swap-pop queue, pull-payment treasury. **3 contracts on Base Mainnet. Slither: 0 Critical, 0 High.**
+Permissionless keeper network where ETH-bonded operators execute jobs and earn rewards. Three slashes trigger autonomous permanent jail. ExecutionEngine wraps every target call in try/catch so reverting jobs never block the batch queue. O(1) swap-pop queue, pull-payment treasury. **3 contracts on Base Mainnet. Slither: 0 Critical, 0 High.**
 
 &nbsp;
 
@@ -38,15 +38,15 @@ Permissionless keeper network where ETH-bonded operators execute jobs and earn r
 
 `Base Mainnet` `ERC-4626` `Aave V3` `DAO Governance` `ERC-5484`
 
-ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enforces `block.number-1` snapshot voting. Soulbound PolicyNFTs with on-chain SVG. **8 contracts on Base Mainnet. Slither: 0 High, 2 medium validated as false positives.**
+ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enforces block.number-1 snapshot voting. Soulbound PolicyNFTs with on-chain SVG. **8 contracts on Base Mainnet. Slither: 0 Critical, 0 High.**
 
 &nbsp;
 
 **[Nexus Perpetuals DEX](https://nexus-protocol-os.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-Protocol-OS)
 
-`Sepolia` `ERC-4337` `Chainlink CCIP & Oracles` `5 Isolated Layers`
+`Sepolia` `ERC-4337` `Chainlink CCIP & Oracles`
 
-50x gasless leverage — ERC-4337 paymaster sponsors 100% of gas. Chainlink oracles with per-asset staleness guards. CCIP cross-chain margin with per-trader nonce dedup. Minimum-liquidity burn guards LP inflation. **Zero solvency violations across 6,400 invariant state mutations.**
+50x gasless leverage with fully on-chain execution. Chainlink oracles with per-asset staleness guards. CCIP cross-chain margin with per-trader nonce deduplication. Minimum-liquidity burn guards LP inflation. **Zero solvency violations across 6,400 invariant state mutations.**
 
 &nbsp;
 
@@ -54,7 +54,7 @@ ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enf
 
 `Sepolia` `TimelockController` `Aave V3 Treasury` `ERC-4337` `Rage-Quit` 
 
-48H TimelockController + VetoCouncil rage-quit blocks flash-governance attacks. Aave V3 treasury yield. ERC-4337 gasless voting. ProposalGuard prevents spam. **256 tests, zero failures. Treasury solvency fuzz-proved.**
+48H TimelockController with VetoCouncil blocks flash-governance attacks. Rage-quit module protects dissenting minorities before hostile execution. Aave V3 treasury yield, gasless voting, spam-resistant proposal guard. **256 tests, zero failures. Treasury solvency fuzz-proved.**
 
 &nbsp;
 
@@ -62,13 +62,13 @@ ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enf
 
 `Sepolia` `ERC-5484 Soulbound` `UUPS Upgradeable`
 
-ERC-5484 soulbound tokens with 5-tier on-chain SVG medals that auto-upgrade on score change — no re-mint required. UUPS proxy keeps scoring logic upgradeable while SBT ownership records stay immutable. Score bounded 0–1000, overflow impossible by design.
+ERC-5484 soulbound tokens with 5-tier on-chain SVG medals that auto-upgrade on score change, no re-mint required. UUPS proxy keeps scoring logic upgradeable while SBT ownership records stay immutable.
 
 &nbsp;
 
 **[Nexus Polkadot DEX](https://nexus-protocol-v2.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/nexus-polka-perps)
 
-`Polkadot Hub Testnet` `Chainlink CCIP` `Foundry` `Polkadot Hackathon 2026`
+`Polkadot Hub Testnet` `Chainlink CCIP` `Polkadot Hackathon 2026`
 
 Non-custodial 50x leverage exchange on Polkadot Hub. CCIP cross-chain margin, live Binance WebSocket PnL, invariant-proven vault solvency.
 
