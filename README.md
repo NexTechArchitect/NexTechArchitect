@@ -18,7 +18,7 @@ Specializing in DeFi protocol architecture across RWA tokenization, perpetuals i
 
 &nbsp;
 
-**[Nexus RWA Protocol](https://basescan.org/address/0x88bb8025dc10Cc642d2F0D10F4335EcDBdC9A594)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-RWA-Protocol)
+**[Nexus RWA Protocol](https://nexus-rwa-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-RWA-Protocol)
 
 `Base Mainnet` `ERC-3643` `Chainlink Automation` `Merkle Yield`
 
