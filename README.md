@@ -1,88 +1,115 @@
-<div align="center"> 
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:00D4AA,100:0088CC&height=140&section=header&text=Amit%20Kumar&fontSize=38&fontColor=E8F0FF&fontAlignY=45&desc=Smart%20Contract%20Engineer%20%C2%B7%20DeFi%20Protocol%20Developer%20%C2%B7%20EVM%20Security&descAlignY=68&descSize=13&descColor=6A8AAA" width="100%" />
- 
-</div>  
- 
-&nbsp;
+```
+ ________  ________  ________  _________  ________  ________  ___          
+|\   __  \|\   __  \|\   __  \|\___   ___\\   __  \|\   ____\|\  \         
+\ \  \|\  \ \  \|\  \ \  \|\  \|___ \  \_\ \  \|\  \ \  \___|\ \  \        
+ \ \   ____\ \   _  _\ \  \\\  \   \ \  \ \ \  \\\  \ \  \    \ \  \       
+  \ \  \___|\ \  \\  \\ \  \\\  \   \ \  \ \ \  \\\  \ \  \____\ \  \____  
+   \ \__\    \ \__\\ _\\ \_______\   \ \__\ \ \_______\ \_______\ \_______\
+    \|__|     \|__|\|__|\|_______|    \|__|  \|_______|\|_______|\|_______| 
+```
 
-Solidity engineer focused on protocol security and production deployments. I build end-to-end: architecture, contracts, Foundry invariant suites, Slither validation, and Next.js/Wagmi frontends. Zero high-severity findings across 70+ verified contracts on Mainnet and EVM testnets.
+<div align="center">
 
-Specializing in DeFi protocol architecture across RWA tokenization, perpetuals infrastructure, decentralized insurance, DAO governance, and keeper automation networks.
+# Amit Kumar — Smart Contract Engineer
 
-&nbsp;
+**Building production DeFi infrastructure. Not tutorials. Not forks.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nex-tech-architect-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nextech-amit)
+[![X](https://img.shields.io/badge/𝕏_@itZ__AmiT0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nextech.amit@gmail.com)
+
+</div>
 
 ---
 
-### Production Deployments
+## What I Ship
 
-&nbsp;
+70+ verified contracts across 6 production protocols. Every one cleared Slither with **0 Critical, 0 High**. Every one went through Foundry invariant fuzzing before touching mainnet.
 
-**[Nexus RWA Protocol](https://nexus-rwa-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-RWA-Protocol)
+I own the full stack — architecture, Solidity, security review, invariant suite, and Next.js/Wagmi frontend.
 
-`Base Mainnet` `ERC-3643` `Chainlink Automation` `Merkle Yield`
+---
 
-On-chain compliance engine intercepts every ERC-20 transfer in real-time: KYC tier, OFAC sanctions, jurisdictional rules, zero off-chain dependency. Chainlink-automated Merkle yield drops at O(1) gas. NAV oracle with 15% circuit breaker. **6 contracts on Base Mainnet. 219+ tests, stateful invariant fuzzing. Slither: 0 Critical, 0 High.**
+## Production Protocols
 
-&nbsp;
+| Protocol | Network | Stack | Tests |
+|---|---|---|---|
+| [**Nexus RWA Protocol**](https://nexus-rwa-protocol.vercel.app/) | Base Mainnet | ERC-3643, Chainlink, Merkle Yield | 219+ · Invariant Fuzz |
+| [**On-Chain Automation Protocol**](https://on-chain-automation-protocol.vercel.app/) | Base Mainnet | ETH Bonding, Slashing, O(1) Queue | Slither 0 Critical |
+| [**Sentinel Insurance Protocol**](https://sentinel-insurance-protocol.vercel.app/) | Base Mainnet | ERC-4626, Aave V3, DAO, ERC-5484 | Slither 0 Critical |
+| [**Nexus Perpetuals DEX**](https://nexus-protocol-os.vercel.app/) | Sepolia | ERC-4337, Chainlink CCIP, 50x | 6,400 invariant mutations · 0 reverts |
+| [**Sentinel DAO**](https://sentinel-dao-brown.vercel.app/) | Sepolia | TimelockController, Rage-Quit, AA | 256 tests · 0 failures |
+| [**RST Reputation Protocol**](https://rst-reputation-protocol.vercel.app/) | Sepolia | ERC-5484, UUPS, On-chain SVG | 4-layer Foundry suite |
+| [**Nexus Polkadot DEX**](https://nexus-protocol-v2.vercel.app/) | Polkadot Hub | CCIP, 50x, Binance WebSocket PnL | Invariant proven vault |
 
-**[On-Chain Automation Protocol (Keeper Network)](https://on-chain-automation-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/OnChain-Automation-Protocol)
+---
 
-`Base Mainnet` `ETH Bonding & Slashing` `Foundry`
+## Security Track Record
 
-Permissionless keeper network where ETH-bonded operators execute jobs and earn rewards. Three slashes trigger autonomous permanent jail. ExecutionEngine wraps every target call in try/catch so reverting jobs never block the batch queue. O(1) swap-pop queue, pull-payment treasury. **3 contracts on Base Mainnet. Slither: 0 Critical, 0 High.**
+```
+Protocols audited internally    →   6
+Contracts deployed              →   70+
+Slither Critical findings       →   0
+Slither High findings           →   0
+Invariant violations            →   0
+```
 
-&nbsp;
+Every protocol threat-modeled from scratch. CEI enforced everywhere. ReentrancyGuard on all state-changing external calls. Flash-loan guards, staleness guards, circuit breakers where applicable.
 
-**[Sentinel Insurance Protocol](https://sentinel-insurance-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)
+---
 
-`Base Mainnet` `ERC-4626` `Aave V3` `DAO Governance` `ERC-5484`
+## Core Stack
 
-ERC-4626 vault routes idle USDC into Aave V3 yield. Flash-loan-resistant DAO enforces block.number-1 snapshot voting. Soulbound PolicyNFTs with on-chain SVG. **8 contracts on Base Mainnet. Slither: 0 Critical, 0 High.**
+```solidity
+Languages     →  Solidity 0.8, Yul, EVM Inline Assembly, TypeScript
+Security      →  Foundry Invariant Fuzzing, Slither, Echidna, CEI, SafeERC20
+Standards     →  ERC-20/721/1155, ERC-3643, ERC-4337, ERC-4626, ERC-5484, EIP-712, UUPS
+Integrations  →  Chainlink VRF · CCIP · Price Feeds · Automation, Aave V3, OpenZeppelin
+Frontend      →  Next.js 14/15, Wagmi v2, Viem, RainbowKit, TanStack Query, Tailwind
+Tooling       →  Foundry, Anvil, Tenderly, Basescan, Etherscan, Vercel, CREATE2
+```
 
-&nbsp;
+---
 
-**[Nexus Perpetuals DEX](https://nexus-protocol-os.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Nexus-Protocol-OS)
+## What I Can Build
 
-`Sepolia` `ERC-4337` `Chainlink CCIP & Oracles`
+- **RWA Tokenization** — ERC-3643 compliance engines, NAV oracles, yield distributors
+- **Perpetuals DEX** — On-chain position management, liquidation engines, cross-chain margin via CCIP
+- **DeFi Vaults** — ERC-4626 yield routing, Aave integrations, flash-loan resistant governance
+- **DAO Infrastructure** — TimelockController, rage-quit modules, anti-flash governance, gasless voting
+- **Keeper Networks** — Permissionless automation, ETH bonding, slashing registries
+- **Account Abstraction** — ERC-4337 smart accounts, custom paymasters, session keys
+- **NFT Systems** — Soulbound tokens (ERC-5484), on-chain SVG art engines, dynamic metadata
 
-50x gasless leverage with fully on-chain execution. Chainlink oracles with per-asset staleness guards. CCIP cross-chain margin with per-trader nonce deduplication. Minimum-liquidity burn guards LP inflation. **Zero solvency violations across 6,400 invariant state mutations.**
+---
 
-&nbsp;
+## Notable Engineering
 
-**[Sentinel DAO](https://sentinel-dao-brown.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)
+**O(1) Swap-Pop Queue** — Keeper Network uses swap-and-pop instead of array shift. Unbounded arrays never degrade performance regardless of queue size.
 
-`Sepolia` `TimelockController` `Aave V3 Treasury` `ERC-4337` `Rage-Quit` 
+**try/catch Gas Griefing Isolation** — ExecutionEngine wraps every external call in try/catch. A malicious job that intentionally reverts cannot block the entire batch or drain keeper gas.
 
-48H TimelockController with VetoCouncil blocks flash-governance attacks. Rage-quit module protects dissenting minorities before hostile execution. Aave V3 treasury yield, gasless voting, spam-resistant proposal guard. **256 tests, zero failures. Treasury solvency fuzz-proved.**
+**Flash-Loan Resistant Governance** — Sentinel DAO enforces block.number - 1 snapshot voting. Tokens borrowed in the same block carry zero voting weight, eliminating the flash-governance attack surface.
 
-&nbsp;
+**15% NAV Circuit Breaker** — RWA oracle automatically halts price reads if NAV drops more than 15% in 24 hours, protecting against flash crashes and oracle manipulation.
 
-**[RST Protocol — On-Chain Reputation](https://rst-reputation-protocol.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/RST-Reputation-Protocol)
+**Vault Solvency Invariant** — 128 runs × 50 calls = 6,400 randomized state mutations. `totalLiquidity + totalLockedCollateral + totalTraderFreeCollateral == ASSET.balanceOf(vault)` never violated once.
 
-`Sepolia` `ERC-5484 Soulbound` `UUPS Upgradeable`
+---
 
-ERC-5484 soulbound tokens with 5-tier on-chain SVG medals that auto-upgrade on score change, no re-mint required. UUPS proxy keeps scoring logic upgradeable while SBT ownership records stay immutable.
+## Currently Open To
 
-&nbsp;
+Remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure. Serious teams building serious things.
 
-**[Nexus Polkadot DEX](https://nexus-protocol-v2.vercel.app/)** &nbsp;·&nbsp; [source](https://github.com/NexTechArchitect/nexus-polka-perps)
-
-`Polkadot Hub Testnet` `Chainlink CCIP` `Polkadot Hackathon 2026`
-
-Non-custodial 50x leverage exchange on Polkadot Hub. CCIP cross-chain margin, live Binance WebSocket PnL, invariant-proven vault solvency.
-
-&nbsp;
+`Solidity` `Protocol Architecture` `DeFi` `RWA` `Security` `Remote`
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&labelColor=0D1220)](https://nex-tech-architect-portfolio.vercel.app/)&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-0088CC?style=flat-square&labelColor=0D1220)](https://raw.githubusercontent.com/NexTechArchitect/web3-resume/main/resume.pdf)&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/𝕏-@itZ__AmiT0-304860?style=flat-square&labelColor=0D1220)](https://x.com/itZ_AmiT0)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-304860?style=flat-square&labelColor=0D1220)](mailto:nextech.amit@gmail.com)
+*Zero critical findings. Mainnet deployed. Open to work.*
+
+**[View Portfolio](https://nex-tech-architect-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/nextech-amit) · [nextech.amit@gmail.com](mailto:nextech.amit@gmail.com)**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0088CC,50:00D4AA,100:0A0E1A&height=80&section=footer" width="100%" />
