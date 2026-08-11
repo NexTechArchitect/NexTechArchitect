@@ -1,23 +1,19 @@
 <div align="center">
 
-# Amit Kumar — Smart Contract Engineer
+# Amit Kumar
 
-**Building production DeFi infrastructure. Not tutorials. Not forks.**
+### Smart Contract Engineer · DeFi Protocol Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nex-tech-architect-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nextech-amit)
-[![X](https://img.shields.io/badge/𝕏_@itZ__AmiT0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
+[![X](https://img.shields.io/badge/@itZ__AmiT0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nextech.amit@gmail.com)
 
 </div>
 
 ---
 
-## What I Ship
-
-70+ verified contracts across 5 production protocols. Every one cleared Slither with **0 Critical, 0 High**. Every one went through Foundry invariant fuzzing before touching mainnet.
-
-I own the full stack: architecture, Solidity, security review, invariant suite, and Next.js/Wagmi frontend.
+Solidity engineer specializing in production-grade DeFi protocol architecture across Base Mainnet and EVM networks. 70+ verified contracts deployed across RWA tokenization, perpetuals DEX, insurance vaults, DAO governance, and keeper automation — zero critical or high-severity Slither findings. Independently architects, builds, and audits complete protocol stacks with threat-modeled security, invariant-proven solvency, and Yul-optimized gas efficiency.
 
 ---
 
@@ -63,42 +59,37 @@ Tooling         Foundry, Anvil, Tenderly, Basescan, Etherscan, Vercel, CREATE2
 
 ## What I Can Build
 
-- **RWA Tokenization** — ERC-3643 compliance engines, NAV oracles, yield distributors
-- **Perpetuals DEX** — On-chain position management, liquidation engines, cross-chain margin via CCIP
-- **DeFi Vaults** — ERC-4626 yield routing, Aave integrations, flash-loan resistant governance
-- **DAO Infrastructure** — TimelockController, rage-quit modules, anti-flash governance, gasless voting
-- **Keeper Networks** — Permissionless automation, ETH bonding, slashing registries
-- **Account Abstraction** — ERC-4337 smart accounts, custom paymasters, session keys
-- **NFT Systems** — Soulbound tokens (ERC-5484), on-chain SVG art engines, dynamic metadata
+- RWA Tokenization: ERC-3643 compliance engines, NAV oracles, yield distributors
+- Perpetuals DEX: On-chain position management, liquidation engines, cross-chain margin via CCIP
+- DeFi Vaults: ERC-4626 yield routing, Aave integrations, flash-loan resistant governance
+- DAO Infrastructure: TimelockController, rage-quit modules, anti-flash governance, gasless voting
+- Keeper Networks: Permissionless automation, ETH bonding, slashing registries
+- Account Abstraction: ERC-4337 smart accounts, custom paymasters, session keys
+- NFT Systems: Soulbound tokens (ERC-5484), on-chain SVG art engines, dynamic metadata
 
 ---
 
 ## Notable Engineering
 
-**O(1) Swap-Pop Queue** — Keeper Network uses swap-and-pop instead of array shift. Unbounded arrays never degrade performance regardless of queue size.
+**O(1) Swap-Pop Queue** Keeper Network uses swap-and-pop instead of array shift. Unbounded arrays never degrade performance regardless of queue size.
 
-**try/catch Gas Griefing Isolation** — ExecutionEngine wraps every external call in try/catch. A malicious job that intentionally reverts cannot block the entire batch or drain keeper gas.
+**try/catch Gas Griefing Isolation** ExecutionEngine wraps every external call in try/catch. A malicious job that intentionally reverts cannot block the entire batch or drain keeper gas.
 
-**Flash-Loan Resistant Governance** — Sentinel DAO enforces block.number - 1 snapshot voting. Tokens borrowed in the same block carry zero voting weight, eliminating the flash-governance attack surface.
+**Flash-Loan Resistant Governance** Sentinel DAO enforces block.number - 1 snapshot voting. Tokens borrowed in the same block carry zero voting weight, eliminating the flash-governance attack surface.
 
-**15% NAV Circuit Breaker** — RWA oracle automatically halts price reads if NAV drops more than 15% in 24 hours, protecting against flash crashes and oracle manipulation.
+**15% NAV Circuit Breaker** RWA oracle automatically halts price reads if NAV drops more than 15% in 24 hours, protecting against flash crashes and oracle manipulation.
 
-**Vault Solvency Invariant** — totalLiquidity + totalLockedCollateral + totalTraderFreeCollateral == ASSET.balanceOf(vault) never violated once across all randomized state mutations.
+**Vault Solvency Invariant** totalLiquidity + totalLockedCollateral + totalTraderFreeCollateral == ASSET.balanceOf(vault) never violated once across all randomized state mutations.
 
 ---
 
 ## Currently Open To
 
 Remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure.
-Serious teams building serious things.
-
-`Solidity` `Protocol Architecture` `DeFi` `RWA` `Security` `Remote`
 
 ---
 
 <div align="center">
-
-*Zero critical findings. Mainnet deployed. Open to work.*
 
 **[Portfolio](https://nex-tech-architect-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/nextech-amit) · [nextech.amit@gmail.com](mailto:nextech.amit@gmail.com)**
 
