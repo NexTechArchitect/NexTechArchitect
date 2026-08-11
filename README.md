@@ -59,4 +59,4 @@ Remote roles in DeFi protocol engineering, smart contract security, or Web3 infr
 
 ---
 
-**[Portfolio](https://nex-tech-architect-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/nextech-amit) · [Email**](https://www.google.com/search?q=mailto%3Anextech.amit%40gmail.com)
+**[Portfolio](https://nex-tech-architect-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/nextech-amit) · [nextech.amit@gmail.com](mailto:nextech.amit@gmail.com)**
