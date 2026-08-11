@@ -52,11 +52,14 @@ Tooling       Foundry, Anvil, Tenderly, Basescan, Etherscan, Vercel, CREATE2
 * **Vault Solvency Invariant:** `totalLiquidity + totalLockedCollateral + totalTraderFreeCollateral == ASSET.balanceOf(vault)` is mathematically preserved across all randomized state mutations.
 
 ---
-
 ## Currently Open To
 
 Remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure.
 
 ---
 
+<div align="center">
+
 **[Portfolio](https://nex-tech-architect-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/nextech-amit) · [nextech.amit@gmail.com](mailto:nextech.amit@gmail.com)**
+
+</div>
