@@ -17,33 +17,6 @@ Solidity engineer specializing in production-grade DeFi protocol architecture ac
 
 ---
 
-## Production Protocols
-
-| Protocol | Network | Stack |
-|---|---|---|
-| [**Nexus RWA Protocol**](https://nexus-rwa-protocol.vercel.app/) | Base Mainnet | ERC-3643, Chainlink, Merkle Yield |
-| [**On-Chain Automation Protocol**](https://on-chain-automation-protocol.vercel.app/) | Base Mainnet | ETH Bonding, Slashing, O(1) Queue |
-| [**Sentinel Insurance Protocol**](https://sentinel-insurance-protocol.vercel.app/) | Base Mainnet | ERC-4626, Aave V3, DAO, ERC-5484 |
-| [**Nexus Perpetuals DEX**](https://nexus-protocol-os.vercel.app/) | Sepolia | ERC-4337, Chainlink CCIP, 50x Leverage |
-| [**Sentinel DAO**](https://sentinel-dao-brown.vercel.app/) | Sepolia | TimelockController, Rage-Quit, AA |
-| [**RST Reputation Protocol**](https://rst-reputation-protocol.vercel.app/) | Sepolia | ERC-5484, UUPS, On-chain SVG |
-
----
-
-## Security Track Record
-
-```
-Protocols deployed          6
-Contracts verified          70+
-Slither Critical findings   0
-Slither High findings       0
-Invariant violations        0
-```
-
-Every protocol threat-modeled from scratch. CEI enforced everywhere. ReentrancyGuard on all state-changing external calls. Flash-loan guards, staleness guards, circuit breakers where applicable.
-
----
-
 ## Core Stack
 
 ```
