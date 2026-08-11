@@ -3,7 +3,7 @@
 # Amit Kumar
 
 ### Smart Contract Engineer · DeFi Protocol Architect
-
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nex-tech-architect-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nextech-amit)
 [![X](https://img.shields.io/badge/@itZ__AmiT0-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
