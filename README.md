@@ -56,7 +56,7 @@ Tooling       Foundry, Anvil, Tenderly, Basescan, Etherscan, Vercel, CREATE2
 
 Remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure.
 
----
+--- 
 
 <div align="center">
 
