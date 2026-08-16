@@ -12,7 +12,7 @@
 
 ---
 
-Solidity engineer specializing in production-grade DeFi protocol architecture across Base Mainnet and EVM networks. 70+ verified contracts deployed across RWA tokenization, perpetuals DEX, insurance vaults, DAO governance, and keeper automation, zero critical or high-severity Slither findings. Independently architects, builds, and audits complete protocol stacks with threat-modeled security, invariant-proven solvency, and Yul-optimized gas efficiency.
+Solidity engineer specializing in production-grade DeFi protocol architecture across Base Mainnet and EVM networks. Verified contracts deployed across RWA tokenization, perpetuals DEX, insurance vaults, DAO governance, and keeper automation, zero critical or high-severity Slither findings. Independently architects, builds, and audits complete protocol stacks with threat-modeled security, invariant-proven solvency, and Yul-optimized gas efficiency
 
 ---
 
