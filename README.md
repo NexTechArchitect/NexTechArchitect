@@ -48,7 +48,7 @@ Tooling       Foundry, Anvil, Tenderly, Basescan, Etherscan, Vercel, CREATE2
 - **15% NAV Circuit Breaker:** RWA oracle automatically halts price reads if NAV drops more than 15% in 24 hours, protecting against flash crashes and oracle manipulation.
 - **Vault Solvency Invariant:** `totalLiquidity + totalLockedCollateral + totalTraderFreeCollateral == ASSET.balanceOf(vault)` is mathematically preserved across all randomized state mutations.
 - **UUPS Collision-Safe Migrations:** Storage gap pattern with `__gap[50]` arrays ensures parent contract upgrades never corrupt child storage layout across V1 to V3 migrations.
-- **EIP-712 MEV Protection:** Airdrop claim signatures bind to specific `msg.sender` and `chainId`. An intercepted proof cannot be replayed — the transaction reverts if caller is not the signed beneficiary.
+- **EIP-712 MEV Protection:** Airdrop claim signatures bind to specific `msg.sender` and `chainId`. An intercepted proof cannot be replayed, the transaction reverts if caller is not the signed beneficiary.
 - **Zero-ETH Execution Layer:** Keeper ExecutionEngine holds absolutely no ETH. Attack surface is eliminated by design, not by access control.
 ---
 
