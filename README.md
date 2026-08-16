@@ -1,7 +1,7 @@
 <div align="center">
 
 # Amit Kumar 
-
+ 
 ### Smart Contract Engineer · DeFi Protocol Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nex-tech-architect-portfolio.vercel.app/)
