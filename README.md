@@ -13,7 +13,9 @@
 
 ---
 
-Solidity engineer shipping DeFi protocols on Base Mainnet and EVM networks. I write the contracts, break them with Foundry fuzzing, then build the frontend so people can actually use them. Live protocols are pinned below.
+Solidity engineer specializing in production-grade DeFi protocol architecture across Base Mainnet and EVM networks. Verified contracts live across RWA tokenization, perpetuals DEX, insurance vaults, DAO governance, and keeper automation, with zero critical or high-severity findings on any deployment.
+
+I own the entire stack of a protocol alone: threat-modeling the architecture, writing the contracts, proving solvency with Foundry invariant fuzzing, optimizing gas down to Yul, then building the frontend so people can actually use it. Live protocols are pinned below.
 
 ---
 
@@ -21,7 +23,7 @@ Solidity engineer shipping DeFi protocols on Base Mainnet and EVM networks. I wr
 
 ```text
 Languages     Solidity 0.8, Yul, Inline Assembly, TypeScript
-Security      Foundry Invariant Fuzzing, Slither, CEI, SafeERC20
+Security      Foundry Invariant Fuzzing, Slither, CEI, SafeERC20, Access Control
 Standards     ERC-20/721, ERC-3643, ERC-4337, ERC-4626, ERC-5484, EIP-712, UUPS
 Integrations  Chainlink Price Feeds, VRF, CCIP, Automation, Aave V3, OpenZeppelin
 Frontend      Next.js 15, Wagmi v2, Viem, RainbowKit, TanStack Query, Tailwind
@@ -34,13 +36,13 @@ Tooling       Foundry, Anvil, Basescan, Tenderly, Vercel, CREATE2
 
 **RWA Tokenization** · ERC-3643 tokens that carry their own rulebook, so KYC and sanctions checks run inside the transfer itself
 
-**Perpetuals DEX** · Leveraged perps with liquidation engines, funding rates and oracle price feeds
+**Perpetuals DEX** · Leveraged perps with liquidation engines, funding rates and oracle-driven mark pricing
 
 **Yield Vaults** · ERC-4626 vaults that put idle deposits to work in lending markets like Aave V3
 
 **DAO Infrastructure** · Voting, timelocks, treasury management and exit rights for outvoted minorities
 
-**Keeper Networks** · Bot networks that fire on-chain jobs on schedule, bonded with real money and slashed for failure
+**Keeper Networks** · Operator networks that fire on-chain jobs on schedule, bonded with real money and slashed for failure
 
 **Account Abstraction** · ERC-4337 smart accounts and paymasters, so a user can trade without ever holding ETH
 
@@ -50,25 +52,25 @@ Tooling       Foundry, Anvil, Basescan, Tenderly, Vercel, CREATE2
 
 ## Notable Engineering
 
-**Vault Solvency Invariant** · Proved that liquidity plus locked collateral plus free collateral always equals the vault balance, across 6,400 randomized state mutations with zero reverts
+**Vault Solvency Invariant** · Proved that liquidity plus locked collateral plus free collateral always equals the vault's real balance, across 6,400 randomized state mutations with zero reverts. Solvency is verified, not assumed.
 
-**Flash-Loan Resistant Governance** · Snapshot voting at `block.number - 1`, so tokens borrowed inside the same block carry zero voting weight
+**Flash-Loan Resistant Governance** · Snapshot voting at `block.number - 1`, so tokens borrowed inside the same block carry zero voting weight. Closes the flash-governance attack outright.
 
-**Compliance At Transfer Level** · KYC, sanctions and jurisdiction rules enforced inside the token's transfer hook, which makes a non-compliant transfer impossible rather than merely discouraged
+**Compliance At Transfer Level** · KYC, sanctions and jurisdiction rules enforced inside the token's transfer hook, which makes a non-compliant transfer impossible rather than merely discouraged.
 
-**Gas Griefing Isolation** · Every keeper job executes inside its own try/catch boundary, so one job built to revert and burn gas cannot stall the batch
+**Gas Griefing Isolation** · Every keeper job executes inside its own try/catch boundary, so a job written to revert and burn gas cannot stall the batch or drain the operator.
 
-**Zero-ETH Execution Layer** · The keeper execution engine holds no ETH at all, removing the attack surface instead of guarding it with access control
+**Zero-ETH Execution Layer** · The keeper execution engine holds no ETH at all. The attack surface is removed by design instead of guarded by access control.
 
-**15% NAV Circuit Breaker** · The RWA oracle halts price reads automatically if net asset value drops more than 15% in 24 hours
+**15% NAV Circuit Breaker** · The RWA oracle halts price reads automatically if net asset value drops more than 15% in 24 hours, blocking flash crashes and oracle manipulation.
 
-**O(1) Swap-Pop Registries** · Active job and asset lists use swap-and-pop instead of array shifting, so gas cost stays flat however large the queue grows
+**O(1) Swap-Pop Registries** · Active job and asset lists use swap-and-pop instead of array shifting, so gas cost stays flat however large the queue grows.
 
-**Decimal Normalization** · 8 decimal price feeds, 6 decimal USDC and 18 decimal internal accounting reconciled through a single scalar, with a modulo guard blocking silent precision loss on withdrawal
+**Decimal Normalization** · 8-decimal price feeds, 6-decimal USDC and 18-decimal internal accounting reconciled through a single scalar, with a modulo guard that blocks silent precision loss on withdrawal.
 
-**EIP-712 MEV Protection** · Airdrop claim signatures bind to a specific sender and chain, so an intercepted proof reverts for anyone but the intended recipient
+**EIP-712 MEV Protection** · Airdrop claim signatures bind to a specific sender and chain, so an intercepted proof reverts for anyone but the intended recipient.
 
-**Collision-Safe Upgrades** · Reserved `__gap[50]` storage slots keep child contract state intact across V1 to V3 UUPS migrations
+**Collision-Safe Upgrades** · Reserved `__gap[50]` storage slots keep child contract state intact across V1 to V3 UUPS migrations.
 
 ---
 
