@@ -13,45 +13,7 @@
 
 ---
 
-Solidity engineer shipping DeFi protocols on Base Mainnet and EVM networks. I write the contracts, break them with Foundry fuzzing, then build the frontend so people can actually use them.
-
-**Open to** remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure.
-
----
-
-## What I Can Build
-
-**Real World Asset Tokenization** · ERC-3643 tokens that carry their own rulebook, so KYC and sanctions checks run inside the transfer itself
-
-**Perpetuals & Trading** · Leveraged perps with liquidation math, funding rates and oracle price feeds
-
-**Yield Vaults** · ERC-4626 vaults that put idle deposits to work in lending markets like Aave V3
-
-**DAO Governance** · Voting, timelocks, treasury management and exit rights for outvoted minorities
-
-**Keeper Automation** · Bot networks that fire on-chain jobs on schedule, bonded with real money and slashed for failure
-
-**Gasless Wallets** · ERC-4337 smart accounts and paymasters, so a user can trade without ever holding ETH
-
-**Upgradeable Systems** · UUPS proxies migrated across versions without corrupting stored balances
-
----
-
-## Live Protocols
-
-Deployed, verified, and running with a working app in front of them.
-
-| Protocol | What It Does | Network | Live |
-| :--- | :--- | :--- | :---: |
-| **Nexus RWA** | Compliant tokenized treasuries with automated yield | Base Mainnet | [↗](https://nexus-rwa-protocol.vercel.app/) |
-| **Sentinel Insurance** | On-chain coverage pool that earns while it insures | Base Mainnet | [↗](https://sentinel-insurance-protocol.vercel.app/) |
-| **On-Chain Automation** | Permissionless keeper network with staked operators | Base Mainnet | [↗](https://on-chain-automation-protocol.vercel.app/) |
-| **Nexus Perpetuals** | 50x perps DEX, fully gasless, cross chain margin | Sepolia | [↗](https://nexus-protocol-os.vercel.app/) |
-| **Sentinel DAO** | Governance kernel with timelock and rage quit | Sepolia | [↗](https://sentinel-dao-brown.vercel.app/) |
-| **Reputation System** | Soulbound scores with evolving on-chain SVG medals | Sepolia | [↗](https://rst-reputation-protocol.vercel.app/) |
-| **Nexus Perps V2** | Perps exchange for the Polkadot Solidity Hackathon | Polkadot Hub | [↗](https://nexus-protocol-v2.vercel.app/) |
-
-Pinned repos also hold a stablecoin engine, a Merkle airdrop with replay protected claims, a from scratch ERC-4337 stack, and a UUPS migration study.
+Solidity engineer shipping DeFi protocols on Base Mainnet and EVM networks. I write the contracts, break them with Foundry fuzzing, then build the frontend so people can actually use them. Live protocols are pinned below.
 
 ---
 
@@ -63,9 +25,56 @@ Security      Foundry Invariant Fuzzing, Slither, CEI, SafeERC20
 Standards     ERC-20/721, ERC-3643, ERC-4337, ERC-4626, ERC-5484, EIP-712, UUPS
 Integrations  Chainlink Price Feeds, VRF, CCIP, Automation, Aave V3, OpenZeppelin
 Frontend      Next.js 15, Wagmi v2, Viem, RainbowKit, TanStack Query, Tailwind
+Tooling       Foundry, Anvil, Basescan, Tenderly, Vercel, CREATE2
 ```
 
 ---
+
+## What I Can Build
+
+**RWA Tokenization** · ERC-3643 tokens that carry their own rulebook, so KYC and sanctions checks run inside the transfer itself
+
+**Perpetuals DEX** · Leveraged perps with liquidation engines, funding rates and oracle price feeds
+
+**Yield Vaults** · ERC-4626 vaults that put idle deposits to work in lending markets like Aave V3
+
+**DAO Infrastructure** · Voting, timelocks, treasury management and exit rights for outvoted minorities
+
+**Keeper Networks** · Bot networks that fire on-chain jobs on schedule, bonded with real money and slashed for failure
+
+**Account Abstraction** · ERC-4337 smart accounts and paymasters, so a user can trade without ever holding ETH
+
+**Upgradeable Systems** · UUPS proxies migrated across versions without corrupting stored balances
+
+---
+
+## Notable Engineering
+
+**Vault Solvency Invariant** · Proved that liquidity plus locked collateral plus free collateral always equals the vault balance, across 6,400 randomized state mutations with zero reverts
+
+**Flash-Loan Resistant Governance** · Snapshot voting at `block.number - 1`, so tokens borrowed inside the same block carry zero voting weight
+
+**Compliance At Transfer Level** · KYC, sanctions and jurisdiction rules enforced inside the token's transfer hook, which makes a non-compliant transfer impossible rather than merely discouraged
+
+**Gas Griefing Isolation** · Every keeper job executes inside its own try/catch boundary, so one job built to revert and burn gas cannot stall the batch
+
+**Zero-ETH Execution Layer** · The keeper execution engine holds no ETH at all, removing the attack surface instead of guarding it with access control
+
+**15% NAV Circuit Breaker** · The RWA oracle halts price reads automatically if net asset value drops more than 15% in 24 hours
+
+**O(1) Swap-Pop Registries** · Active job and asset lists use swap-and-pop instead of array shifting, so gas cost stays flat however large the queue grows
+
+**Decimal Normalization** · 8 decimal price feeds, 6 decimal USDC and 18 decimal internal accounting reconciled through a single scalar, with a modulo guard blocking silent precision loss on withdrawal
+
+**EIP-712 MEV Protection** · Airdrop claim signatures bind to a specific sender and chain, so an intercepted proof reverts for anyone but the intended recipient
+
+**Collision-Safe Upgrades** · Reserved `__gap[50]` storage slots keep child contract state intact across V1 to V3 UUPS migrations
+
+---
+
+## Currently Open To
+
+Remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure.
 
 <div align="center">
 
