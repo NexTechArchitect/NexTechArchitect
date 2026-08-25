@@ -34,43 +34,28 @@ Tooling       Foundry, Anvil, Basescan, Tenderly, Vercel, CREATE2
 
 ## What I Can Build
 
-**RWA Tokenization** · ERC-3643 tokens that carry their own rulebook, so KYC and sanctions checks run inside the transfer itself
-
-**Perpetuals DEX** · Leveraged perps with liquidation engines, funding rates and oracle-driven mark pricing
-
-**Yield Vaults** · ERC-4626 vaults that put idle deposits to work in lending markets like Aave V3
-
-**DAO Infrastructure** · Voting, timelocks, treasury management and exit rights for outvoted minorities
-
-**Keeper Networks** · Operator networks that fire on-chain jobs on schedule, bonded with real money and slashed for failure
-
-**Account Abstraction** · ERC-4337 smart accounts and paymasters, so a user can trade without ever holding ETH
-
-**Upgradeable Systems** · UUPS proxies migrated across versions without corrupting stored balances
+- **RWA Tokenization** · ERC-3643 tokens that carry their own rulebook, so KYC and sanctions checks run inside the transfer itself
+- **Perpetuals DEX** · Leveraged perps with liquidation engines, funding rates and oracle-driven mark pricing
+- **Yield Vaults** · ERC-4626 vaults that put idle deposits to work in lending markets like Aave V3
+- **DAO Infrastructure** · Voting, timelocks, treasury management and exit rights for outvoted minorities
+- **Keeper Networks** · Operator networks that fire on-chain jobs on schedule, bonded with real money and slashed for failure
+- **Account Abstraction** · ERC-4337 smart accounts and paymasters, so a user can trade without ever holding ETH
+- **Upgradeable Systems** · UUPS proxies migrated across versions without corrupting stored balances
 
 ---
 
 ## Notable Engineering
 
-**Vault Solvency Invariant** · Proved that liquidity plus locked collateral plus free collateral always equals the vault's real balance, across 6,400 randomized state mutations with zero reverts. Solvency is verified, not assumed.
-
-**Flash-Loan Resistant Governance** · Snapshot voting at `block.number - 1`, so tokens borrowed inside the same block carry zero voting weight. Closes the flash-governance attack outright.
-
-**Compliance At Transfer Level** · KYC, sanctions and jurisdiction rules enforced inside the token's transfer hook, which makes a non-compliant transfer impossible rather than merely discouraged.
-
-**Gas Griefing Isolation** · Every keeper job executes inside its own try/catch boundary, so a job written to revert and burn gas cannot stall the batch or drain the operator.
-
-**Zero-ETH Execution Layer** · The keeper execution engine holds no ETH at all. The attack surface is removed by design instead of guarded by access control.
-
-**15% NAV Circuit Breaker** · The RWA oracle halts price reads automatically if net asset value drops more than 15% in 24 hours, blocking flash crashes and oracle manipulation.
-
-**O(1) Swap-Pop Registries** · Active job and asset lists use swap-and-pop instead of array shifting, so gas cost stays flat however large the queue grows.
-
-**Decimal Normalization** · 8-decimal price feeds, 6-decimal USDC and 18-decimal internal accounting reconciled through a single scalar, with a modulo guard that blocks silent precision loss on withdrawal.
-
-**EIP-712 MEV Protection** · Airdrop claim signatures bind to a specific sender and chain, so an intercepted proof reverts for anyone but the intended recipient.
-
-**Collision-Safe Upgrades** · Reserved `__gap[50]` storage slots keep child contract state intact across V1 to V3 UUPS migrations.
+- **Vault Solvency Invariant** · Liquidity plus locked plus free collateral always equals the vault's real balance, proved across 6,400 randomized state mutations with zero reverts
+- **Flash-Loan Resistant Governance** · Snapshot voting at `block.number - 1`, so tokens borrowed inside the same block carry zero voting weight
+- **Compliance At Transfer Level** · KYC, sanctions and jurisdiction checks live inside the transfer hook, making a non-compliant transfer impossible rather than discouraged
+- **Gas Griefing Isolation** · Every keeper job runs in its own try/catch boundary, so one hostile revert cannot stall the batch or drain the operator
+- **Zero-ETH Execution Layer** · The keeper execution engine holds no ETH, removing the attack surface instead of guarding it
+- **15% NAV Circuit Breaker** · The RWA oracle halts price reads if net asset value drops more than 15% in 24 hours
+- **O(1) Swap-Pop Registries** · Job and asset lists use swap-and-pop instead of array shifting, so gas stays flat however large the queue grows
+- **Decimal Normalization** · 8-decimal feeds, 6-decimal USDC and 18-decimal accounting reconciled through one scalar, with a modulo guard against silent precision loss
+- **EIP-712 MEV Protection** · Claim signatures bind to a specific sender and chain, so an intercepted proof reverts for anyone else
+- **Collision-Safe Upgrades** · Reserved `__gap[50]` slots keep child storage intact across V1 to V3 UUPS migrations
 
 ---
 
