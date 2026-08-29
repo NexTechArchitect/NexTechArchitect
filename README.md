@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nextech.amit@gmail.com)
 
 </div>
-               
+              
 ---
 
 Solidity engineer specializing in production-grade DeFi protocol architecture across Base Mainnet and EVM networks. Verified contracts deployed across RWA tokenization, perpetuals DEX, insurance vaults, DAO governance, and keeper automation, with zero critical or high-severity findings on any deployment. Independently architects, builds, and hardens complete protocol stacks with threat-modeled security, invariant-proven solvency, and Yul-optimized gas efficiency.
