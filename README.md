@@ -59,7 +59,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub
 - **EIP-712 MEV Protection:** Airdrop claim signatures bind to specific `msg.sender` and `chainId`. An intercepted proof cannot be replayed, the transaction reverts if caller is not the signed beneficiary.
 - **UUPS Collision-Safe Migrations:** Storage gap pattern with `__gap[50]` arrays ensures parent contract upgrades never corrupt child storage layout across V1 to V3 migrations.
 - **O(1) Swap-Pop Queue:** Keeper Network uses swap-and-pop instead of array shift. Unbounded arrays never degrade performance regardless of queue size.
-
+                                            
 ---
 
 ## Currently Open To
