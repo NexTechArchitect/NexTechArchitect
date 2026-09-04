@@ -11,7 +11,7 @@
 
 </div>
               
----
+---         
 
 Solidity engineer specializing in production-grade DeFi protocol architecture across Base Mainnet and EVM networks. Verified contracts deployed across RWA tokenization, perpetuals DEX, insurance vaults, DAO governance, and keeper automation, with zero critical or high-severity findings on any deployment. Independently architects, builds, and hardens complete protocol stacks with threat-modeled security, invariant-proven solvency, and Yul-optimized gas efficiency.
 
@@ -20,7 +20,7 @@ Every protocol ships end to end: the architecture, the contracts, the test suite
 ---
 
 ## Core Stack
-
+ 
 ```text
 Languages     Solidity 0.8, Yul, EVM Inline Assembly, TypeScript
 Security      Foundry Invariant Fuzzing, Slither, Echidna, CEI, SafeERC20
