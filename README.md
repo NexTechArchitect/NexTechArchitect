@@ -61,7 +61,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub
 - **O(1) Swap-Pop Queue:** Keeper Network uses swap-and-pop instead of array shift. Unbounded arrays never degrade performance regardless of queue size.
                                             
 ---
-
+  
 ## Currently Open To
 
 Remote roles in DeFi protocol engineering, smart contract security, or Web3 infrastructure.
