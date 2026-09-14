@@ -53,7 +53,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub
 
 ---
 
-## Engineering That Matters
+## Engineering That Matters           
 
 **Vault solvency as an invariant:** `totalLiquidity + totalLockedCollateral + totalTraderFreeCollateral == ASSET.balanceOf(vault)` holds under every sequence of deposits, trades, and liquidations. Proved under 6,400 randomized state mutations. Zero reverts.
 
