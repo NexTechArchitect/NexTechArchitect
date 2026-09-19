@@ -72,7 +72,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub
 **EIP-712 replay protection:** Airdrop claim signatures bind to `msg.sender` and `chainId`. An intercepted proof is useless. The transaction reverts if the caller is not the signed beneficiary.
 
 **O(1) job queue:** Keeper Network uses swap-and-pop. No array shifting. Gas cost stays flat regardless of queue depth.
-
+               
 ---
 
 ## Open To
