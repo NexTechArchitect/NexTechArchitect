@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itZ_AmiT0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nextech.amit@gmail.com)
 
-</div>
+</div>        
 
 ---                                                      
 
