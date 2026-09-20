@@ -1,5 +1,5 @@
 <div align="center">
-
+           
 # Amit Kumar
 ### Smart Contract Engineer · DeFi Protocol Architect
 
@@ -10,7 +10,7 @@
 
 </div>
 
----                                            
+---                                                      
 
 I build DeFi protocols end to end: threat model, Solidity architecture, Foundry test suite, on-chain deployment, and the frontend users actually touch.
 
