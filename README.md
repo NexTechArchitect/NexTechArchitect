@@ -28,7 +28,7 @@ Security      Foundry Invariant Fuzzing, Slither, Echidna, CEI, SafeERC20
 Standards     ERC-20/721/1155, ERC-3643, ERC-4337, ERC-4626, ERC-5484, EIP-712, UUPS
 Integrations  Chainlink VRF, CCIP, Price Feeds, Automation, Aave V3, OpenZeppelin
 Frontend      Next.js 14/15, Wagmi v2, Viem, RainbowKit, TanStack Query, Tailwind
-Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub
+Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub and EVM compatible Networks
 ```
 
 ---
