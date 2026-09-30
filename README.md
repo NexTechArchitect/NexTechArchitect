@@ -74,7 +74,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub and EVM compatible Ne
 **O(1) job queue:** Keeper Network uses swap-and-pop. No array shifting. Gas cost stays flat regardless of queue depth.
                
 ---
-
+           
 ## Open To
 
 Remote protocol engineering, smart contract security, or Web3 infrastructure roles.
