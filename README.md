@@ -19,7 +19,7 @@ Deployed and source-verified on Base Mainnet and EVM networks. Zero critical or 
 
 ---
 
-## Core Stack
+## Core Stack 
 
 ```text
 Languages     Solidity 0.8, Yul, EVM Inline Assembly, TypeScript, JavaScript
