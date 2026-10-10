@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nextech.amit@gmail.com)
 
 </div>                  
-
+  
 ---                                                                   
 
 I build DeFi protocols end to end: threat model, Solidity architecture, Foundry test suite, on-chain deployment, and the frontend users actually touch.
