@@ -14,8 +14,8 @@
 I build DeFi protocols end to end: threat model, Solidity architecture, Foundry test suite, on-chain deployment, and the frontend users actually touch.
 
 Most of what I ship is not a single contract. It is a system. Identity registries, execution engines, NAV oracles, reward distributors. Separate contracts that have to stay consistent with each other while someone is actively trying to break them.
-
-Deployed and source-verified on Base Mainnet and EVM networks. Zero critical or high severity findings across all deployments.
+ 
+Deployed and source-verified on Mainnet and EVM Testnet networks. Zero critical or high severity findings across all deployments.
 
 ---
 
