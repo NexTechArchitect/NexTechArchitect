@@ -30,7 +30,7 @@ Frontend      Next.js 14/15, Wagmi v2, Viem, RainbowKit, TanStack Query, Tailwin
 Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub and EVM compatible Networks
 ```
 
----
+---      
 
 ## What I Build
 
