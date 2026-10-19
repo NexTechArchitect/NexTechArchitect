@@ -74,7 +74,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub and EVM compatible Ne
                
 ---
            
-## Open To
+## Open To      
 
 Remote protocol engineering, smart contract security, or Web3 infrastructure roles.
 
