@@ -58,7 +58,7 @@ Networks      Base Mainnet, Ethereum Sepolia, Polkadot Hub and EVM compatible Ne
 
 **Flash-loan resistant governance:** Sentinel DAO checks `block.number - 1` for voting weight. Tokens borrowed and returned within one transaction carry zero votes. The attack is impossible by design, not by policy.
 
-**Compliance at the transfer layer:** ERC-3643 identity, sanctions, and jurisdiction checks run inside `_update()`. A non-compliant transfer cannot exist. There is no off-chain gate to bypass or shut down.
+**Compliance at the transfer layer:** ERC-3643 identity, sanctions, and jurisdiction checks run inside `_update()`. A non-compliant transfer cannot exist. There is no off-chain gate to bypass or shut down.  
 
 **Zero-ETH execution engine:** Keeper ExecutionEngine holds no ETH. The attack surface is eliminated at the architecture level, not by access control.
 
