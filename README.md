@@ -2,170 +2,101 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;DeFi+Protocol+Architect;Security-First+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Smart+Contract+Engineer;DeFi+Protocol+Architect;Security-First+Builder" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://nex-tech-architect-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/nextech-amit)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:nextech.amit@gmail.com)
-[![Base Mainnet](https://img.shields.io/badge/Base_Mainnet-0f172a?style=for-the-badge&logo=ethereum&logoColor=38BDF8)](https://basescan.org/)
 
 <br/>
 
 </div>
 
-I build DeFi protocols end to end: threat model, Solidity architecture, Foundry test suite, on-chain deployment, and the frontend users actually touch.
+---
 
-Most of what I ship is not a single contract. It is a system of identity registries, execution engines, NAV oracles, and reward distributors that have to stay consistent with each other while someone is actively trying to break them.
+Smart contract engineer based in India, open to remote work.
 
-Deployed and source-verified on Base Mainnet. Zero critical or high severity findings across all deployments.
+I build the whole thing: security design, Solidity contracts, tests, mainnet deployment, and the frontend on top. Six protocols live on Base Mainnet right now. Zero critical or high severity findings across all of them.
 
-<br/>
+The work I find most interesting is the security layer. Not bolt-on guards, not patching after an incident. Designing the system so certain attacks are structurally impossible. If someone can drain the vault by borrowing tokens for one block, that is a governance design problem, not a missing require statement.
 
-## Stack
+---
+
+## What I work with
 
 ```solidity
-// Languages
-Solidity 0.8.24  |  Yul  |  EVM Inline Assembly  |  TypeScript  |  JavaScript
+// Writing contracts in
+Solidity 0.8.24, Yul, EVM Assembly, TypeScript, JavaScript
 
-// Security
-Foundry (Unit, Fuzz, Stateful Invariant)  |  Slither  |  Echidna  |  CEI  |  SafeERC20
+// Testing and auditing with
+Foundry (unit, fuzz, stateful invariant tests), Slither, Echidna
 
-// Standards
-ERC-20/721/1155  |  ERC-3643  |  ERC-4337  |  ERC-4626  |  ERC-5484  |  EIP-712  |  UUPS
+// Token standards I have shipped
+ERC-20, ERC-721, ERC-1155, ERC-4626 (vaults), ERC-3643 (compliance tokens),
+ERC-4337 (account abstraction), ERC-5484 (soulbound), EIP-712, UUPS proxies
 
-// Integrations
-Chainlink (Price Feeds, Automation, CCIP, VRF)  |  Aave V3  |  OpenZeppelin
+// Protocols and infrastructure
+Chainlink price feeds, automation, CCIP, VRF — Aave V3 — OpenZeppelin
 
-// Frontend
-Next.js 14/15  |  Wagmi v2  |  Viem  |  RainbowKit  |  TanStack Query v5  |  Tailwind
-
-// Networks
-Base Mainnet  |  Ethereum Sepolia  |  Polkadot Hub
+// Frontend stack
+Next.js 14/15, Wagmi v2, Viem, RainbowKit, TanStack Query v5, Tailwind CSS
 ```
 
-<br/>
+Deployed on Base Mainnet, Ethereum Sepolia, and Polkadot Hub.
 
-## What I Build
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## What I have built
 
-**🏦 RWA Tokenization**
-ERC-3643 compliance engines, KYC and OFAC enforcement inside the transfer hook itself. NAV oracles with autonomous circuit breakers. Merkle yield distribution that costs the same gas for ten holders or a million.
+**Compliance token system for real-world assets**
+Institutions need to issue regulated assets like treasury bills or bonds as tokens, but those tokens cannot legally land in the wrong wallet. KYC checks, sanction lists, investor accreditation tiers, and country restrictions all run inside the token transfer itself. There is no approval server to bypass or shut down. The rule is the contract. [[Live](https://nexus-rwa-protocol.vercel.app/)]
 
-**📈 Perpetuals DEX**
-Fully on-chain position lifecycle: open, update, close, liquidate. Cross-chain margin via Chainlink CCIP. ERC-4337 gasless trading with a custom paymaster bound to chain ID and contract address.
+**Decentralized keeper network**
+Any smart contract that needs time-sensitive work done (liquidations, yield compounding, reward epochs) can register as a job. A network of operators bonds ETH to participate and earns fees for executing jobs correctly. Bad execution gets slashed automatically. Three slashes and the operator is permanently banned, no admin required. [[Live](https://on-chain-automation-protocol.vercel.app/)]
 
-**🏛️ DAO Governance**
-48-hour timelock on every execution. Rage-quit lets outvoted members withdraw their proportional share before a hostile proposal executes. Flash-loan attacks closed via prior-block snapshot voting.
+**DeFi insurance protocol**
+Users deposit USDC to underwrite coverage. While that capital sits idle waiting for claims, it earns yield through Aave V3. Claims go through a 7-day voting window where token holders decide the outcome. The voting system cannot be gamed by borrowing tokens for a single block because votes are counted from the previous block. Each policy is an NFT with artwork generated entirely on-chain, no external servers. [[Live](https://sentinel-insurance-protocol.vercel.app/)]
 
-</td>
-<td width="50%" valign="top">
+**Perpetuals exchange with 50x leverage**
+Fully on-chain: pricing, execution, liquidations, settlement. Traders pay zero gas because a custom paymaster sponsors all transactions. Cross-chain margin works through Chainlink CCIP with per-trader nonce tracking to prevent replay attacks. Vault solvency is enforced as a mathematical invariant, not a runtime check. [[Live](https://nexus-protocol-os.vercel.app/)]
 
-**🔐 DeFi Vaults**
-ERC-4626 yield routing into Aave V3. Share-price accounting hardened against inflation attacks. Decimal normalization across 6, 8, and 18 decimal assets.
+**Attack-resistant DAO**
+Every proposal sits in a 48-hour timelock before execution. If a hostile proposal passes, minority members can exit and withdraw their proportional share of the treasury before the new rule takes effect. Flash-loan governance attacks are closed by design: borrowed tokens carry zero voting weight. Idle treasury routes into Aave V3 automatically. [[Live](https://sentinel-dao-brown.vercel.app/)]
 
-**⚙️ Keeper Networks**
-Permissionless ETH-bonded operators. Three slashes trigger autonomous permanent jailing. Every external call runs in its own try/catch so one bad job cannot block the batch.
+**Perpetuals engine on Polkadot**
+Same architecture as the Ethereum version, ported and deployed on Polkadot Hub for the Polkadot Solidity Hackathon 2026. [[Live](https://nexus-protocol-v2.vercel.app/)]
 
-**🪪 Account Abstraction**
-ERC-4337 smart accounts with session keys. Custom paymasters that sponsor gas while staying replay-proof across chains and contracts.
+---
 
-</td>
-</tr>
-</table>
+## A few things I think about when designing systems
 
-<br/>
+**Attacks should be structurally impossible, not just guarded against.**
+Sentinel DAO reads voting weight from the previous block. A flash loan that borrows and returns tokens in one transaction contributes zero votes. The attack vector does not exist, not because there is a check, but because the timing makes it meaningless.
 
-## Security Patterns I Enforce
+**The compliance layer belongs inside the token, not outside it.**
+An off-chain approval gate can be bypassed, shut down, or replaced. KYC, sanctions, and jurisdiction rules running inside `_update()` cannot. A non-compliant transfer simply cannot happen.
 
-**Vault solvency as an invariant**
-The perpetuals vault enforces one rule that cannot break: every unit of liquidity, locked collateral, and free trader collateral has to add up exactly to what the token contract reports. This is not an assertion checked at deployment. It is a stateful fuzz invariant that runs against hundreds of randomized deposit, trade, and liquidation sequences before anything ships.
+**Vault accounting should be an invariant, not an assumption.**
+The perpetuals vault runs a Foundry stateful fuzz suite that throws hundreds of randomized deposit, trade, and liquidation sequences at the accounting logic before anything ships. If the numbers ever stop adding up, the test fails and the code does not go out.
 
-**Flash-loan resistant governance**
-Sentinel DAO reads voting weight at `block.number - 1`. Tokens borrowed and returned in a single transaction carry zero votes. The attack is impossible by design, not by policy.
+**Automation that fails silently is worse than no automation.**
+The RWA oracle trips a circuit breaker if NAV drops more than 15% in 24 hours and requires a human to reset it. Automated systems should not quietly resume after a crash.
 
-**Compliance at the transfer layer**
-ERC-3643 identity, sanctions, and jurisdiction checks run inside `_update()`. A non-compliant transfer cannot exist. There is no off-chain gate to bypass or shut down.
+---
 
-**Gas griefing isolation**
-Every external job call in the Keeper Network is wrapped in try/catch. One malicious contract cannot revert the batch or drain keeper gas.
+## Open to
 
-**15% NAV circuit breaker**
-The RWA oracle halts autonomously if price drops more than 15% within any 24-hour window. Automated systems do not silently resume after a crash. A human has to reset it.
-
-**O(1) job queue**
-Keeper Network uses swap-and-pop removal. No array shifting. Gas cost stays flat regardless of queue depth.
-
-<br/>
-
-## Protocols
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**[Nexus RWA Protocol](https://nexus-rwa-protocol.vercel.app/)**
-Compliance-enforced RWA tokenization
-`ERC-3643` `Chainlink` `Merkle`
-🟢 Base Mainnet
-
-</td>
-<td align="center" width="33%">
-
-**[On-Chain Automation](https://on-chain-automation-protocol.vercel.app/)**
-Permissionless keeper network with slashing
-`ETH Bonding` `Fault-isolated`
-🟢 Base Mainnet
-
-</td>
-<td align="center" width="33%">
-
-**[Sentinel Insurance](https://sentinel-insurance-protocol.vercel.app/)**
-DeFi-native coverage with DAO adjudication
-`ERC-4626` `Aave V3` `On-chain SVG`
-🟢 Base Mainnet
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**[Nexus Perpetuals](https://nexus-protocol-os.vercel.app/)**
-50x leverage, gasless, cross-chain margin
-`ERC-4337` `Chainlink CCIP`
-🔵 Sepolia
-
-</td>
-<td align="center" width="33%">
-
-**[Sentinel DAO](https://sentinel-dao-brown.vercel.app/)**
-Attack-resistant treasury governance
-`Timelock` `Rage-quit` `Aave V3`
-🔵 Sepolia
-
-</td>
-<td align="center" width="33%">
-
-**[Nexus Polkadot Perps](https://nexus-protocol-v2.vercel.app/)**
-Perpetuals engine, Polkadot Hackathon 2026
-`Foundry` `CCIP`
-🟣 Polkadot Hub
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Open To
-
-Remote protocol engineering, smart contract security, or Web3 infrastructure roles.
+Remote protocol engineering, smart contract security review, or Web3 infrastructure roles.
 
 <div align="center">
+
+<br/>
+
+[Portfolio](https://nex-tech-architect-portfolio.vercel.app/) &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/nextech-amit) &nbsp;&nbsp; [nextech.amit@gmail.com](mailto:nextech.amit@gmail.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=80&section=footer" width="100%"/>
 
