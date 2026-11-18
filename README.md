@@ -66,7 +66,7 @@ Fully on-chain: pricing, execution, liquidations, settlement. Traders pay zero g
 Every proposal sits in a 48-hour timelock before execution. If a hostile proposal passes, minority members can exit and withdraw their proportional share of the treasury before the new rule takes effect. Flash-loan governance attacks are closed by design: borrowed tokens carry zero voting weight. Idle treasury routes into Aave V3 automatically. [[Live](https://sentinel-dao-brown.vercel.app/)] [[Code](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)]
 
 **Perpetuals engine on Polkadot**
-Same architecture as the Ethereum version, ported and deployed on Polkadot Hub for the Polkadot Solidity Hackathon 2026. [[Live](https://nexus-protocol-v2.vercel.app/)] [[Code](https://github.com/NexTechArchitect/nexus-polka-perps)]
+Same architecture as the Ethereum version, ported and deployed on Polkadot Hub for the Polkadot Solidity Hackathon 2026. [[Live](https://nexus-protocol-v2.vercel.app/)] [[Code](https://github.com/NexTechArchitect/nexus-protocol-v2)]
 
 ---
 
