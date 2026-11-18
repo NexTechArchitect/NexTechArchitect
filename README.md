@@ -51,22 +51,22 @@ Deployed on Base Mainnet, Ethereum Sepolia, and Polkadot Hub.
 ## What I have built
 
 **Compliance token system for real-world assets**
-Institutions need to issue regulated assets like treasury bills or bonds as tokens, but those tokens cannot legally land in the wrong wallet. KYC checks, sanction lists, investor accreditation tiers, and country restrictions all run inside the token transfer itself. There is no approval server to bypass or shut down. The rule is the contract. [[Live](https://nexus-rwa-protocol.vercel.app/)]
+Institutions need to issue regulated assets like treasury bills or bonds as tokens, but those tokens cannot legally land in the wrong wallet. KYC checks, sanction lists, investor accreditation tiers, and country restrictions all run inside the token transfer itself. There is no approval server to bypass or shut down. The rule is the contract. [[Live](https://nexus-rwa-protocol.vercel.app/)] [[Code](https://github.com/NexTechArchitect/Nexus-RWA-Protocol)]
 
 **Decentralized keeper network**
-Any smart contract that needs time-sensitive work done (liquidations, yield compounding, reward epochs) can register as a job. A network of operators bonds ETH to participate and earns fees for executing jobs correctly. Bad execution gets slashed automatically. Three slashes and the operator is permanently banned, no admin required. [[Live](https://on-chain-automation-protocol.vercel.app/)]
+Any smart contract that needs time-sensitive work done (liquidations, yield compounding, reward epochs) can register as a job. A network of operators bonds ETH to participate and earns fees for executing jobs correctly. Bad execution gets slashed automatically. Three slashes and the operator is permanently banned, no admin required. [[Live](https://on-chain-automation-protocol.vercel.app/)] [[Code](https://github.com/NexTechArchitect/OnChain-Automation-Protocol)]
 
 **DeFi insurance protocol**
-Users deposit USDC to underwrite coverage. While that capital sits idle waiting for claims, it earns yield through Aave V3. Claims go through a 7-day voting window where token holders decide the outcome. The voting system cannot be gamed by borrowing tokens for a single block because votes are counted from the previous block. Each policy is an NFT with artwork generated entirely on-chain, no external servers. [[Live](https://sentinel-insurance-protocol.vercel.app/)]
+Users deposit USDC to underwrite coverage. While that capital sits idle waiting for claims, it earns yield through Aave V3. Claims go through a 7-day voting window where token holders decide the outcome. The voting system cannot be gamed by borrowing tokens for a single block because votes are counted from the previous block. Each policy is an NFT with artwork generated entirely on-chain, no external servers. [[Live](https://sentinel-insurance-protocol.vercel.app/)] [[Code](https://github.com/NexTechArchitect/Sentinel-Insurance-Protocol)]
 
 **Perpetuals exchange with 50x leverage**
-Fully on-chain: pricing, execution, liquidations, settlement. Traders pay zero gas because a custom paymaster sponsors all transactions. Cross-chain margin works through Chainlink CCIP with per-trader nonce tracking to prevent replay attacks. Vault solvency is enforced as a mathematical invariant, not a runtime check. [[Live](https://nexus-protocol-os.vercel.app/)]
+Fully on-chain: pricing, execution, liquidations, settlement. Traders pay zero gas because a custom paymaster sponsors all transactions. Cross-chain margin works through Chainlink CCIP with per-trader nonce tracking to prevent replay attacks. Vault solvency is enforced as a mathematical invariant, not a runtime check. [[Live](https://nexus-protocol-os.vercel.app/)] [[Code](https://github.com/NexTechArchitect/Nexus-Protocol)]
 
 **Attack-resistant DAO**
-Every proposal sits in a 48-hour timelock before execution. If a hostile proposal passes, minority members can exit and withdraw their proportional share of the treasury before the new rule takes effect. Flash-loan governance attacks are closed by design: borrowed tokens carry zero voting weight. Idle treasury routes into Aave V3 automatically. [[Live](https://sentinel-dao-brown.vercel.app/)]
+Every proposal sits in a 48-hour timelock before execution. If a hostile proposal passes, minority members can exit and withdraw their proportional share of the treasury before the new rule takes effect. Flash-loan governance attacks are closed by design: borrowed tokens carry zero voting weight. Idle treasury routes into Aave V3 automatically. [[Live](https://sentinel-dao-brown.vercel.app/)] [[Code](https://github.com/NexTechArchitect/Web3-FullStack-Sentinal-DAO)]
 
 **Perpetuals engine on Polkadot**
-Same architecture as the Ethereum version, ported and deployed on Polkadot Hub for the Polkadot Solidity Hackathon 2026. [[Live](https://nexus-protocol-v2.vercel.app/)]
+Same architecture as the Ethereum version, ported and deployed on Polkadot Hub for the Polkadot Solidity Hackathon 2026. [[Live](https://nexus-protocol-v2.vercel.app/)] [[Code](https://github.com/NexTechArchitect/nexus-polka-perps)]
 
 ---
 
